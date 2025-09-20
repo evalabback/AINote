@@ -1,4 +1,0 @@
-# Gemini
-
-## Nano banana
-
