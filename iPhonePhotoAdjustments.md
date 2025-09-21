@@ -30,7 +30,7 @@
 
 8.美食调色参数
 
-![美食调色参数](https://github.com/evalabback/AINote/blob/main/images/iPhonephotoadjustments/3.jpg)
+![美食调色参数](https://github.com/evalabback/AINote/blob/main/images/iPhonephotoadjustments/8.jpg)
 
 
 
