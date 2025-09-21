@@ -4,16 +4,30 @@
 
 ###       Prompt
 
+*   [案例 4：创意广告 ](#prompt-4)
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 <a id="prompt-4"></a>
+## 案例 4：创意广告
+
+<img src="./images/bananaprompt/4.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+
+```
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+```
+
+<a id="prompt-3"></a>
 ## 案例 3：拉布拉多在公园画画
 
 <img src="./images/bananaprompt/3.png" width="300" alt="Awesome GPT-4o Image Prompts-拉布拉多在公园画画">
 
 **提示词：**
+
 ```
 创作一个逼真的户外场景，其中一位日本画家正在为拉布拉多画画。场景中，画家坐在画架前，而拉布拉多则坐在对面被描绘（不带任何卡通或动漫风格）。环境应充满生机,自然且阳光明媚——比如公园或热闹的户外场所。整体风格必须完全写实，唯独画家画架上的作品例外：那应该是拉布拉多的吉卜力风格动漫肖像，与周围的写实环境形成强烈对比。请确保画中人物是写实风格，画上的肖像才是动漫风格。
 ```
