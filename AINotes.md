@@ -4,7 +4,19 @@
 
 ###       Prompt
 
+*   [案例 2：四格漫画 (相对论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-2"></a>
+## 案例 2：四格漫画 (相对论)
+
+<img src="./images/the-theory-of-relativity.png" width="300" alt="Awesome GPT-4o Image Prompts-四格漫画 (相对论)">
+
+**提示词：**
+```
+make a colorful page of manga describing the theory of relativity. add some humor
+```
+
 <a id="prompt-1"></a>
 ## 案例 1：手绘风格的信息图卡片
 
