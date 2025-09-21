@@ -10,7 +10,7 @@
 <a id="prompt-2"></a>
 ## 案例 2：四格漫画 (相对论)
 
-<img src="./images/the-theory-of-relativity.png" width="300" alt="Awesome GPT-4o Image Prompts-四格漫画 (相对论)">
+<img src="./images/bananaprompt/2.png" width="300" alt="Awesome GPT-4o Image Prompts-四格漫画 (相对论)">
 
 **提示词：**
 ```
@@ -20,7 +20,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 <a id="prompt-1"></a>
 ## 案例 1：手绘风格的信息图卡片
 
-<img src="https://github.com/songguoxs/gpt4o-image-prompts/blob/master/images/hand-drawn-style-infographic-card.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘风格的信息图卡片">
+<img src="./images/bananaprompt/1.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘风格的信息图卡片">
 
 **提示词：**
 ```
