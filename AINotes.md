@@ -4,13 +4,33 @@
 
 ###       Prompt
 
+*   [案例 5：创意广告 ](#prompt-5)
 *   [案例 4：创意广告 ](#prompt-4)
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
+<a id="prompt-5"></a>
+`##### 案例 5：创意广告`
+
+<img src="./images/bananaprompt/5.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+
+```
+Use the uploaded product image exactly as it is — do not alter, redraw, or reinterpret any part of it. Follow the guidelines below to create a high-quality, cinematic product presentation:
+
+• Keep the product fully intact — all text, labels, proportions, packaging, and colors must remain exactly the same.
+• Use natural or cinematic lighting to enhance the product’s appeal.
+• Place the product on a realistic surface that matches its category (e.g. wooden kitchen table for bread, bathroom shelf for skincare, desk for tech gadgets).
+• Add complementary props if appropriate (e.g. toast and coffee for bread, leaves and water droplets for skincare) — but do not let them touch or cover the product.
+• Use a softly blurred or ambient background (e.g. kitchen, morning window light, minimal interior).
+• Include soft shadows and subtle reflections for a grounded, photo-realistic effect.
+• Final result should feel premium, natural, and visually appealing — with 100% fidelity to the uploaded product image.
+```
+
 <a id="prompt-4"></a>
-## 案例 4：创意广告
+`##### 案例 4：创意广告`
 
 <img src="./images/bananaprompt/4.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -22,7 +42,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 ```
 
 <a id="prompt-3"></a>
-## 案例 3：拉布拉多在公园画画
+#### 案例 3：拉布拉多在公园画画
 
 <img src="./images/bananaprompt/3.png" width="300" alt="Awesome GPT-4o Image Prompts-拉布拉多在公园画画">
 
@@ -33,7 +53,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 ```
 
 <a id="prompt-2"></a>
-## 案例 2：漫画拼图 (进化论)
+#### 案例 2：漫画拼图 (进化论)
 
 <img src="./images/bananaprompt/2.png" width="300" alt="Awesome GPT-4o Image Prompts-四格漫画 (相对论)">
 
@@ -43,7 +63,7 @@ make a colorful page of manga describing the Darwin’s theory of evolution. add
 ```
 
 <a id="prompt-1"></a>
-## 案例 1：手绘风格的信息图卡片
+#### 案例 1：手绘风格的信息图卡片
 
 <img src="./images/bananaprompt/1.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘风格的信息图卡片">
 
