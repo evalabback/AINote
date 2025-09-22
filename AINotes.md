@@ -4,14 +4,26 @@
 
 ###       Prompt
 
+*   [案例 6：创意广告 ](#prompt-6)
 *   [案例 5：创意广告 ](#prompt-5)
 *   [案例 4：创意广告 ](#prompt-4)
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
+<a id="prompt-6"></a>
+#### 案例 6：创意广告
+
+<img src="./images/bananaprompt/6.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+
+```
+A high-impact advertisement set against a clean, dark or high-contrast background. A [product] is centered, sharply lit and highly detailed. Around it, surreal, stylized visual [elements] illustrations explode outward (e.g., musicians, runners, curls, sunbursts), vibrant color palette, neon. bold uppercase ad copy at the top that reads [TEXT] and the brand logo at the bottom, modern Ad
+```
+
 <a id="prompt-5"></a>
-#### 案例 5：创意广告`
+#### 案例 5：创意广告
 
 <img src="./images/bananaprompt/5.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
