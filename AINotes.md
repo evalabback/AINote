@@ -4,6 +4,10 @@
 
 ###       Prompt
 
+*   [案例 19：破碎的真相 ](#prompt-19)
+*   [案例 18：清洁琴键的小人物 ](#prompt-18)
+*   [案例 17：复古锡玩具立体模型风格 ](#prompt-17)
+*   [案例 16：人物戏剧夸张风格 ](#prompt-16)
 *   [案例 15：云的艺术 ](#prompt-15)
 *   [案例 14：超写实拼图肖像 ](#prompt-14)
 *   [案例 13：面包形态 ](#prompt-13)
@@ -19,6 +23,83 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-19"></a>
+#### 案例 19：清洁琴键的小人物
+
+<img src="./images/bananaprompt/19.png" width="300" alt="Awesome GPT-4o Image Prompts-破碎的真相">
+
+**提示词：**
+
+```
+A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflects a completely different [SUBJECT 2]. Around them, small cracks spread through the air like fractures in invisible glass, warping the space itself.
+```
+
+<a id="prompt-18"></a>
+#### 案例 18：清洁琴键的小人物
+
+<img src="./images/bananaprompt/18.png" width="300" alt="Awesome GPT-4o Image Prompts-清洁琴键的小人物">
+
+**提示词：**
+
+```
+tilt-shift photo of a grand piano keyboard, side view from the left looking along the keys to the right, shallow depth of field, tiny human figures cleaning the piano keys with brushes, cloths, and buckets, whimsical and surreal scene, soft lighting, hyper-detailed, high realism
+```
+
+<a id="prompt-17"></a>
+#### 案例 17：复古锡玩具立体模型风格
+
+<img src="./images/bananaprompt/17.png" width="300" alt="Awesome GPT-4o Image Prompts-复古锡玩具立体模型风格">
+
+**提示词：**
+
+```
+transform it into part of a miniature mechanical scene from the 1940s or ’50s, featuring:
+
+➕Shiny enamel-painted metal characters and objects.
+➕Riveted details and visible joints.
+➕Illustrated cardboard backdrops with vintage charm.
+➕Wind-up toy-style settings with gears and wheels.
+```
+
+<a id="prompt-16"></a>
+#### 案例 16：人物戏剧夸张风格
+
+<img src="./images/bananaprompt/16.png" width="300" alt="Awesome GPT-4o Image Prompts-人物戏剧夸张风格">
+
+**提示词：**
+
+```
+A high-resolution vertical Pixar-style 3D character illustration.
+
+Main character:  
+Salvador Dalí — depicted as a tall, slim, and slightly exaggerated Pixar-style 3D character.  
+Wearing a classic blue shirt, yellow tie, high-waisted plaid trousers with suspenders, and leather shoes.  
+His iconic long upturned mustache, slick black hair, sharply arched eyebrows, and slightly eccentric posture.  
+Stands with chest out, one hand on hip, head tilted slightly back in his typical theatrical flair.
+
+Background:  
+Flat, clean yellow background with subtle surface texture.  
+Strong sunlight from top-left casts a distinct and enlarged shadow on the wall behind him.
+
+Key Concept – Shadow as spiritual projection:  
+The shadow cast behind him does **not** mirror his body shape.  
+Instead, it takes the form of one of his most iconic artworks —  
+a surreal melted clock with long dripping arms, inspired by “The Persistence of Memory”.
+
+The melted clock shadow is positioned diagonally, starting from his shoulder,  
+stretching wide and low across the yellow wall, surreal and fluid, yet unmistakably symbolic.
+
+This shadow is **Dalí’s legacy made visible** — a symbolic extension of his identity through time, dream, and visual distortion.
+
+Lighting & Rendering:  
+Pixar-like rendering with detailed but stylized textures.  
+Use subtle filmic grain, soft shadows, and warm color grading.  
+Subtle sparkles or light speckles inside the shadow to evoke dreamlike texture.
+
+Typography (top-left corner):  
+“Salvador Dalí” in minimalist black sans-serif font, “Dalí” bolded.
+```
 
 <a id="prompt-15"></a>
 #### 案例 15：云的艺术
