@@ -11,7 +11,7 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 <a id="prompt-5"></a>
-`##### 案例 5：创意广告`
+#### 案例 5：创意广告`
 
 <img src="./images/bananaprompt/5.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -30,7 +30,7 @@ Use the uploaded product image exactly as it is — do not alter, redraw, or rei
 ```
 
 <a id="prompt-4"></a>
-`##### 案例 4：创意广告`
+#### 案例 4：创意广告
 
 <img src="./images/bananaprompt/4.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
