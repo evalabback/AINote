@@ -4,6 +4,12 @@
 
 ###       Prompt
 
+*   [案例 15：云的艺术 ](#prompt-15)
+*   [案例 14：超写实拼图肖像 ](#prompt-14)
+*   [案例 13：面包形态 ](#prompt-13)
+*   [案例 12：狭窄走廊里奔跑 ](#prompt-12)
+*   [案例 11：水流身份 ](#prompt-11)
+*   [案例 10：按键删除周一 ](#prompt-10)
 *   [案例 9：产品变成纸玻璃 ](#prompt-9)
 *   [案例 8：变成一个花盆 ](#prompt-8)
 *   [案例 7：创意广告 ](#prompt-7)
@@ -13,6 +19,78 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-15"></a>
+#### 案例 15：云的艺术
+
+<img src="./images/bananaprompt/15.png" width="300" alt="Awesome GPT-4o Image Prompts-云的艺术">
+
+**提示词：**
+
+```
+A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
+```
+
+<a id="prompt-14"></a>
+#### 案例 14：超写实拼图肖像
+
+<img src="./images/bananaprompt/14.png" width="300" alt="Awesome GPT-4o Image Prompts-超写实拼图肖像">
+
+**提示词：**
+
+```
+高分辨率的摄影棚人像，一位惊艳年轻模特「安妮海瑟薇」为主角。她拥有一头顺直的黑发，背景为白色，无任何可辨识的元素。她的脸略微侧转，但目光直视镜头，目光强烈而专注，毫无动摇。
+
+她整张脸由拼图块组成——每一块都清晰可见，边缘整齐，具备细腻的立体感。她轻柔地用手指捏着一块刚从脸颊取下的拼图块，露出其下方一个空洞的黑色虚空。
+
+光线集中且具方向性，几乎不产生阴影，但准确地勾勒出皮肤的轮廓与拼图结构的立体感。整体氛围超现实、精准且高度写实。
+
+顶部有像时尚杂志一样的标题“VOGUE”（在人物后面）
+```
+
+<a id="prompt-13"></a>
+#### 案例 13：面包形态
+
+<img src="./images/bananaprompt/13.png" width="300" alt="Awesome GPT-4o Image Prompts-面包形态">
+
+**提示词：**
+
+```
+A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft
+```
+
+<a id="prompt-12"></a>
+#### 案例 12：狭窄走廊里奔跑
+
+<img src="./images/bananaprompt/12.png" width="300" alt="Awesome GPT-4o Image Prompts-狭窄走廊里奔跑">
+
+**提示词：**
+
+```
+A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.
+```
+
+<a id="prompt-11"></a>
+#### 案例 11：水流身份
+
+<img src="./images/bananaprompt/11.png" width="300" alt="Awesome GPT-4o Image Prompts-水流身份">
+
+**提示词：**
+
+```
+An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted entirely from flowing crystal-clear water. The liquid forms every curve and edge of the brand’s logo with fluid precision, highlighted by vibrant neon accents inspired by [Brand Name]’s color identity. The background is pitch black, creating sharp contrast and drama. The lighting is dynamic, revealing sharp reflections, glowing edges, and the motion of water as it ripples and splashes. Droplets, shine, and soft glass-like textures give the logo a surreal, luxurious, and futuristic appearance — poster-quality, 1:1 format.
+```
+
+<a id="prompt-10"></a>
+#### 案例 10：按键删除周一
+
+<img src="./images/bananaprompt/10.png" width="300" alt="Awesome GPT-4o Image Prompts-按键删除周一">
+
+**提示词：**
+
+```
+Detailed photographic image of a miniature person in bed feeling cranky under an opened 'Delete Monday' keyboard keycap, using the inside of the keycap as a mini bedroom complete with the usual bedroom stuff
+```
 
 <a id="prompt-9"></a>
 #### 案例 9：产品变成纸玻璃
