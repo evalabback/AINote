@@ -4,12 +4,54 @@
 
 ###       Prompt
 
+*   [案例 9：产品变成纸玻璃 ](#prompt-9)
+*   [案例 8：变成一个花盆 ](#prompt-8)
+*   [案例 7：创意广告 ](#prompt-7)
 *   [案例 6：创意广告 ](#prompt-6)
 *   [案例 5：创意广告 ](#prompt-5)
 *   [案例 4：创意广告 ](#prompt-4)
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-9"></a>
+#### 案例 9：产品变成纸玻璃
+
+<img src="./images/bananaprompt/9.png" width="300" alt="Awesome GPT-4o Image Prompts-产品变成纸玻璃">
+
+**提示词：**
+
+```
+[Product by Brand] in a surreal, minimalist paper-glass style advertisement.
+The product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.
+Soft cinematic lighting creates gentle contrast and ambient shadows.
+A single brand color subtly interacts with the scene through glow, mist, liquid, or foam.
+Include a bold, elegant 4-word slogan near the product.
+The brand logo appears subtly etched, glowing, or printed in a refined manner.
+Vertical or square aspect ratio, ultra-detailed, poster-quality, visually soothing and conceptually refined.
+```
+
+<a id="prompt-8"></a>
+#### 案例 8：变成一个花盆
+
+<img src="./images/bananaprompt/8.png" width="300" alt="Awesome GPT-4o Image Prompts-变成一个花盆">
+
+**提示词：**
+
+```
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
+```
+
+<a id="prompt-7"></a>
+#### 案例 7：创意广告
+
+<img src="./images/bananaprompt/7.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+
+```
+Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosphere is rich in texture, cinematic lighting, and surreal detail. A dreamlike vision of brand identity reimagined as a sci-fi utopia.
+```
 
 <a id="prompt-6"></a>
 #### 案例 6：创意广告
