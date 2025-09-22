@@ -25,7 +25,7 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 <a id="prompt-19"></a>
-#### 案例 19：清洁琴键的小人物
+#### 案例 19：破碎的真相
 
 <img src="./images/bananaprompt/19.png" width="300" alt="Awesome GPT-4o Image Prompts-破碎的真相">
 
