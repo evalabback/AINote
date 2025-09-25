@@ -4,6 +4,9 @@
 
 ###       Prompt
 
+*   [案例 21：可爱微缩场景 ](#prompt-22)
+*   [案例 21：洞壁画 ](#prompt-21)
+*   [案例 20：选择你的阵营 ](#prompt-20)
 *   [案例 19：破碎的真相 ](#prompt-19)
 *   [案例 18：清洁琴键的小人物 ](#prompt-18)
 *   [案例 17：复古锡玩具立体模型风格 ](#prompt-17)
@@ -23,6 +26,95 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-22"></a>
+#### 案例 22：可爱的微缩场景
+
+<img src="./images/bananaprompt/22.png" width="300" alt="Awesome GPT-4o Image Prompts-可爱的微缩场景">
+
+**提示词：**
+
+```
+{
+    "style": "miniature handcrafted diorama",
+    "material": "tree branches, cardboard, clay, moss, dried flowers, paper",
+    "surface_texture": "organic, rough and varied (wood grain, soft moss, paper texture)",
+    "lighting": {
+        "type": "soft ambient natural light",
+        "intensity": "low to moderate",
+        "direction": "diffused overhead",
+        "accent_colors": [
+            "forest green",
+            "earth brown",
+            "soft beige",
+            "muted pink"
+        ],
+        "reflections": false,
+        "refractions": false,
+        "dispersion_effects": false,
+        "bloom": false
+    },
+    "color_scheme": {
+        "primary": "natural greens and browns",
+        "secondary": "soft neutral tones (cardboard, clay, paper)",
+        "highlights": "light falling on the open book and cat’s glasses",
+        "rim_light": "subtle natural edge light from the forest opening"
+    },
+    "background": {
+        "color": "natural moss green",
+        "vignette": false,
+        "texture": "moss and dried floral structure"
+    },
+    "post_processing": {
+        "chromatic_aberration": false,
+        "glow": false,
+        "high_contrast": false,
+        "sharp_details": true,
+        "film_grain": false
+    },
+    "form_composition": {
+        "scene_elements": [
+            "a small girl sitting on a balcony holding an open miniature book",
+            "a cat with glasses observing the book's illustrations",
+            "a treehouse made from twigs, cardboard, and clay",
+            "balcony and surrounding forest made of moss and dried flowers"
+        ],
+        "scale": "miniature",
+        "theme": "childlike wonder and storytelling in a handcrafted world",
+        "visual_metaphor": [
+            "curiosity",
+            "quiet companionship",
+            "imagination in nature"
+        ]
+    },
+    "metadata": {
+        "artist": "-Zho-",
+        "series": "ZH4O"
+    }
+}
+```
+
+<a id="prompt-21"></a>
+#### 案例 21：洞壁画
+
+<img src="./images/bananaprompt/21.png" width="300" alt="Awesome GPT-4o Image Prompts-洞壁画">
+
+**提示词：**
+
+```
+A cave painting of a [subject], rendered with primitive ochres and charcoal lines on a rough stone wall. Smudged handprints, crude geometry, and flickering torchlight add a primal, ancient mood.
+```
+
+<a id="prompt-20"></a>
+#### 案例 20：选择你的阵营
+
+<img src="./images/bananaprompt/20.png" width="300" alt="Awesome GPT-4o Image Prompts-选择你的阵营">
+
+**提示词：**
+
+```
+A dramatic cinematic scene featuring two rival products placed side by side in a custom-designed environment that visually reflects their identities. The composition should include high contrast lighting, atmospheric effects like mist, fog, or neon glow, and hyper-detailed textures. Incorporate a powerful 3D slogan below or behind the products in bold stylized typography that fits the scene’s mood. The products must reflect the essence of [Brand A] and [Brand B] through color, lighting, and placement. Ultra-realistic, moody tones, 1:1 square format, with sharp depth of field and high resolution.
+```
 
 <a id="prompt-19"></a>
 #### 案例 19：破碎的真相
