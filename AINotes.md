@@ -4,6 +4,10 @@
 
 ###       Prompt
 
+*   [案例 27：终极跨界 ](#prompt-27)
+*   [案例 26：不同情绪状态的思想泡泡 ](#prompt-26)
+*   [案例 25：可爱干净的底座立体模型 ](#prompt-25)
+*   [案例 24：景观洞穴入口的形状 ](#prompt-24)
 *   [案例 23：透明容器里有一个微型的3D世界 ](#prompt-23)
 *   [案例 22：可爱微缩场景 ](#prompt-22)
 *   [案例 21：洞壁画 ](#prompt-21)
@@ -27,6 +31,50 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-27"></a>
+#### 案例 27：终极跨界
+
+<img src="./images/bananaprompt/27.png" width="300" alt="Awesome GPT-4o Image Prompts-终极跨界">
+
+**提示词：**
+
+```
+Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.
+```
+
+<a id="prompt-26"></a>
+#### 案例 26：不同情绪状态的思想泡泡
+
+<img src="./images/bananaprompt/26.png" width="300" alt="Awesome GPT-4o Image Prompts-不同情绪状态的思想泡泡">
+
+**提示词：**
+
+```
+A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transparent thought bubbles. Each bubble contains a fragment of their face from different emotional states — smiling, crying, screaming — forming a psychological self-portrait suspended in mid-air.
+```
+
+<a id="prompt-25"></a>
+#### 案例 25：可爱干净的底座立体模型
+
+<img src="./images/bananaprompt/25.png" width="300" alt="Awesome GPT-4o Image Prompts-可爱干净的底座立体模型">
+
+**提示词：**
+
+```
+Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Character B], captured in a [scene/action], inside a [thematic display case shape] with [material]. The background features [visual effects: debris, aura, lightning, scenery], dynamic pose. The title "[custom phrase]" is embossed at the top in [font/style], matching the tone. Lighting is [studio, cinematic, ambient], color palette of [main colors]. Designed in a collectible, stylized, viral-friendly aesthetic.
+```
+
+<a id="prompt-24"></a>
+#### 案例 24：景观洞穴入口的形状
+
+<img src="./images/bananaprompt/24.png" width="300" alt="Awesome GPT-4o Image Prompts-景观洞穴入口的形状">
+
+**提示词：**
+
+```
+Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
+```
 
 <a id="prompt-23"></a>
 #### 案例 23：透明容器里有一个微型的3D世界
