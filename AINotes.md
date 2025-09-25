@@ -4,7 +4,8 @@
 
 ###       Prompt
 
-*   [案例 21：可爱微缩场景 ](#prompt-22)
+*   [案例 23：透明容器里有一个微型的3D世界 ](#prompt-23)
+*   [案例 22：可爱微缩场景 ](#prompt-22)
 *   [案例 21：洞壁画 ](#prompt-21)
 *   [案例 20：选择你的阵营 ](#prompt-20)
 *   [案例 19：破碎的真相 ](#prompt-19)
@@ -26,6 +27,22 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-23"></a>
+#### 案例 23：透明容器里有一个微型的3D世界
+
+<img src="./images/bananaprompt/23.png" width="300" alt="Awesome GPT-4o Image Prompts-透明容器里有一个微型的3D世界">
+
+**提示词：**
+
+```
+A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).
+```
+**示例：**
+
+```
+A giant glossy Water dropletwith a miniature 3D diorama inside it, depicting a Harvesting scene, studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone hyper-realistic.
+```
 
 <a id="prompt-22"></a>
 #### 案例 22：可爱的微缩场景
