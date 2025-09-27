@@ -4,6 +4,14 @@
 
 ###       Prompt
 
+*   [案例 35：符号冲突 ](#prompt-35)
+*   [案例 34：磨砂模糊剪影 ](#prompt-34)
+*   [案例 33：文艺复兴时期的解刨学研究 ](#prompt-33)
+*   [案例 32：品牌产品数字广告 ](#prompt-32)
+*   [案例 31：重点线条勾勒 ](#prompt-31)
+*   [案例 30：3D超现实场景模型 ](#prompt-30)
+*   [案例 29：标志液化 ](#prompt-29)
+*   [案例 28：超级动物英雄 ](#prompt-28)
 *   [案例 27：终极跨界 ](#prompt-27)
 *   [案例 26：不同情绪状态的思想泡泡 ](#prompt-26)
 *   [案例 25：可爱干净的底座立体模型 ](#prompt-25)
@@ -31,6 +39,148 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-35"></a>
+#### 案例 35：符号冲突
+
+<img src="./images/bananaprompt/35.png" width="300" alt="Awesome GPT-4o Image Prompts-符号冲突">
+
+**提示词：**
+
+```
+A surreal yet hyper-realistic image in levitation photography style, where elements of [subject] float chaotically and randomly above an outstretched hand, interwoven with symbolic elements that directly oppose it.
+
+The background forms dynamically to visually embody the symbolism of the subject and its opposite, through blurred or abstract details that reflect either tension or harmony between the two—like a mirror inside a dream.
+
+Each element floats at a unique angle and varying distance.
+
+Background: Shifts according to the subject and its opposite
+
+Lighting: Soft cinematic with dreamy shadows
+
+Style: Hyper-realistic + Levitation Photography + Fantasy
+
+Aspect Ratio: 1:1
+```
+**中文提示词：**
+```
+悬浮摄影风格的超现实而超现实的图像，其中 [主体] 的元素混乱而随机地漂浮在伸出的手上方，与直接对立的象征性元素交织在一起。
+
+背景动态形成，通过模糊或抽象的细节在视觉上体现主题及其对立面的象征意义，这些细节反映了两者之间的张力或和谐——就像梦中的镜子。
+
+每个元素都以独特的角度和不同的距离漂浮。
+
+背景：根据主体及其对立面而变化
+
+照明：柔和的电影感，带有梦幻般的阴影
+
+风格：超写实 + 悬浮摄影 + 奇幻
+
+长宽比：1：1
+```
+
+<a id="prompt-34"></a>
+#### 案例 34：磨砂模糊剪影
+
+<img src="./images/bananaprompt/34.png" width="300" alt="Awesome GPT-4o Image Prompts-磨砂模糊剪影">
+
+**提示词：**
+
+```
+A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere
+```
+**中文提示词：**
+```
+一张黑白照片显示了磨砂或半透明表面后面 [SUBJECT] 的模糊剪影。[PART] 轮廓分明，压在表面，与朦胧、模糊的人物的其余部分形成鲜明对比。背景是灰色调的柔和渐变，增强了神秘和艺术的氛围
+```
+
+<a id="prompt-33"></a>
+#### 案例 33：文艺复兴时期的解刨学研究
+
+<img src="./images/bananaprompt/33.png" width="300" alt="Awesome GPT-4o Image Prompts-文艺复兴时期的解刨学研究">
+
+**提示词：**
+
+```
+A Renaissance anatomical study of a [subject], meticulously illustrated in fine graphite and ink cross-hatching, with transparent tissue overlays revealing skeletal and muscular systems. Labeled in elegant Latin calligraphy and presented on aged parchment, the composition exudes scholarly precision and classical beauty.
+```
+**中文提示词：**
+```
+文艺复兴时期对 [主题]的解剖学研究，用精细的石墨和墨水交叉影线精心说明，透明的组织覆盖层露出骨骼和肌肉系统。该作品以优雅的拉丁书法标记，并呈现在古老的羊皮纸上，散发着学术的精确和古典之美。
+```
+
+<a id="prompt-32"></a>
+#### 案例 32：品牌产品数字广告
+
+<img src="./images/bananaprompt/32.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌产品数字广告">
+
+**提示词：**
+
+```
+A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi can bursting open at its center, sending a refreshing splash of carbonated cola into the air, with effervescent bubbles and ice cubes flying outward. The can’s metallic surface is rendered with sharp, photorealistic textures, complete with condensation droplets, light reflections, and subtle scratches. Surrounding the scene are cold, translucent ice shards and a twist of lemon zest caught mid-motion, adding a vibrant contrast. The background features a deep electric blue gradient with cinematic volumetric lighting and soft lens flares. Green mint leaves and misty vapors add a refreshing, natural accent. The entire scene is rendered in 4K UHD using advanced global illumination, HDR lighting, and realistic shadows. The composition evokes premium beverage advertising with a dramatic tone, created using tools like Unreal Engine + Octane Render for maximum visual impact.
+```
+**中文提示词：**
+```
+一个超现实的、超详细的 3D 数字广告，展示百事罐在中心爆裂，喷出清凉的碳酸可乐，气泡和冰块飞溅。罐子的金属表面具有锐利的、写实的纹理，包括冷凝水滴、光线反射和细微的划痕。场景周围是冷的透明冰片和柠檬皮在空中飞舞，增添了鲜明的对比。背景是深电光渐变，带有电影级体积照明和柔和的镜头光晕。绿色薄荷叶和雾气增添了清凉的自然点缀。整个场景使用高级全局光照、HDR 照明和真实的阴影在 4K UHD 下渲染。构图以高端饮料广告的戏剧性基调呈现，使用 Unreal Engine + Octane Render 等工具以达到最大的视觉冲击力。
+```
+
+<a id="prompt-31"></a>
+#### 案例 31：重点线条勾勒
+
+<img src="./images/bananaprompt/31.png" width="300" alt="Awesome GPT-4o Image Prompts-重点线条勾勒">
+
+**提示词：**
+
+```
+A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
+```
+
+<a id="prompt-30"></a>
+#### 案例 30：3D超现实场景模型
+
+<img src="./images/bananaprompt/30.png" width="300" alt="Awesome GPT-4o Image Prompts-3D超现实场景模型">
+
+**提示词：**
+
+```
+3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a curved staircase with an arched doorway at the end with a view to a tiny glowing moon, framed by lush climbing vines, setting over a round base made out of moss and tiny bioluminescent mushrooms, ethereal lighting, staging aesthetics, dark plain background --ar 4:5 --c 6 --s 100
+```
+
+```
+3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a staircase with a lush tree beside it, a two-story building in the background, setting over a round base made out of turquoise water and sand strip, warm lighting, staging aesthetics, plain background --c 6 --v 7.0 --ar 4:5
+```
+
+<a id="prompt-29"></a>
+#### 案例 29：标志液化
+
+<img src="./images/bananaprompt/29.png" width="300" alt="Awesome GPT-4o Image Prompts-标志液化">
+
+**提示词：**
+
+```
+Create a photograph of a [BRAND] logo formed from four vibrant paint splashes: red, blue, green, and yellow, captured mid-motion. Each color flows dynamically across different parts of the logo, as if sculpted from liquid paint. Droplets are suspended in the air around it, enhancing the illusion of movement. Set against a dark background with soft, vivid lighting that accentuates the glossy texture and fluid motion
+
+Use appropriate colors for the logos.
+```
+
+<a id="prompt-28"></a>
+#### 案例 28：超级动物英雄
+
+<img src="./images/bananaprompt/28.png" width="300" alt="Awesome GPT-4o Image Prompts-超级动物英雄">
+
+**提示词：**
+
+```
+A hyper-realistic square 1:1 portrait of a [YOUR ANIMAL] standing in a heroic pose, facing slightly left. The animal wears a textured dark gray superhero suit, form-fitting and matte, with visible fabric grain and subtle seams.
+
+On its chest, inside a golden metallic Superman-style diamond emblem, is a fabric-embroidered version of the [COUNTRY] national flag (realistic stitching, slightly raised).
+
+Draped over the animal’s shoulder is a flowing cape designed from the [COUNTRY] flag, with rich fabric folds and natural weight.
+
+Behind the subject, use a realistic fabric backdrop displaying the full [COUNTRY] flag, slightly out of focus to add depth, with soft shadows to enhance realism.
+
+Lighting should be warm and directional (studio-style), emphasizing the animal’s fur texture, suit material, and the contours of a subtly muscular chest. The overall tone is dramatic and cinematic, with a warm color grading and no excessive contrast. The head must be fully visible — no cropping.
+```
 
 <a id="prompt-27"></a>
 #### 案例 27：终极跨界
