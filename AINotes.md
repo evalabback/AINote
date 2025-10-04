@@ -4,6 +4,8 @@
 
 ###       Prompt
 
+*   [案例 37：幽灵形态 ](#prompt-37)
+*   [案例 36：创建超现实不可能的图像 ](#prompt-36)
 *   [案例 35：符号冲突 ](#prompt-35)
 *   [案例 34：磨砂模糊剪影 ](#prompt-34)
 *   [案例 33：文艺复兴时期的解刨学研究 ](#prompt-33)
@@ -39,6 +41,36 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-37"></a>
+#### 案例 37：幽灵形态
+
+<img src="./images/bananaprompt/37.png" width="300" alt="Awesome GPT-4o Image Prompts-幽灵形态">
+
+**提示词：**
+
+```
+A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-rigid transparent material that drapes and folds like sheer plastic or molten glass. The object is fully recognizable in shape, yet ghostly and fluid, as if sculpted from air and frozen in motion. Set in a moody, industrial interior with aged concrete walls and diffused daylight from metal-barred windows. The lighting gently highlights the reflections, edges, and flowing curves of the transparent form. Dreamlike, minimalist, surreal design aesthetic.
+```
+**中文提示词：**
+```
+一张 [SUBJECT] 的超写实照片，完全由单一的、半刚性的透明材料制成，像纯粹的塑料或熔融玻璃一样悬垂和折叠。这个物体的形状是完全可识别的，但又幽灵般流动，仿佛从空气中雕刻出来，在运动中冻结。坐落在喜怒无常的工业室内，拥有老化的混凝土墙和从金属栅栏窗户射出的日光。灯光柔和地突出了透明形式的反射、边缘和流动曲线。梦幻般的、极简主义的、超现实主义的设计美学。
+```
+
+<a id="prompt-36"></a>
+#### 案例 36：创建超现实不可能的图像
+
+<img src="./images/bananaprompt/36.png" width="300" alt="Awesome GPT-4o Image Prompts-创建超现实不可能的图像">
+
+**提示词：**
+
+```
+Create a surreal split-scene where the left half is an underwater version of a [SCENE], filled with marine life (fish, sharks, octopus, coral, bubbles), and the right half is the regular dry version of the same [SCENE] continuing naturally. Separate the two halves with a vertical wall of water held by a magical force, as if the ocean is cut in half. The scene should align across both sides, maintaining realism while showcasing the impossible scenario. Emphasize lighting and reflection differences between water and air environments.
+```
+**中文提示词：**
+```
+创建一个超现实的分割场景，其中左半部分是 [SCENE] 的水下版本，充满了海洋生物（鱼、鲨鱼、章鱼、珊瑚、气泡），右半部分是同一 [SCENE] 的常规干燥版本自然延续。用一道由神奇力量支撑的垂直水墙将两半分开，仿佛海洋被切成两半。场景应在两侧对齐，在展示不可能的场景的同时保持真实感。强调水和空气环境之间的光照和反射差异。
+```
 
 <a id="prompt-35"></a>
 #### 案例 35：符号冲突
