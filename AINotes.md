@@ -4,6 +4,10 @@
 
 ###       Prompt
 
+*   [案例 41：乙烯基玩具 ](#prompt-41)
+*   [案例 40：怀旧午后阳光 ](#prompt-40)
+*   [案例 39：监控级别的时尚洞察力 ](#prompt-39)
+*   [案例 38：透视一切 ](#prompt-38)
 *   [案例 37：幽灵形态 ](#prompt-37)
 *   [案例 36：创建超现实不可能的图像 ](#prompt-36)
 *   [案例 35：符号冲突 ](#prompt-35)
@@ -41,6 +45,68 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-41"></a>
+#### 案例 41：乙烯基玩具
+
+<img src="./images/bananaprompt/41.png" width="300" alt="Awesome GPT-4o Image Prompts-乙烯基玩具">
+
+**提示词：**
+
+```
+A comic-style caricature illustration of [subject], with an oversized head and expressive eyes, rendered in a hyper-realistic vinyl toy aesthetic. The character features exaggerated proportions, glossy textures, and playful details, blending caricature art with collectible figure charm.
+```
+**中文提示词：**
+```
+[主题]的漫画风格漫画插图，具有超大的头部和富有表现力的眼睛，以超逼真的乙烯基玩具美学呈现。该角色具有夸张的比例、光滑的纹理和俏皮的细节，将漫画艺术与收藏人物魅力融为一体。
+```
+
+<a id="prompt-40"></a>
+#### 案例 40：怀旧午后阳光
+
+<img src="./images/bananaprompt/40.png" width="300" alt="Awesome GPT-4o Image Prompts-怀旧午后阳光">
+
+**提示词：**
+
+```
+a pillow fort in the backyard, shaded by a big old tree. Sunlight filters through the leaves, and a young boy and his golden retriever naps beside a tray of lemonade and cookies. Wind chimes tinkle gently in the breeze. Warm afternoon light, playful and nostalgic, children's book illustrated feeling
+```
+**中文提示词：**
+```
+后院的一座枕头堡，被一棵大老树遮蔽。阳光透过树叶洒进来，一个小男孩和他的金毛猎犬在一盘柠檬水和饼干旁边打盹。风铃在微风中轻轻地叮叮当当。温暖的午后阳光，俏皮又怀旧，童书图画情怀
+```
+
+<a id="prompt-39"></a>
+#### 案例 39：监控级别的时尚洞察力
+
+<img src="./images/bananaprompt/39.png" width="300" alt="Awesome GPT-4o Image Prompts-监控级别的时尚洞察力">
+
+**提示词：**
+
+```
+Create image with 1:1 ratio A cctv footage, 
+A closed up view of focus woman carrying  [brand] [product] on street, a square zoomed window on the product, sci fi analyzing overlay UI with infos like brand name, date, time, location name, in brand color monospaced font, product name, width, height, weight, etc, vhs effect, glitch effect, film grainy
+```
+**中文提示词：**
+```
+创建比例为 1：1 的图像闭路电视素材，
+焦点女性在街上抬着 [品牌] [产品] 的特写视图，产品上的方形缩放窗口，科幻分析叠加 UI，其中包含品牌名称、日期、时间、位置名称、品牌颜色等宽字体、产品名称、宽度、高度、粗细等信息、vhs 效果、毛刺效果、胶片颗粒感
+```
+
+<a id="prompt-38"></a>
+#### 案例 38：透视一切
+
+<img src="./images/bananaprompt/38.png" width="300" alt="Awesome GPT-4o Image Prompts-透视一切">
+
+**提示词：**
+
+```
+a fully transparent [product] made of ultra-clear iridescent glass, showing all internal components in photorealistic detail. The outer shell is glossy, refracts subtle rainbow colors, and reveals the product’s structure and mechanics. Scene lit with high-Kelvin studio lighting (~7000K) on a neutral background. The product maintains its real proportions, materials, and branding.
+```
+**中文提示词：**
+```
+由超透明虹彩玻璃制成的完全透明 [产品]，以逼真的细节展示所有内部组件。外壳有光泽，折射出微妙的彩虹色，并揭示产品的结构和机械。在中性背景上使用高开尔文工作室照明 （~7000K） 照亮的场景。该产品保持其真实的比例、材料和品牌。
+```
 
 <a id="prompt-37"></a>
 #### 案例 37：幽灵形态
