@@ -4,6 +4,11 @@
 
 ###       Prompt
 
+*   [案例 46：生成电影氛围图 ](#prompt-46)
+*   [案例 45：霓虹灯品牌重新构想 ](#prompt-45)
+*   [案例 44：微型透明胶囊 ](#prompt-44)
+*   [案例 43：半透明玻璃物品ASMR ](#prompt-43)
+*   [案例 42：霓虹灯线框 ](#prompt-42)
 *   [案例 41：乙烯基玩具 ](#prompt-41)
 *   [案例 40：怀旧午后阳光 ](#prompt-40)
 *   [案例 39：监控级别的时尚洞察力 ](#prompt-39)
@@ -45,6 +50,83 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-46"></a>
+#### 案例 46：生成电影氛围图
+
+<img src="./images/bananaprompt/46.png" width="300" alt="Awesome GPT-4o Image Prompts-生成电影氛围图">
+
+**提示词：**
+
+```
+Cinematic still, A [ description of the character or action scene], with a [ background/environment], a dynamic angle, a [light effect or lighting condition], motion blur, high-resolution photography, a cinematic scene, cinematic lighting, and high contrast.
+```
+**中文提示词：**
+```
+电影静止图像、具有 [ 背景/环境] 、动态角度、[光效或照明条件]、运动模糊、高分辨率摄影、电影场景、电影照明和高对比度。
+```
+
+<a id="prompt-45"></a>
+#### 案例 45：霓虹灯品牌重新构想
+
+<img src="./images/bananaprompt/45.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹灯品牌重新构想">
+
+**提示词：**
+
+```
+Create a cinematic advertisement for “[PRODUCT NAME]” — use bioluminescent neon lighting that matches the brand’s visual identity — place the product at the center of the scene with surreal, minimalistic composition — automatically adapt the environment to reflect the product’s nature (e.g. tech, fragrance, luxury, automotive, beauty) — integrate the brand’s actual logo in high fidelity — generate a short, powerful 3-word tagline that fits the brand’s tone — long exposure lighting effects — dramatic shadows — ultra-sharp focus — dark or ambient background — aspect ratio 2:3 or 1:1 — ultra-HD resolution
+```
+**中文提示词：**
+```
+为“[产品名称]”创建电影广告 — 使用与品牌视觉形象相匹配的生物发光霓虹灯 — 以超现实、简约的构图将产品置于场景中心——自动调整环境以反映产品的性质（例如科技、香水、奢侈品、汽车、美容） — 以高保真度集成品牌的实际徽标 — 生成一个简短的、 符合品牌基调的强大 3 字标语 — 长时间曝光、灯光效果 — 戏剧性的阴影 — 超清晰焦点 — 黑暗或环境背景 — 纵横比 2：3 或 1：1 — 超高清分辨率
+```
+
+<a id="prompt-44"></a>
+#### 案例 44：微型透明胶囊
+
+<img src="./images/bananaprompt/44.png" width="300" alt="Awesome GPT-4o Image Prompts-微型透明胶囊">
+
+**提示词：**
+
+```
+Close-up, A hand holding a transparent capsule, inside it is a miniature model of [character name], wearing [their iconic outfit and accessories]. The character is posed in a [specific, expressive or dynamic pose], interacting with the inner surface of the capsule, as if they are frozen or confined inside. Hyper-realistic, cinematic, studio lighting setup, photographed with a macro lens.
+```
+**中文提示词：**
+```
+特写，一只手拿着一个透明的胶囊，里面是一个 [角色名称] 的微型模型，穿着 [他们的标志性服装和配饰]。角色以 [特定、富有表现力或动态的姿势] 摆姿势，与胶囊的内表面互动，就好像他们被冻结或限制在里面一样。超逼真、电影般的工作室照明设置，使用微距镜头拍摄。
+```
+
+<a id="prompt-43"></a>
+#### 案例 43：半透明玻璃物品ASMR
+
+**说明：在几秒钟内使用 GPT-4o 将任何东西重新设计成半透明玻璃，然后使用这些图像创建 ASMR 视频**
+
+<img src="./images/bananaprompt/43.png" width="300" alt="Awesome GPT-4o Image Prompts-半透明玻璃物品ASMR">
+
+**提示词：**
+
+```
+Hyper-realistic [fruit name] made of translucent glass, smooth, rounded surface with fine air bubbles inside, placed on a clean surface, sharp lighting with strong reflections and highlights, minimal background, photorealistic, glossy texture, 3D render style, crystal-like appearance, soft shadows, macro photography
+```
+**中文提示词：**
+```
+由半透明玻璃制成的超写实 [水果名称]，光滑、圆润的表面，内部有细小的气泡，放置在干净的表面上，具有强烈反射和高光的清晰照明，最小的背景，照片级写实，有光泽的纹理，3D 渲染样式，水晶般的外观，柔和的阴影，微距摄影
+```
+
+<a id="prompt-42"></a>
+#### 案例 42：霓虹灯线框
+
+<img src="./images/bananaprompt/42.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹灯线框">
+
+**提示词：**
+
+```
+A neon wireframe visualization of a [subject], traced in glowing [color1] and [color2] vector lines. Suspended in a digital void, the figure is surrounded by speed trails, motion blur, and shifting geometric shadows, evoking a sense of kinetic energy and futuristic momentum.
+```
+**中文提示词：**
+```
+[主体] 的霓虹灯线框可视化，以发光的 [color1] 和 [color2] 矢量线描摹。这个人物悬浮在数字虚空中，周围环绕着速度轨迹、运动模糊和不断变化的几何阴影，唤起了一种动能和未来主义的动力。
+```
 
 <a id="prompt-41"></a>
 #### 案例 41：乙烯基玩具
