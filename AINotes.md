@@ -4,6 +4,11 @@
 
 ###       Prompt
 
+*   [案例 51：真人和风格对照直出 ](#prompt-51)
+*   [案例 50：装饰艺术未来主义 ](#prompt-50)
+*   [案例 49：霓虹效果海报 ](#prompt-49)
+*   [案例 48：抽象液体排版文字 ](#prompt-48)
+*   [案例 47：生物发光 ](#prompt-47)
 *   [案例 46：生成电影氛围图 ](#prompt-46)
 *   [案例 45：霓虹灯品牌重新构想 ](#prompt-45)
 *   [案例 44：微型透明胶囊 ](#prompt-44)
@@ -50,6 +55,220 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-51"></a>
+#### 案例 51：真人和风格对照直出
+
+<img src="./images/bananaprompt/51.png" width="300" alt="Awesome GPT-4o Image Prompts-真人和风格对照直出">
+
+**提示词：**
+```
+创建图片 {
+"title": "真人 × 动画对照创意作品",
+"author": "ZH4O",
+"description": "一张利用垂直拼贴与留白，将同一人物的照片与插画并置的创意作品，突出媒介在语言、质感与情绪上的对比。",
+"layout": {
+"orientation": "vertical",
+"photo": {
+"position": "top-left",
+"aspect_ratio": "3:4",
+"style": "street photo",
+"camera_angle": "eye-level, slightly tilted left",
+"lens": "mild wide-angle",
+"background_elements": ["road", "store signs", "urban perspective lines"]
+},
+"illustration": {
+"position": "bottom-right",
+"scale": "slightly larger",
+"composition": "2/3 body, medium shot",
+"pose": "similar to photo",
+"motion_direction": "curve extending top-right",
+"balance": "forms visual counterpoint to photo"
+},
+"background": {
+"color": "pure white",
+"purpose": "breathing space, minimalism, focus"
+}
+},
+"color_and_lighting": {
+"photo": {
+"dominant_tones": "neutral warm gray",
+"light_source": "natural light",
+"highlight_effects": "soft overexposure, summer glare",
+"key_elements": ["white dress with gauzy texture", "cement, scooter, wall as low-saturation backdrop"]
+},
+"illustration": {
+"style": "cartoon, simplified color blocks",
+"skin": "warm orange with soft pink blush",
+"hair": "deep brown, almost flat color",
+"dress": "white with minimal shading to indicate folds",
+"contrast": "high, compressed tonal range",
+"focus": "sharp character silhouette"
+},
+"background": {
+"function": "isolates media contrast, emphasizes character and action"
+}
+},
+"style_comparison_and_details": {
+"photo": {
+"gesture": "hand shading forehead",
+"expression": "wide eyes, slightly pouting lips, playful with a hint of exasperation",
+"context": "spontaneous, tight alley space, loose hair movement"
+},
+"illustration": {
+"design_inspiration": "Disney/CalArts style",
+"features": ["large eyes", "wide cheekbones", "pointy chin", "freckles", "blush"],
+"motion_effects": "exaggerated hair and skirt movement",
+"line_quality": "fluid and bouncy",
+"reproduction": "pose, expression, dress bow, forehead hair accurately translated"
+}
+},
+"visual_and_communication_value": {
+"themes": ["reality to animation transformation", "character design", "personified self-portrait"],
+"usability": ["IP development", "illustration demo", "fashion branding"],
+"design_elements": ["space for text/logo", "poster/social media-ready"],
+"narrative_strength": "uses white space as frame, pose as link, and medium contrast as core interest",
+"tone": "light, stylish, socially shareable"
+}
+}
+```
+**中文提示词：**
+```
+创建图片 {
+“title”： “真人 × 动画对照创意作品”，
+“author”： “ZH4O”， ZH4O“， ZH4O
+“description”： “一张利用垂直拼贴与留白，将同一人物的照片与插画并置的创意作品，突出媒介在语言、质感与情绪上的对比。",
+“布局”： {
+“orientation”： “垂直”，
+“照片”： {
+“position”： “左上角”，
+“aspect_ratio”： “3：4”，
+“style”： “街拍”，
+“camera_angle”： “与眼睛齐平，略微向左倾斜”，
+“lens”： “轻度广角”，
+“background_elements”： [“road”， “shop signs”， “urban perspective lines”]
+},
+“插图”： {
+“position”： “右下角”，
+“scale”： “稍大”，
+“composition”： “2/3 体，中镜头”，
+“pose”： “与照片相似”，
+“motion_direction”： “曲线向右延伸”，
+“balance”： “形成与照片的视觉对位”
+},
+“背景”： {
+“color”： “纯白色”，
+“purpose”： “呼吸空间、极简主义、专注”
+}
+},
+“color_and_lighting”： {
+“照片”： {
+“dominant_tones”： “中性暖灰色”，
+“light_source”： “自然光”，
+“highlight_effects”： “柔和的过度曝光，夏季眩光”，
+“key_elements”： [“带有薄纱纹理的白色连衣裙”， “水泥、滑板车、墙壁作为低饱和度背景”]
+},
+“插图”： {
+“style”： “卡通，简化的色块”，
+“skin”： “暖橙色带柔和的粉红色腮红”，
+“hair”： “深棕色，几乎是单色”，
+“dress”： “白色，带有最小阴影以表示褶皱”，
+“contrast”： “高、压缩的色调范围”，
+“focus”： “清晰的角色剪影”
+},
+“背景”： {
+“function”： “隔离媒体对比度，强调角色和动作”
+}
+},
+“style_comparison_and_details”： {
+“照片”： {
+“gesture”： “手部阴影额头”，
+“expression”： “睁大眼睛，微微撅起嘴唇，俏皮中带着一丝恼怒”，
+“context”： “自发、狭窄的小巷空间、松散的头发移动”
+},
+“插图”： {
+“design_inspiration”： “Disney/CalArts 风格”，
+“features”： [“大眼睛”， “宽颧骨”， “尖下巴”， “雀斑”， “腮红”]，
+“motion_effects”： “夸张的头发和裙子运动”，
+“line_quality”： “流体和弹性”，
+“reproduction”： “姿势、表情、裙子蝴蝶结、额头头发准确翻译”
+}
+},
+“visual_and_communication_value”： {
+“themes”： [“从现实到动画的转变”， “角色设计”， “拟人化自画像”]，
+“可用性”： [“IP 开发”， “插图演示”， “时尚品牌”]，
+“design_elements”： [“文本/徽标空间”， “海报/社交媒体就绪”]，
+“narrative_strength”： “使用空白作为框架，使用姿势作为链接，使用中等对比度作为核心兴趣”，
+“tone”： “轻盈、时尚、社交分享”
+}
+}
+```
+
+<a id="prompt-50"></a>
+#### 案例 50：装饰艺术未来主义
+
+<img src="./images/bananaprompt/50.png" width="300" alt="Awesome GPT-4o Image Prompts-装饰艺术未来主义">
+
+**提示词：**
+```
+create image with 1:1 ratio 
+[Brand] ad. Ultra-high-detail product photo in a fusion of Art Deco and Futurism. The product rest on platforms.  Background features stylized Art Deco skyscraper silhouettes morphing into Futurist speed lines, forming a diagonal left-to-right composition. Surfaces use brand Core Material and faceted glass with ambient lighting in Brand Color theme.  The product evoking motion and kinetic optimism. Dramatic low-angle lighting enhances reflections, with subtle vapor trails in the background.  Small logo on the bottom, and a tiny slogan beneath
+```
+**中文提示词：**
+```
+以 1：1 的比例创建图像
+[品牌] 广告。融合了装饰艺术和未来主义的超高细节产品照片。该产品位于平台上。 背景以风格化的装饰艺术摩天大楼剪影转变为未来主义的速度线条，形成从左到右的对角线构图。表面使用品牌核心材料和多面玻璃，并在品牌颜色主题中使用环境照明。 该产品唤起了动感和动感的乐观主义。戏剧性的低角度照明增强了反射，背景中带有微妙的蒸汽痕迹。 底部有小标志，下面有一个小标语
+```
+
+<a id="prompt-49"></a>
+#### 案例 49：霓虹效果海报
+
+<img src="./images/bananaprompt/49.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹效果海报">
+
+**提示词：**
+```
+[object] in neon glow cinematic style, surrounded by soft fog, with glowing edges and realistic reflections, dark background, volumetric lighting, high detail, strong color contrast, cinematic tone.
+```
+**中文提示词：**
+```
+"PetSmart" represented as a glowing neon cinematic scene. The logo and elements shine with vibrant blue and warm red light, symbolizing energy, care, and companionship. The word "PetSmart" appears in bold luminous letters with soft glowing edges, surrounded by subtle particles and mist. The scene features gentle reflections on a dark glossy surface, realistic lighting, volumetric glow, and a calm atmosphere that feels both futuristic and welcoming. Studio render style, high detail, cinematic composition, 3:2 aspect ratio.
+```
+
+<a id="prompt-48"></a>
+#### 案例 48：抽象液体排版文字
+
+<img src="./images/bananaprompt/48.png" width="300" alt="Awesome GPT-4o Image Prompts-抽象液体排版文字">
+
+**提示词：**
+```
+Abstract liquid typography spelling "text", made of thick, transparent water-gel with realistic refraction and soft shadows. Each letter appears sculpted from droplets with surface tension, smooth curves, and light reflections. Water droplets scattered on the surface, minimal background, hyper-realistic lighting, photorealistic render
+```
+**中文提示词：**
+```
+抽象液体排版拼写“text”，由厚实、透明的水凝胶制成，具有逼真的折射和柔和的阴影。每个字母都由具有表面张力、平滑曲线和光反射的水滴雕刻而成。散落在表面上的水滴、极小的背景、超逼真的照明、照片级逼真的渲染
+```
+
+<a id="prompt-47"></a>
+#### 案例 47：生物发光
+
+<img src="./images/bananaprompt/47.png" width="300" alt="Awesome GPT-4o Image Prompts-生物发光">
+
+**提示词：**
+```
+[SUBJECT] depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize [COLOR1] and [COLOR2] to enhance the mythical and enchanting qualities.
+```
+**中文提示词：**
+```
+[对象] 被描绘成一个神话生物的发光，发光的边缘突出了奇幻和传奇的一面。利用 [COLOR1] 和 [COLOR2] 来增强神话和迷人的品质。
+```
+**提示词：**
+```
+A black Labrador depicted as a divine guardian creature radiating strength and grace. Its dark fur gleams under soft silver highlights, with faint crimson and fiery orange light emanating from within, symbolizing sacred power. The edges of its body glow subtly like silver fire, illuminating the misty surroundings. The atmosphere is majestic and reverent, filled with drifting sparks and divine energy. Realistic lighting, detailed texture, cinematic tone, 3:2 aspect ratio.
+```
+**中文提示词：**
+```
+一只被描绘成神圣守护者的黑色拉布拉多，全身黑毛在柔和的银光下闪耀，体内似乎散发出深红与橙色的神圣火光。它的轮廓泛着银焰般的光辉，照亮了朦胧的背景，气氛庄严而神秘，周围漂浮着火星般的光点。画面光影真实、质感细腻、具有电影级构图感。
+```
 
 <a id="prompt-46"></a>
 #### 案例 46：生成电影氛围图
