@@ -4,6 +4,9 @@
 
 ###       Prompt
 
+*   [案例 59：讽刺版的你 ](#prompt-59)
+*   [案例 58：产品成为霓虹灯下的梦想 ](#prompt-58)
+*   [案例 57：电影场景 ](#prompt-57)
 *   [案例 56：冬日国家 ](#prompt-56)
 *   [案例 55：品牌在悬浮平台上 ](#prompt-55)
 *   [案例 54：灯泡中的城市 ](#prompt-54)
@@ -60,6 +63,48 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-59"></a>
+#### 案例 59：讽刺版的你
+
+<img src="./images/bananaprompt/59.png" width="300" alt="Awesome GPT-4o Image Prompts-讽刺版的你">
+
+**提示词：**
+```
+Based on your understanding of my personality and past interactions, create a humorous and satirical image that teases me in a playful way. The image must have comedic features, using exaggerated expressions or surreal visual metaphors. Artistic style: cartoon or caricature with high contrast and expressive details. The goal is to amuse, not insult. Ensure the satire is clever and mindful.
+```
+**中文提示词：**
+```
+根据您对我的个性和过去互动的理解，创建一个幽默、讽刺的图像，以俏皮的方式嘲笑我。图像必须具有喜剧特征，使用夸张的表情或超现实的视觉隐喻。艺术风格：具有高对比度和富有表现力的细节的卡通或漫画。目标是笑，而不是侮辱。确保讽刺是聪明和有意识的。
+```
+
+<a id="prompt-58"></a>
+#### 案例 58：产品成为霓虹灯下的梦想
+
+<img src="./images/bananaprompt/58.png" width="300" alt="Awesome GPT-4o Image Prompts-产品成为霓虹灯下的梦想">
+
+**提示词：**
+```
+a surreal-realistic digital artwork of a product from the brand [Brand name]. The product should be glowing with neon outlines, stylized like a high-contrast 3D render. Place it in a dreamlike environment inspired by the brand’s identity, color scheme, and culture. Use soft shadows, deep blacks, and intense lighting for dramatic effect. 
+```
+**中文提示词：**
+```
+[Brand name] 品牌商品的超现实主义写实数字艺术作品。产品应该闪耀着霓虹灯轮廓，像高对比度的3D渲染一样风格化。将其放置在受品牌身份、配色方案和文化启发的梦幻般的环境中。使用柔和的阴影、深黑色和强烈的光照来获得戏剧性的效果。
+```
+
+<a id="prompt-57"></a>
+#### 案例 57：电影场景
+
+<img src="./images/bananaprompt/57.png" width="300" alt="Awesome GPT-4o Image Prompts-电影场景">
+
+**提示词：**
+```
+Close-up. Overhead shot from an extremely high vantage point, extremely low grain with iso100 film shadows on a Lomo LC-A. Realistic depth of field. Artistic composition. Overall bluish tones. Beautiful light and shadows. The black floor with the projected image of the blue sky that fills the screen. A very beautiful small-faced Japanese film actress with wet showy hair in a black dress shirt sitting cross-legged on the floor. She is wearing a long red skirt. Shiny black hair. Long eyelashes. Bright skin. Beautiful shining eyes. A smiling face. On the floor next to the actress is a white model of Saturn. The picture looks like a scene from a movie.
+```
+**中文提示词：**
+```
+特写。从极高视角拍摄的上视图，使用 Lomo LC-A 相机拍摄，ISO100 胶片，颗粒感极低，阴影真实。艺术构图。整体偏蓝色调。光影美丽。黑色地板上投射着充满屏幕的蓝色天空图像。一位非常美丽的日本小脸女演员，穿着黑色衬衫，盘腿坐在地板上，头发湿漉漉地显眼，穿着长红色裙子。闪亮的黑发。长长的睫毛。明亮肌肤。美丽的闪亮眼睛。微笑的面容。女演员旁边的地板上有一个白色的土星模型。这张照片看起来像电影中的一个场景。
+```
 
 <a id="prompt-56"></a>
 #### 案例 56：冬日国家
