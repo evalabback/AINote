@@ -4,6 +4,11 @@
 
 ###       Prompt
 
+*   [案例 56：冬日国家 ](#prompt-56)
+*   [案例 55：品牌在悬浮平台上 ](#prompt-55)
+*   [案例 54：灯泡中的城市 ](#prompt-54)
+*   [案例 53：工业内部品牌广告 ](#prompt-53)
+*   [案例 52：纸上的小卡通角色 ](#prompt-52)
 *   [案例 51：真人和风格对照直出 ](#prompt-51)
 *   [案例 50：装饰艺术未来主义 ](#prompt-50)
 *   [案例 49：霓虹效果海报 ](#prompt-49)
@@ -55,6 +60,88 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-56"></a>
+#### 案例 56：冬日国家
+
+<img src="./images/bananaprompt/56.png" width="300" alt="Awesome GPT-4o Image Prompts-冬日国家">
+
+**提示词：**
+```
+A super detailed, realistic snow globe containing the essence of [Country Name]. Inside the globe: miniature snowy landscapes, iconic landmarks, cultural symbols, and natural elements representing [Country Name], rendered with extreme realism and rich textures. Delicate falling snow creates a magical, atmospheric effect inside the globe. The background is clean and softly lit to focus entirely on the globe. The image is 1:1 aspect ratio. At the bottom of the image, the text “[Country Name]” is clearly written in an elegant serif font
+```
+**中文提示词：**
+```
+一个超级精细、逼真的雪球，包含着[国家名称]的精髓。球内：微型的雪景、标志性建筑、文化符号以及代表[国家名称]的自然元素，以极致的逼真感和丰富的纹理呈现。细腻的飘落雪花在球内营造出神奇的、充满氛围的效果。背景干净且柔和照明，完全聚焦于雪球。图像为 1:1 的宽高比。图像底部，用优雅的衬线字体清晰地书写着“[国家名称]”
+```
+
+<a id="prompt-55"></a>
+#### 案例 55：品牌在悬浮平台上
+
+<img src="./images/bananaprompt/55.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌在悬浮平台上">
+
+**提示词：**
+```
+A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAND], standing on a surreal floating platform that visually embodies its spirit. The platform is made of materials that represent the drink’s essence (e.g. sparkling crystals for champagne, rich dark wood for whiskey, frosted ice for vodka), with dramatic reflections and melting details dripping into a calm reflective water surface. A matching glass is filled with the drink, featuring artistic textures (ice, gems, swirling liquid). Soft, colorful sunset sky with dramatic clouds in the background, high-end luxury aesthetic, photorealistic, macro details, dreamy glow, premium product photography.
+```
+**中文提示词：**
+```
+一个高度细致的影视广告场景，展示[酒类类型，品牌]，站在一个体现其精神的超现实悬浮平台上。平台由代表饮品本质的材料制成（例如香槟的闪亮水晶、威士忌的浓郁深色木材、伏特加的冰霜），戏剧性的倒影和融化的细节滴入平静的反射水面。一个匹配的玻璃杯装满了饮品，具有艺术纹理（冰块、宝石、旋转的液体）。柔和的彩色日落天空背景中有戏剧性的云朵，高端奢华美学，照片级真实感，宏观细节，梦幻般的光芒，高端产品摄影。
+```
+
+<a id="prompt-54"></a>
+#### 案例 54：灯泡中的城市
+
+<img src="./images/bananaprompt/54.png" width="300" alt="Awesome GPT-4o Image Prompts-灯泡中的城市">
+
+**提示词：**
+```
+Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urban asphalt. Inside the bulb, place a miniature version of [CITY] with its iconic landmarks. A sleek white 3D text of the city name ‘[CITY]’ should stand prominently in front of the bulb. The background is a softly blurred cityscape with neon lights reflecting on the bulb’s glass and the wet pavement. Add volumetric moonlight for depth and atmosphere. The image should look like a high-quality DSLR photograph with sharp details, cinematic lighting, and a moody, futuristic vibe. 
+```
+**中文提示词：**
+```
+创作一张超逼真、时尚的海报，展示一个躺在湿漉漉的城市柏油路面上的灯泡。在灯泡内部放置一个[CITY]的微缩版，并包含其标志性地标。在灯泡前方，应突出显示一个光滑的白色 3D 文字，写着城市名称‘[CITY]’。背景是柔和模糊的城市景观，霓虹灯光在灯泡的玻璃和湿滑的路面上映射。添加体积光以增强深度和氛围。图像应看起来像一张高质量的数码单反相机照片，具有清晰的细节、电影般的灯光和忧郁的未来感。
+```
+
+<a id="prompt-53"></a>
+#### 案例 53：工业内部品牌广告
+
+<img src="./images/bananaprompt/53.png" width="300" alt="Awesome GPT-4o Image Prompts-工业内部品牌广告">
+
+**提示词：**
+```
+Create a hyperrealistic, surreal 1:1 advertisement for [Brand Name].
+Transform the product into a miniature industrial factory or laboratory from the inside.
+Reveal detailed internal systems: pipes, workers, glowing fluids, steam, and machines — all functioning to reflect the product’s core purpose (energy, beauty, flavor, etc).
+Keep the outer product branding realistic and sharp.
+Set the background minimal and cinematic.
+Add the brand logo at the top, and a short, powerful slogan at the bottom.
+Style: studio-grade lighting, high contrast, photorealistic textures.
+```
+**中文提示词：**
+```
+创建一个超现实、1:1 比例的品牌广告。
+将产品内部转化为微型工厂或实验室。
+展示详细的内部系统：管道、工人、发光的液体、蒸汽和机器——所有这些都运作起来，反映产品的核心功能（能量、美丽、风味等）。
+保持外层产品的品牌标识真实锐利。
+将背景设置得简约且电影感十足。
+在顶部添加品牌标志，底部添加一句简短有力的口号。
+风格：影棚级灯光，高对比度，照片级真实纹理。
+```
+
+<a id="prompt-52"></a>
+#### 案例 52：纸上的小卡通角色
+
+<img src="./images/bananaprompt/52.png" width="300" alt="Awesome GPT-4o Image Prompts-纸上的小卡通角色">
+
+**提示词：**
+```
+Imagine you’re a tiny cartoon character who has come to life on a piece of paper! Draw yourself running away from a giant pencil that’s trying to erase you. Add colorful pencils, a desk, and maybe some flying eraser bits for extra excitement. Use your wildest imagination to make it look like you’re bursting out of the page!
+```
+**中文提示词：**
+```
+想象你是一个在纸上活过来的小卡通角色！画自己从一只试图擦掉你的巨大铅笔逃跑。添加彩色铅笔、书桌，也许还有一些飞行的橡皮屑以增加乐趣。用你最狂野的想象力让它看起来像是从页面上爆发出来！
+```
 
 <a id="prompt-51"></a>
 #### 案例 51：真人和风格对照直出
