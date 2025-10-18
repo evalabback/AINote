@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 62：品牌着陆页-年轻女性运动后的面部特写 ](#prompt-62)
+*   [案例 61：沙滩胶囊城市 ](#prompt-61)
+*   [案例 60：电影镜头拍摄 ](#prompt-60)
 *   [案例 59：讽刺版的你 ](#prompt-59)
 *   [案例 58：产品成为霓虹灯下的梦想 ](#prompt-58)
 *   [案例 57：电影场景 ](#prompt-57)
@@ -61,6 +64,48 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-62"></a>
+### 案例 62：品牌着陆页-年轻女性运动后的面部特写
+
+<img src="./images/bananaprompt/62.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌着陆页-年轻女性运动后的面部特写">
+
+**提示词：**
+```
+Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, with a bit of blurred gym background on the left side of the photo, 5:3 proportions, she's looking right at the camera, some freckles and messy hair, beautiful, editorial
+```
+**中文提示词：**
+```
+创作一张年轻女性运动后的面部特写：她满头大汗，有着深蓝色的眼睛，照片左侧是略微模糊的健身房背景，比例为5:3。她正直视镜头，脸上有一些雀斑，头发有些凌乱，整体呈现出美丽的 editorial（时尚编辑风格）效果。
+```
+
+<a id="prompt-61"></a>
+### 案例 61：沙滩胶囊城市
+
+<img src="./images/bananaprompt/61.png" width="300" alt="Awesome GPT-4o Image Prompts-沙滩胶囊城市">
+
+**提示词：**
+```
+A vibrant, hyper-realistic miniature of [CITY] inside a transparent capsule lying on a sandy beach. The capsule is half [COLOR] (matching [COUNTRY]’s flag) with [CITY] written in white text on the colored section. Inside the capsule: iconic landmarks of [CITY], beautiful water canals or streets, small detailed boats or cars, sunny bright lighting, cinematic depth of field, dreamy atmosphere, ocean waves in the background.
+```
+**中文提示词：**
+```
+一个充满活力的、超写实的[CITY]微缩模型，放置在一个透明胶囊内，躺在沙滩上。胶囊一半是[COLOR]色（与[COUNTRY]的国旗相匹配），彩色部分上用白色文字写着[CITY]。胶囊内部：[CITY]的标志性地标、美丽的运河或街道、小巧精致的船只或汽车、阳光明媚的光线、电影般的景深、梦幻般的氛围、背景中的海浪。
+```
+
+<a id="prompt-60"></a>
+### 案例 60：电影镜头拍摄
+
+<img src="./images/bananaprompt/60.png" width="300" alt="Awesome GPT-4o Image Prompts-电影镜头拍摄">
+
+**提示词：**
+```
+Cinematic shot of [detailed character description], shot from [camera angle], [lighting type], [color palette], shot at close range, 35mm film grain, wide angle lens, f2.0 bokeh, shallow depth of field.
+```
+**中文提示词：**
+```
+电影镜头拍摄[详细角色描述]，从[相机角度]拍摄，[灯光类型]，[色彩搭配]，近距离拍摄，35mm 胶片颗粒，广角镜头，f2.0 浅景深，浅景深。
+```
 
 <a id="prompt-59"></a>
 ### 案例 59：讽刺版的你
