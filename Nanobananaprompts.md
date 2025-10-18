@@ -1,8 +1,6 @@
-# Gemini
+# Nano banana
 
-##    Nano banana
-
-###       Prompt
+##    Prompt
 
 *   [案例 59：讽刺版的你 ](#prompt-59)
 *   [案例 58：产品成为霓虹灯下的梦想 ](#prompt-58)
@@ -65,7 +63,7 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 <a id="prompt-59"></a>
-#### 案例 59：讽刺版的你
+### 案例 59：讽刺版的你
 
 <img src="./images/bananaprompt/59.png" width="300" alt="Awesome GPT-4o Image Prompts-讽刺版的你">
 
@@ -79,7 +77,7 @@ Based on your understanding of my personality and past interactions, create a hu
 ```
 
 <a id="prompt-58"></a>
-#### 案例 58：产品成为霓虹灯下的梦想
+### 案例 58：产品成为霓虹灯下的梦想
 
 <img src="./images/bananaprompt/58.png" width="300" alt="Awesome GPT-4o Image Prompts-产品成为霓虹灯下的梦想">
 
@@ -93,7 +91,7 @@ a surreal-realistic digital artwork of a product from the brand [Brand name]. Th
 ```
 
 <a id="prompt-57"></a>
-#### 案例 57：电影场景
+### 案例 57：电影场景
 
 <img src="./images/bananaprompt/57.png" width="300" alt="Awesome GPT-4o Image Prompts-电影场景">
 
@@ -107,7 +105,7 @@ Close-up. Overhead shot from an extremely high vantage point, extremely low grai
 ```
 
 <a id="prompt-56"></a>
-#### 案例 56：冬日国家
+### 案例 56：冬日国家
 
 <img src="./images/bananaprompt/56.png" width="300" alt="Awesome GPT-4o Image Prompts-冬日国家">
 
@@ -121,7 +119,7 @@ A super detailed, realistic snow globe containing the essence of [Country Name].
 ```
 
 <a id="prompt-55"></a>
-#### 案例 55：品牌在悬浮平台上
+### 案例 55：品牌在悬浮平台上
 
 <img src="./images/bananaprompt/55.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌在悬浮平台上">
 
@@ -135,7 +133,7 @@ A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAN
 ```
 
 <a id="prompt-54"></a>
-#### 案例 54：灯泡中的城市
+### 案例 54：灯泡中的城市
 
 <img src="./images/bananaprompt/54.png" width="300" alt="Awesome GPT-4o Image Prompts-灯泡中的城市">
 
@@ -149,7 +147,7 @@ Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urb
 ```
 
 <a id="prompt-53"></a>
-#### 案例 53：工业内部品牌广告
+### 案例 53：工业内部品牌广告
 
 <img src="./images/bananaprompt/53.png" width="300" alt="Awesome GPT-4o Image Prompts-工业内部品牌广告">
 
@@ -175,7 +173,7 @@ Style: studio-grade lighting, high contrast, photorealistic textures.
 ```
 
 <a id="prompt-52"></a>
-#### 案例 52：纸上的小卡通角色
+### 案例 52：纸上的小卡通角色
 
 <img src="./images/bananaprompt/52.png" width="300" alt="Awesome GPT-4o Image Prompts-纸上的小卡通角色">
 
@@ -189,7 +187,7 @@ Imagine you’re a tiny cartoon character who has come to life on a piece of pap
 ```
 
 <a id="prompt-51"></a>
-#### 案例 51：真人和风格对照直出
+### 案例 51：真人和风格对照直出
 
 <img src="./images/bananaprompt/51.png" width="300" alt="Awesome GPT-4o Image Prompts-真人和风格对照直出">
 
@@ -337,7 +335,7 @@ Imagine you’re a tiny cartoon character who has come to life on a piece of pap
 ```
 
 <a id="prompt-50"></a>
-#### 案例 50：装饰艺术未来主义
+### 案例 50：装饰艺术未来主义
 
 <img src="./images/bananaprompt/50.png" width="300" alt="Awesome GPT-4o Image Prompts-装饰艺术未来主义">
 
@@ -353,7 +351,7 @@ create image with 1:1 ratio
 ```
 
 <a id="prompt-49"></a>
-#### 案例 49：霓虹效果海报
+### 案例 49：霓虹效果海报
 
 <img src="./images/bananaprompt/49.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹效果海报">
 
@@ -367,7 +365,7 @@ create image with 1:1 ratio
 ```
 
 <a id="prompt-48"></a>
-#### 案例 48：抽象液体排版文字
+### 案例 48：抽象液体排版文字
 
 <img src="./images/bananaprompt/48.png" width="300" alt="Awesome GPT-4o Image Prompts-抽象液体排版文字">
 
@@ -381,7 +379,7 @@ Abstract liquid typography spelling "text", made of thick, transparent water-gel
 ```
 
 <a id="prompt-47"></a>
-#### 案例 47：生物发光
+### 案例 47：生物发光
 
 <img src="./images/bananaprompt/47.png" width="300" alt="Awesome GPT-4o Image Prompts-生物发光">
 
@@ -403,7 +401,7 @@ A black Labrador depicted as a divine guardian creature radiating strength and g
 ```
 
 <a id="prompt-46"></a>
-#### 案例 46：生成电影氛围图
+### 案例 46：生成电影氛围图
 
 <img src="./images/bananaprompt/46.png" width="300" alt="Awesome GPT-4o Image Prompts-生成电影氛围图">
 
@@ -418,7 +416,7 @@ Cinematic still, A [ description of the character or action scene], with a [ bac
 ```
 
 <a id="prompt-45"></a>
-#### 案例 45：霓虹灯品牌重新构想
+### 案例 45：霓虹灯品牌重新构想
 
 <img src="./images/bananaprompt/45.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹灯品牌重新构想">
 
@@ -433,7 +431,7 @@ Create a cinematic advertisement for “[PRODUCT NAME]” — use bioluminescent
 ```
 
 <a id="prompt-44"></a>
-#### 案例 44：微型透明胶囊
+### 案例 44：微型透明胶囊
 
 <img src="./images/bananaprompt/44.png" width="300" alt="Awesome GPT-4o Image Prompts-微型透明胶囊">
 
@@ -448,7 +446,7 @@ Close-up, A hand holding a transparent capsule, inside it is a miniature model o
 ```
 
 <a id="prompt-43"></a>
-#### 案例 43：半透明玻璃物品ASMR
+### 案例 43：半透明玻璃物品ASMR
 
 **说明：在几秒钟内使用 GPT-4o 将任何东西重新设计成半透明玻璃，然后使用这些图像创建 ASMR 视频**
 
@@ -465,7 +463,7 @@ Hyper-realistic [fruit name] made of translucent glass, smooth, rounded surface 
 ```
 
 <a id="prompt-42"></a>
-#### 案例 42：霓虹灯线框
+### 案例 42：霓虹灯线框
 
 <img src="./images/bananaprompt/42.png" width="300" alt="Awesome GPT-4o Image Prompts-霓虹灯线框">
 
@@ -480,7 +478,7 @@ A neon wireframe visualization of a [subject], traced in glowing [color1] and [c
 ```
 
 <a id="prompt-41"></a>
-#### 案例 41：乙烯基玩具
+### 案例 41：乙烯基玩具
 
 <img src="./images/bananaprompt/41.png" width="300" alt="Awesome GPT-4o Image Prompts-乙烯基玩具">
 
@@ -495,7 +493,7 @@ A comic-style caricature illustration of [subject], with an oversized head and e
 ```
 
 <a id="prompt-40"></a>
-#### 案例 40：怀旧午后阳光
+### 案例 40：怀旧午后阳光
 
 <img src="./images/bananaprompt/40.png" width="300" alt="Awesome GPT-4o Image Prompts-怀旧午后阳光">
 
@@ -510,7 +508,7 @@ a pillow fort in the backyard, shaded by a big old tree. Sunlight filters throug
 ```
 
 <a id="prompt-39"></a>
-#### 案例 39：监控级别的时尚洞察力
+### 案例 39：监控级别的时尚洞察力
 
 <img src="./images/bananaprompt/39.png" width="300" alt="Awesome GPT-4o Image Prompts-监控级别的时尚洞察力">
 
@@ -527,7 +525,7 @@ A closed up view of focus woman carrying  [brand] [product] on street, a square 
 ```
 
 <a id="prompt-38"></a>
-#### 案例 38：透视一切
+### 案例 38：透视一切
 
 <img src="./images/bananaprompt/38.png" width="300" alt="Awesome GPT-4o Image Prompts-透视一切">
 
@@ -542,7 +540,7 @@ a fully transparent [product] made of ultra-clear iridescent glass, showing all 
 ```
 
 <a id="prompt-37"></a>
-#### 案例 37：幽灵形态
+### 案例 37：幽灵形态
 
 <img src="./images/bananaprompt/37.png" width="300" alt="Awesome GPT-4o Image Prompts-幽灵形态">
 
@@ -557,7 +555,7 @@ A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-ri
 ```
 
 <a id="prompt-36"></a>
-#### 案例 36：创建超现实不可能的图像
+### 案例 36：创建超现实不可能的图像
 
 <img src="./images/bananaprompt/36.png" width="300" alt="Awesome GPT-4o Image Prompts-创建超现实不可能的图像">
 
@@ -572,7 +570,7 @@ Create a surreal split-scene where the left half is an underwater version of a [
 ```
 
 <a id="prompt-35"></a>
-#### 案例 35：符号冲突
+### 案例 35：符号冲突
 
 <img src="./images/bananaprompt/35.png" width="300" alt="Awesome GPT-4o Image Prompts-符号冲突">
 
@@ -611,7 +609,7 @@ Aspect Ratio: 1:1
 ```
 
 <a id="prompt-34"></a>
-#### 案例 34：磨砂模糊剪影
+### 案例 34：磨砂模糊剪影
 
 <img src="./images/bananaprompt/34.png" width="300" alt="Awesome GPT-4o Image Prompts-磨砂模糊剪影">
 
@@ -626,7 +624,7 @@ A black and white photograph shows the blurred silhouette of a [SUBJECT] behind 
 ```
 
 <a id="prompt-33"></a>
-#### 案例 33：文艺复兴时期的解刨学研究
+### 案例 33：文艺复兴时期的解刨学研究
 
 <img src="./images/bananaprompt/33.png" width="300" alt="Awesome GPT-4o Image Prompts-文艺复兴时期的解刨学研究">
 
@@ -641,7 +639,7 @@ A Renaissance anatomical study of a [subject], meticulously illustrated in fine 
 ```
 
 <a id="prompt-32"></a>
-#### 案例 32：品牌产品数字广告
+### 案例 32：品牌产品数字广告
 
 <img src="./images/bananaprompt/32.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌产品数字广告">
 
@@ -656,7 +654,7 @@ A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi ca
 ```
 
 <a id="prompt-31"></a>
-#### 案例 31：重点线条勾勒
+### 案例 31：重点线条勾勒
 
 <img src="./images/bananaprompt/31.png" width="300" alt="Awesome GPT-4o Image Prompts-重点线条勾勒">
 
@@ -667,7 +665,7 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 ```
 
 <a id="prompt-30"></a>
-#### 案例 30：3D超现实场景模型
+### 案例 30：3D超现实场景模型
 
 <img src="./images/bananaprompt/30.png" width="300" alt="Awesome GPT-4o Image Prompts-3D超现实场景模型">
 
@@ -682,7 +680,7 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 ```
 
 <a id="prompt-29"></a>
-#### 案例 29：标志液化
+### 案例 29：标志液化
 
 <img src="./images/bananaprompt/29.png" width="300" alt="Awesome GPT-4o Image Prompts-标志液化">
 
@@ -695,7 +693,7 @@ Use appropriate colors for the logos.
 ```
 
 <a id="prompt-28"></a>
-#### 案例 28：超级动物英雄
+### 案例 28：超级动物英雄
 
 <img src="./images/bananaprompt/28.png" width="300" alt="Awesome GPT-4o Image Prompts-超级动物英雄">
 
@@ -714,7 +712,7 @@ Lighting should be warm and directional (studio-style), emphasizing the animal�
 ```
 
 <a id="prompt-27"></a>
-#### 案例 27：终极跨界
+### 案例 27：终极跨界
 
 <img src="./images/bananaprompt/27.png" width="300" alt="Awesome GPT-4o Image Prompts-终极跨界">
 
@@ -725,7 +723,7 @@ Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in 
 ```
 
 <a id="prompt-26"></a>
-#### 案例 26：不同情绪状态的思想泡泡
+### 案例 26：不同情绪状态的思想泡泡
 
 <img src="./images/bananaprompt/26.png" width="300" alt="Awesome GPT-4o Image Prompts-不同情绪状态的思想泡泡">
 
@@ -736,7 +734,7 @@ A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transpa
 ```
 
 <a id="prompt-25"></a>
-#### 案例 25：可爱干净的底座立体模型
+### 案例 25：可爱干净的底座立体模型
 
 <img src="./images/bananaprompt/25.png" width="300" alt="Awesome GPT-4o Image Prompts-可爱干净的底座立体模型">
 
@@ -747,7 +745,7 @@ Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Charact
 ```
 
 <a id="prompt-24"></a>
-#### 案例 24：景观洞穴入口的形状
+### 案例 24：景观洞穴入口的形状
 
 <img src="./images/bananaprompt/24.png" width="300" alt="Awesome GPT-4o Image Prompts-景观洞穴入口的形状">
 
@@ -758,7 +756,7 @@ Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped
 ```
 
 <a id="prompt-23"></a>
-#### 案例 23：透明容器里有一个微型的3D世界
+### 案例 23：透明容器里有一个微型的3D世界
 
 <img src="./images/bananaprompt/23.png" width="300" alt="Awesome GPT-4o Image Prompts-透明容器里有一个微型的3D世界">
 
@@ -774,7 +772,7 @@ A giant glossy Water dropletwith a miniature 3D diorama inside it, depicting a H
 ```
 
 <a id="prompt-22"></a>
-#### 案例 22：可爱的微缩场景
+### 案例 22：可爱的微缩场景
 
 <img src="./images/bananaprompt/22.png" width="300" alt="Awesome GPT-4o Image Prompts-可爱的微缩场景">
 
@@ -841,7 +839,7 @@ A giant glossy Water dropletwith a miniature 3D diorama inside it, depicting a H
 ```
 
 <a id="prompt-21"></a>
-#### 案例 21：洞壁画
+### 案例 21：洞壁画
 
 <img src="./images/bananaprompt/21.png" width="300" alt="Awesome GPT-4o Image Prompts-洞壁画">
 
@@ -852,7 +850,7 @@ A cave painting of a [subject], rendered with primitive ochres and charcoal line
 ```
 
 <a id="prompt-20"></a>
-#### 案例 20：选择你的阵营
+### 案例 20：选择你的阵营
 
 <img src="./images/bananaprompt/20.png" width="300" alt="Awesome GPT-4o Image Prompts-选择你的阵营">
 
@@ -863,7 +861,7 @@ A dramatic cinematic scene featuring two rival products placed side by side in a
 ```
 
 <a id="prompt-19"></a>
-#### 案例 19：破碎的真相
+### 案例 19：破碎的真相
 
 <img src="./images/bananaprompt/19.png" width="300" alt="Awesome GPT-4o Image Prompts-破碎的真相">
 
@@ -874,7 +872,7 @@ A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflec
 ```
 
 <a id="prompt-18"></a>
-#### 案例 18：清洁琴键的小人物
+### 案例 18：清洁琴键的小人物
 
 <img src="./images/bananaprompt/18.png" width="300" alt="Awesome GPT-4o Image Prompts-清洁琴键的小人物">
 
@@ -885,7 +883,7 @@ tilt-shift photo of a grand piano keyboard, side view from the left looking alon
 ```
 
 <a id="prompt-17"></a>
-#### 案例 17：复古锡玩具立体模型风格
+### 案例 17：复古锡玩具立体模型风格
 
 <img src="./images/bananaprompt/17.png" width="300" alt="Awesome GPT-4o Image Prompts-复古锡玩具立体模型风格">
 
@@ -901,7 +899,7 @@ transform it into part of a miniature mechanical scene from the 1940s or ’50s,
 ```
 
 <a id="prompt-16"></a>
-#### 案例 16：人物戏剧夸张风格
+### 案例 16：人物戏剧夸张风格
 
 <img src="./images/bananaprompt/16.png" width="300" alt="Awesome GPT-4o Image Prompts-人物戏剧夸张风格">
 
@@ -940,7 +938,7 @@ Typography (top-left corner):
 ```
 
 <a id="prompt-15"></a>
-#### 案例 15：云的艺术
+### 案例 15：云的艺术
 
 <img src="./images/bananaprompt/15.png" width="300" alt="Awesome GPT-4o Image Prompts-云的艺术">
 
@@ -951,7 +949,7 @@ A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattere
 ```
 
 <a id="prompt-14"></a>
-#### 案例 14：超写实拼图肖像
+### 案例 14：超写实拼图肖像
 
 <img src="./images/bananaprompt/14.png" width="300" alt="Awesome GPT-4o Image Prompts-超写实拼图肖像">
 
@@ -968,7 +966,7 @@ A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattere
 ```
 
 <a id="prompt-13"></a>
-#### 案例 13：面包形态
+### 案例 13：面包形态
 
 <img src="./images/bananaprompt/13.png" width="300" alt="Awesome GPT-4o Image Prompts-面包形态">
 
@@ -979,7 +977,7 @@ A highly realistic sculpture of a [object], made entirely from [bread type] with
 ```
 
 <a id="prompt-12"></a>
-#### 案例 12：狭窄走廊里奔跑
+### 案例 12：狭窄走廊里奔跑
 
 <img src="./images/bananaprompt/12.png" width="300" alt="Awesome GPT-4o Image Prompts-狭窄走廊里奔跑">
 
@@ -990,7 +988,7 @@ A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside
 ```
 
 <a id="prompt-11"></a>
-#### 案例 11：水流身份
+### 案例 11：水流身份
 
 <img src="./images/bananaprompt/11.png" width="300" alt="Awesome GPT-4o Image Prompts-水流身份">
 
@@ -1001,7 +999,7 @@ An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted 
 ```
 
 <a id="prompt-10"></a>
-#### 案例 10：按键删除周一
+### 案例 10：按键删除周一
 
 <img src="./images/bananaprompt/10.png" width="300" alt="Awesome GPT-4o Image Prompts-按键删除周一">
 
@@ -1012,7 +1010,7 @@ Detailed photographic image of a miniature person in bed feeling cranky under an
 ```
 
 <a id="prompt-9"></a>
-#### 案例 9：产品变成纸玻璃
+### 案例 9：产品变成纸玻璃
 
 <img src="./images/bananaprompt/9.png" width="300" alt="Awesome GPT-4o Image Prompts-产品变成纸玻璃">
 
@@ -1029,7 +1027,7 @@ Vertical or square aspect ratio, ultra-detailed, poster-quality, visually soothi
 ```
 
 <a id="prompt-8"></a>
-#### 案例 8：变成一个花盆
+### 案例 8：变成一个花盆
 
 <img src="./images/bananaprompt/8.png" width="300" alt="Awesome GPT-4o Image Prompts-变成一个花盆">
 
@@ -1040,7 +1038,7 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 ```
 
 <a id="prompt-7"></a>
-#### 案例 7：创意广告
+### 案例 7：创意广告
 
 <img src="./images/bananaprompt/7.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -1051,7 +1049,7 @@ Planet [Brand name], Year 3025. A distant world shaped entirely by the essence o
 ```
 
 <a id="prompt-6"></a>
-#### 案例 6：创意广告
+### 案例 6：创意广告
 
 <img src="./images/bananaprompt/6.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -1062,7 +1060,7 @@ A high-impact advertisement set against a clean, dark or high-contrast backgroun
 ```
 
 <a id="prompt-5"></a>
-#### 案例 5：创意广告
+### 案例 5：创意广告
 
 <img src="./images/bananaprompt/5.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -1081,7 +1079,7 @@ Use the uploaded product image exactly as it is — do not alter, redraw, or rei
 ```
 
 <a id="prompt-4"></a>
-#### 案例 4：创意广告
+### 案例 4：创意广告
 
 <img src="./images/bananaprompt/4.png" width="300" alt="Awesome GPT-4o Image Prompts-创意广告">
 
@@ -1093,7 +1091,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 ```
 
 <a id="prompt-3"></a>
-#### 案例 3：拉布拉多在公园画画
+### 案例 3：拉布拉多在公园画画
 
 <img src="./images/bananaprompt/3.png" width="300" alt="Awesome GPT-4o Image Prompts-拉布拉多在公园画画">
 
@@ -1104,7 +1102,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 ```
 
 <a id="prompt-2"></a>
-#### 案例 2：漫画拼图 (进化论)
+### 案例 2：漫画拼图 (进化论)
 
 <img src="./images/bananaprompt/2.png" width="300" alt="Awesome GPT-4o Image Prompts-四格漫画 (相对论)">
 
@@ -1114,7 +1112,7 @@ make a colorful page of manga describing the Darwin’s theory of evolution. add
 ```
 
 <a id="prompt-1"></a>
-#### 案例 1：手绘风格的信息图卡片
+### 案例 1：手绘风格的信息图卡片
 
 <img src="./images/bananaprompt/1.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘风格的信息图卡片">
 
