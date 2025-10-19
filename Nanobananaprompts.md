@@ -2,6 +2,15 @@
 
 ##    Prompt
 
+*   [案例 71：字母动物 ](#prompt-71)
+*   [案例 70：超写实3D漫画肖像 ](#prompt-70)
+*   [案例 69：制作证件照 ](#prompt-69)
+*   [案例 68：制作大头贴 ](#prompt-68)
+*   [案例 67：ZBrush建模屏显与万代风格包装盒 ](#prompt-67)
+*   [案例 66：制作工作室拍摄肖像照 ](#prompt-66)
+*   [案例 65：透明扭蛋场景模型 ](#prompt-65)
+*   [案例 64：3D超写实食品广告 ](#prompt-64)
+*   [案例 63：Q版木雕人偶 ](#prompt-63)
 *   [案例 62：品牌着陆页-年轻女性运动后的面部特写 ](#prompt-62)
 *   [案例 61：沙滩胶囊城市 ](#prompt-61)
 *   [案例 60：电影镜头拍摄 ](#prompt-60)
@@ -64,6 +73,142 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-71"></a>
+### 案例 71：字母动物
+
+<img src="./images/bananaprompt/71.png" width="300" alt="Awesome GPT-4o Image Prompts-字母动物">
+
+**提示词：**
+```
+A stylized capital letter [Letter] with a cartoon [Animal] intertwined with it, on a solid color background.
+```
+**中文提示词：**
+```
+在纯色背景上，一个艺术化设计的大写字母【字母】与一只卡通【动物】相互缠绕的图案。
+```
+
+<a id="prompt-70"></a>
+### 案例 70：超现实3D漫画肖像
+
+<img src="./images/bananaprompt/70.png" width="300" alt="Awesome GPT-4o Image Prompts-超现实3D漫画肖像">
+
+**提示词：**
+```
+Hyper-realistic 3D caricature of [NAME], featuring an expressive, oversized head, a short body, and a detailed, energetic facial expression. Wearing [OUTFIT / SIGNATURE LOOK], striking a [POSE / ACTION]. Studio lighting, cartoonish proportions, Pixar-style 3D rendering, ultra-detailed fabric and skin textures. The body is slightly smaller than the head. 1080x1080 square format.
+```
+**中文提示词：**
+```
+[姓名] 的超写实3D漫画肖像，特点为表情丰富的超大头部、较短的身躯，以及细节丰富且充满活力的面部表情。人物身着 [服装 / 标志性造型]，摆出 [姿势 / 动作]。采用工作室灯光效果，呈现卡通化比例，运用皮克斯风格 3D 渲染技术，织物与皮肤纹理细节极致丰富。身躯比例略小于头部，画面为 1080x1080 的正方形格式。
+```
+
+<a id="prompt-69"></a>
+### 案例 69：制作证件照
+
+<img src="./images/bananaprompt/69.png" width="300" alt="Awesome GPT-4o Image Prompts-制作证件照">
+
+**中文提示词：**
+```
+截取图片人像头部，帮我做成2寸证件照，要求:
+1、蓝底
+2、职业正装
+3、正脸
+4、微笑
+```
+
+<a id="prompt-68"></a>
+### 案例 68：制作大头贴
+
+<img src="./images/bananaprompt/68.png" width="300" alt="Awesome GPT-4o Image Prompts-制作大头贴">
+
+**中文提示词：**
+```
+用这张照片，做一个3*3的photo booth grid，每张要用不同的姿势和表情不许重复
+```
+
+<a id="prompt-67"></a>
+### 案例 67：手办-ZBrush建模屏显与万代风格包装盒
+
+<img src="./images/bananaprompt/67.png" width="300" alt="Awesome GPT-4o Image Prompts-手办-ZBrush建模屏显与万代风格包装盒">
+
+**提示词：**
+```
+create a 1/7 scale commercialized figure of thecharacter in the image, in a realistic styie and environment.
+Place the figure on a computer desk, using a circular transparent acrylic base without any text.
+On the computer screen, display the ZBrush modeling process of the figure.
+Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
+```
+**中文提示词：**
+```
+NanoBanana手办提示词：
+在现实的风格和环境中，创建图像中角色的 1/7 比例商业化人物形象。
+将图形放置在电脑桌上，使用没有任何文字的圆形透明丙烯酸底座。
+在电脑屏幕上，显示人物的ZBrush建模过程。
+在电脑屏幕旁边，放置一个印有原创艺术品的BANDAl风格玩具包装盒。
+```
+
+<a id="prompt-66"></a>
+### 案例 66：制作工作室拍摄肖像照
+
+<img src="./images/bananaprompt/66.png" width="300" alt="Awesome GPT-4o Image Prompts-制作工作室拍摄肖像照">
+
+**中文提示词：**
+```
+给图里的人生成工作室拍摄肖像照片,黑色背景,黑色T恤,采用侧光和半身像的构图
+```
+
+<a id="prompt-65"></a>
+### 案例 65：透明扭蛋场景模型
+
+<img src="./images/bananaprompt/65.png" width="300" alt="Awesome GPT-4o Image Prompts-透明扭蛋场景模型">
+
+**提示词：**
+```
+A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme (e.g., golden spotlight, concert glow, academic ambience). The capsule has a transparent top and a colored base (choose fitting color: e.g., royal blue, gold, black, red), decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition.
+```
+**中文提示词：**
+```
+一个详细的透明扭蛋场景模型，由手指捏握，扭蛋内呈现 [人物名称] 的 [标志性姿势 / 风格] 形象。
+扭蛋内部细节：[简要描述人偶的外形、服饰及配饰]，背景元素包含 [相关场景：体育场、舞台、讲堂等]。
+光线设计需富有戏剧感与电影质感，并契合人物主题（例如：金色聚光灯、演唱会光影、学术氛围光效）。扭蛋顶部为透明材质，底部为彩色设计（选用契合主题的颜色，如宝蓝色、金色、黑色、红色），底部装饰有 [与该人物相关的图案元素]。
+扭蛋底座以匹配风格的字体标注有 [人物名称或昵称]。整体设计需呈现迷你收藏品的质感，细节超写实，搭配柔和的虚化背景，采用 1080x1080 像素的正方形构图。
+```
+
+<a id="prompt-64"></a>
+### 案例 64：3D超写实食品广告
+
+<img src="./images/bananaprompt/64.png" width="300" alt="Awesome GPT-4o Image Prompts-3D超写实食品广告">
+
+**提示词：**
+```
+Smooth 3D hyperrealistic food advertisement of [TYPE OF FOOD], shown with mouthwatering glossy textures and perfect lighting, placed on a dark moody surface with soft glow and cinematic blur in the background, high Kelvin lighting for golden highlights and sharp shadows, backlit to show delicious steam and dripping sauces, behind the food a bold slogan in elegant font with three words only, restaurant logo subtly placed on the plate or in the corner, rich color grading with appetite-inducing tones, ultra sharp, professional food styling, stylized render
+```
+**中文提示词：**
+```
+[食物类型]的流畅3D超写实食品广告
+- 呈现令人垂涎的光泽质感与完美光线效果
+- 置于深邃氛围感的表面上，背景带有柔和光晕与电影感模糊效果
+- 采用高开尔文色温光线，营造金色高光与清晰阴影
+- 运用逆光拍摄，展现诱人的热气与滴落的酱汁
+- 食物后方以优雅字体呈现一句仅含三个单词的醒目标语
+- 餐厅标志巧妙置于餐盘之上或画面角落
+- 采用浓郁的色彩分级，搭配激发食欲的色调
+- 极致清晰的画面质感，专业的食物造型设计，风格化渲染效果
+```
+
+<a id="prompt-63"></a>
+### 案例 63：Q版木雕人偶
+
+<img src="./images/bananaprompt/63.png" width="300" alt="Awesome GPT-4o Image Prompts-Q版木雕人偶">
+
+**提示词：**
+```
+Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big head, short body), standing on a plain wood block. Keep key face traits and iconic [OUTFIT/PROP]. Visible wood grain and chisel marks, matte finish. Warm studio light, soft shadow, seamless beige background. Centered full-body, slight 3/4 angle, shallow depth of field (85mm look). Ultra-detailed, photoreal, warm sepia grading. Aspect ratio [3:4].
+```
+**中文提示词：**
+```
+超写实[人物]木雕人偶，Q版比例（大头短身），站立于一块普通木块上。保留关键面部特征和标志性[服装/道具]。木纹和凿痕清晰可见，哑光饰面。工作室暖光，柔和阴影，米色背景浑然一体。全身居中，略微3/4视角，浅景深（85毫米画质）。细节丰富，照片级写实，暖棕褐色调。宽高比为[3:4]。
+```
 
 <a id="prompt-62"></a>
 ### 案例 62：品牌着陆页-年轻女性运动后的面部特写
