@@ -2,6 +2,16 @@
 
 ##    Prompt
 
+*   [案例 81：你抱着年幼版自己的复古风自拍 ](#prompt-81)
+*   [案例 80：都市上空巨大的涡旋冲破暴风云层 ](#prompt-80)
+*   [案例 79：照片级真实感室内躺姿人像 ](#prompt-79)
+*   [案例 78：角色创建 ](#prompt-78)
+*   [案例 77：产品超逼真的CGI镜头 ](#prompt-77)
+*   [案例 76：照片级逼真的概念食物艺术肖像 ](#prompt-76)
+*   [案例 75：6张复古宝丽来照片 ](#prompt-75)
+*   [案例 74：电影级3D动感广告 ](#prompt-74)
+*   [案例 73：创建自己的3D漫画 ](#prompt-73)
+*   [案例 72：秋天的落叶拼成图案 ](#prompt-72)
 *   [案例 71：字母动物 ](#prompt-71)
 *   [案例 70：超写实3D漫画肖像 ](#prompt-70)
 *   [案例 69：制作证件照 ](#prompt-69)
@@ -73,6 +83,414 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-81"></a>
+### 案例 81：你抱着年幼版自己的复古风自拍
+
+<img src="./images/bananaprompt/81.png" width="300" alt="Awesome GPT-4o Image Prompts-你抱着年幼版自己的复古风自拍">
+
+**提示词：**
+```
+retro selfies of you holding a baby version of you
+```
+**中文提示词：**
+```
+你抱着幼年版自己的复古风自拍
+```
+
+<a id="prompt-80"></a>
+### 案例 80：都市上空巨大的涡旋冲破暴风云层
+
+<img src="./images/bananaprompt/80.png" width="300" alt="Awesome GPT-4o Image Prompts-都市上空巨大的涡旋冲破暴风云层">
+
+**提示词：**
+```
+A massive spiral vortex tears through storm clouds above a futuristic illuminated city, revealing blue sky beyond a visual metaphor for artificial general intelligence breaking through the turbulence of current limitations to reach clarity beyond human comprehension. 
+```
+**中文提示词：**
+```
+在一座灯火璀璨的未来都市上空，巨大的螺旋状涡旋冲破暴风云层，显露出后方的蓝天 —— 这一视觉隐喻象征着通用人工智能突破当前局限的重重阻碍，抵达人类难以理解的清晰境界。
+```
+
+<a id="prompt-79"></a>
+### 案例 79：照片级真实感室内躺姿人像
+
+<img src="./images/bananaprompt/79.png" width="300" alt="Awesome GPT-4o Image Prompts-照片级真实感室内躺姿人像">
+
+**提示词：**
+```
+{
+"photorealistic_indoor_reclining_portrait",
+  "style": "Natural editorial portrait; lifelike texture; minimal, tasteful retouching.",
+  "output": { "aspect_ratio": "9:16", "resolution_px": [1440, 2560], "color_profile": "sRGB" },
+
+  "subject": {
+    "category": "human",
+    "gender_presentation": "female",
+    "ethnicity": "East Asian",
+    "age_bracket": "young_adult",
+    "body": {
+      "build": "slim with realistic proportions",
+      "bust": "fuller bust (natural C–D cup), proportional to frame; gentle natural slope, supportive shaping—no extreme push-up",
+      "skin_tone": "light neutral with natural variation"
+    },
+    "pose": {
+      "orientation": "reclining on back, relaxed",
+      "right_arm": "raised above head, fingers lightly touching hairline",
+      "left_arm": "bent across torso, hand resting on midriff",
+      "head": "slightly tilted toward camera left"
+    },
+    "face": {
+      "shape": "oval with mild asymmetry and natural cheek volume",
+      "expression": "soft and open",
+      "gaze": "direct to camera"
+    },
+    "eyes": {
+      "description": "natural-size, lively but realistic",
+      "color": "neutral gray-blue (low saturation)",
+      "size_ratio": { "iris_fraction_of_visible_eye": 0.29, "pupil_fraction_of_iris": 0.27 },
+      "details": {
+        "limbal_ring_strength": 0.08,
+        "sclera_brightness_Lstar": 78,
+        "sclera_texture": "fine veins and faint tear meniscus on lower lid",
+        "catchlights": "two soft rectangular window reflections about 10% of iris width",
+        "specular_quality": "satin (no glassy glare)",
+        "iris_texture": "visible stromal fibers and subtle color noise"
+      }
+    },
+    "makeup": "sheer base preserving pores; soft peach blush; brown mascara/liner; taupe eyeshadow; hydrated nude lips",
+    "hair": { "length": "long", "style": "half-up with bun, slight wave; a few flyaways visible", "color": "natural black" },
+    "wardrobe": {
+      "outfit": "blue top with Gucci shorts",
+      "top": "powder-blue cropped bustier with sweetheart neckline and structured cups; off-shoulder or slim straps; tasteful cleavage; opaque lined fabric; subtle corset seams; cropped length reveals a sliver of midriff",
+      "bottom": "Gucci blue GG-monogram denim shorts (small-scale jacquard, navy/indigo on blue; correct 'GG' orientation; no extra text)",
+      "accessories": {
+        "jewelry": "thin black velvet choker with tiny pendant, small stud earrings, simple rings",
+        "wrists": "white fabric scrunchie on right; delicate bracelets on left"
+      }
+    }
+  },
+     "environment": {
+    "location": "bedroom",
+    "set": "plush bed with slightly wrinkled off-white linens and pillows",
+    "background_props": "upper right: dark round tray with small white ceramic tea set on textured brown surface"
+  },
+
+  "lighting": {
+    "scheme": "window key + sheet bounce",
+    "source": "large window through sheer curtains (or 120 cm softbox with double diffusion)",
+    "quality": "very soft with defined direction",
+    "direction": "45° from camera right and slightly top; white bedding as fill about 1.5 stops under key",
+    "temperature": "5200K",
+    "effect": "gentle modeling with soft nose/lip shadow; crisp but soft eye catchlights; no bloom"
+  },
+
+  "camera": {
+    "sensor": "full-frame",
+    "lens": { "focal_length_mm": 85 },
+    "distance_m": 1.8,
+    "exposure": {
+      "aperture_f": 3.2,
+      "iso": 200,
+      "shutter_s": 0.005,
+      "metering": "spot on cheekbone; ETTR then -0.3 EV to protect highlights on fabric"
+    },
+    "focus": {
+      "target": "near eye",
+      "depth_of_field": "moderate (eyes and bust plane in focus; bedding softly blurred)"
+    },
+    "framing": {
+      "orientation": "vertical",
+      "angle": "overhead with slight tilt toward face; avoid wide-angle distortion",
+      "composition": "9:16 crop framed head to upper hips so bustier and Gucci shorts are visible without foreshortening"
+    }
+  },
+
+  "color_grade": {
+    "look": "true-to-life neutrals with blue accent",
+    "contrast": "medium-low",
+    "palette": "powder/indigo blues, ivory, soft brown",
+    "notes": "retain skin undertones; avoid cyan cast; ensure Gucci blue reads clean without oversaturation"
+  },
+
+  "postprocess": {
+    "skin": "retain pores and micro-shine; remove only transient blemishes; keep faint under-eye texture",
+    "eyes": "no iris enlargement; subtle iris clarity and micro-contrast; limbal ring kept weak",
+    "sharpen": "moderate on eyes/brows/hair strands and denim weave/monogram",
+    "grain": "fine film grain at 1.5–2%",
+    "effects": "disable beauty filters, frequency-separation blur, glow/bloom; no HDR skin"
+  },
+
+  "realism_cues": [
+    "flyaway hairs around hairline",
+    "subtle nasolabial and philtrum depth",
+    "natural knuckle/tendon texture on left hand",
+    "visible denim weave and aligned monogram on shorts",
+    "fabric creases and bedding wrinkles"
+  ],
+
+  "negative_prompt": [
+    "doll, BJD, porcelain skin, neotenous proportions, plastic/waxy texture",
+    "oversized/anime/doe eyes, iris enlargement, glassy eyes",
+    "bright cyan/ice-blue contacts, heavy limbal ring, unnaturally white sclera",
+    "poreless skin, beauty filter, airbrushed, skin smoothing",
+    "bloom/Orton glow, excessive skin luster",
+    "CGI, 3D render, illustration, toon shading, LoRA: doll/BJD",
+    "wide-angle facial distortion, extreme symmetry filter",
+    "random text overlays, misspelled logos, watermarks",
+    "see-through fabrics, wardrobe malfunction, underboob/sideboob, explicit NSFW",
+    "distorted anatomy, extra fingers"
+  ],
+
+}
+```
+**中文提示词：**
+```
+{
+"照片级真实感室内躺姿人像",
+  "风格": "自然杂志风人像；逼真质感；简约且精致的修图（保留真实细节）",
+  "输出参数": { "宽高比": "9:16", "分辨率（像素）": [1440, 2560], "色彩配置文件": "sRGB" },
+
+  "拍摄主体": {
+    "类别": "人物",
+    "性别呈现": "女性",
+    "人种": "东亚人",
+    "年龄段": "年轻成人",
+    "身形": {
+      "体型": "纤瘦且比例真实",
+      "胸部": "丰满（自然C-D罩杯），与整体身形比例协调；线条自然柔和，有承托感，无过度聚拢效果",
+      "肤色": "浅中性色，带有自然肤色差异（非均匀色块）"
+    },
+    "姿势": {
+      "整体姿态": "仰卧，姿态放松",
+      "右臂": "举过头顶，手指轻触发际线",
+      "左臂": "弯曲横过躯干，手搭在腹部",
+      "头部": "略微向镜头左侧倾斜"
+    },
+    "面部": {
+      "脸型": "椭圆形，略带不对称感，脸颊饱满度自然",
+      "表情": "柔和、舒展",
+      "目光": "直视镜头"
+    },
+    "眼部": {
+      "描述": "大小自然，灵动且真实",
+      "颜色": "中性灰蓝色（低饱和度）",
+      "大小比例": { "虹膜占可见眼球比例": 0.29, "瞳孔占虹膜比例": 0.27 },
+      "细节": {
+        "虹膜边缘环清晰度": 0.08（近乎隐形）,
+        "眼白亮度（L*值）": 78,
+        "眼白质感": "细微血管，下眼睑有淡泪痕",
+        "眼神光": "两处柔和的长方形窗户反光，宽度约为虹膜的10%",
+        "光泽质感": "丝缎质感（无玻璃般的强光反射）",
+        "虹膜纹理": "可见基质纤维，带有细微色彩颗粒感"
+      }
+    },
+    "妆容": "轻薄底妆（保留毛孔）；柔和桃色腮红；棕色睫毛膏/眼线；灰褐色眼影；水润裸色唇膏",
+    "发型": { "长度": "长发", "造型": "半扎丸子头，略带波浪；可见几根碎发", "颜色": "自然黑色" },
+    "服饰": {
+      "整体搭配": "蓝色上衣配古驰（Gucci）短裤",
+      "上衣": "粉蓝色短款抹胸，心形领口，带立体罩杯；露肩或细肩带设计；领口弧度优雅；面料厚实不透视（带里衬）；带有精致束腰缝线；短款设计露出一小截腹部",
+      "下装": "古驰（Gucci）蓝色双G提花牛仔短裤（小尺寸提花图案，藏青/靛蓝色花纹印于蓝色基底上；双G标志方向正确；无多余文字图案）",
+      "配饰": {
+        "珠宝": "黑色细天鹅绒项圈（带小巧吊坠）、小巧耳钉、简约戒指",
+        "腕部饰品": "右手戴白色布艺发圈；左手戴精致手链"
+      }
+    }
+  },
+
+  "环境": {
+    "场景": "卧室",
+    "布景": "柔软的床，铺有略带褶皱的米白色床品和枕头",
+    "背景道具": "右上角：深色圆形托盘（置于纹理棕色表面上），托盘内放有小型白色陶瓷茶具"
+  },
+
+  "光线": {
+    "布光方案": "窗户主光+床单反光补光",
+    "光源": "透过薄窗帘的大窗户（或120厘米双扩散柔光箱）",
+    "光线质感": "极其柔和，且方向明确",
+    "光线方向": "从镜头右侧45°角、略高于主体的位置入射；白色床品作为补光（亮度比主光低1.5档）",
+    "色温": "5200K（标准白光）",
+    "光影效果": "柔和的轮廓塑造（鼻子/唇部阴影自然）；清晰且柔和的眼神光；无光晕溢出"
+  },
+
+  "相机参数": {
+    "传感器": "全画幅",
+    "镜头": { "焦距（毫米）": 85 },
+    "拍摄距离（米）": 1.8,
+    "曝光参数": {
+      "光圈值": 3.2,
+      "感光度（ISO）": 200,
+      "快门速度（秒）": 0.005（即1/200秒）,
+      "测光方式": "点测光（测光点为颧骨）；向右曝光（ETTR）后降低0.3档曝光值，以保护面料高光细节"
+    },
+    "对焦": {
+      "对焦目标": "靠近镜头一侧的眼睛",
+      "景深": "中等（眼睛与胸部处于同一焦平面，保持清晰；床品轻微虚化）"
+    },
+    "构图": {
+      "画面方向": "竖版",
+      "拍摄角度": "俯拍，镜头略微向面部倾斜；避免广角畸变",
+      "裁切比例": "9:16裁切，画面覆盖头部至髋部上方，确保抹胸与古驰短裤完整呈现，且无透视变形"
+    }
+  },
+
+  "调色": {
+    "风格": "真实中性色调，以蓝色为点缀色",
+    "对比度": "中低",
+    "色调 palette": "粉蓝/靛蓝色、米白色、柔和棕色",
+    "注意事项": "保留皮肤原有底色；避免青蓝色色偏；确保古驰蓝色呈现纯净质感，无过度饱和"
+  },
+
+  "后期处理": {
+    "皮肤处理": "保留毛孔与细微油光；仅去除临时瑕疵（如痘痘）；保留淡淡的眼下纹理",
+    "眼部处理": "不放大虹膜；轻微增强虹膜清晰度与微对比度；保留弱虹膜边缘环",
+    "锐化": "对眼睛/眉毛/发丝、牛仔面料纹理/提花图案进行适度锐化",
+    "颗粒感": "添加1.5%-2%的细腻胶片颗粒",
+    "效果禁用": "关闭美颜滤镜、频率分离模糊、光晕/柔光效果；不使用HDR皮肤处理"
+  },
+
+  "真实感细节提示": [
+    "发际线处的碎发",
+    "自然的鼻唇沟与人中立体感",
+    "左手手指关节/肌腱的真实纹理",
+    "短裤上清晰的牛仔面料纹理与对齐的提花图案",
+    "面料褶皱与床品自然褶皱"
+  ],
+
+  "负面提示（需避免）": [
+    "玩偶感、球形关节娃娃（BJD）、瓷娃娃质感皮肤、幼态化比例、塑料/蜡质质感",
+    "过大眼睛/动漫眼/小鹿眼、虹膜放大、玻璃质感眼睛",
+    "亮青色/冰蓝色美瞳、明显虹膜边缘环、不自然的雪白眼白",
+    "无毛孔皮肤、美颜滤镜效果、磨皮过度、皮肤光滑失真",
+    "光晕效果/奥顿柔光效果（Orton glow）、皮肤过度油光",
+    "CGI效果、3D渲染、插画风格、卡通 shading、玩偶/球形关节娃娃（BJD）相关模型（LoRA）",
+    "广角镜头面部畸变、过度对称滤镜效果",
+    "随机文字叠加、logo拼写错误、水印",
+    "透视装/面料过透、服饰走光、露下胸/侧胸、不雅内容（NSFW）",
+    "肢体结构扭曲、多手指"
+  ]
+}
+```
+
+<a id="prompt-78"></a>
+### 案例 78：角色创建
+
+<img src="./images/bananaprompt/78.png" width="300" alt="Awesome GPT-4o Image Prompts-角色创建">
+
+**提示词：**
+```
+3d rendering, c4d, cartoon style, [ACTION-DRIVEN CHARACTER IN EXAGGERATED POSE, EXPRESSING IRONY OR DEFIANCE], [MINIMAL BACKGROUND OF CONTEXTUAL SETTING], minimalist art style, simple design, high resolution, no low-quality details, high detail,best quality, professional photography, depth of field, soft lighting, sharp focus, cinematic lighting, cinematic camera settings
+```
+**中文提示词：**
+```
+3D 渲染、C4D、卡通风格、[动作驱动角色的夸张姿势，表达讽刺或反抗]、[情境设置的最小背景]、极简艺术风格、简约设计、高分辨率、无低质量细节、高细节、最佳质量、专业摄影、景深、柔和灯光、清晰对焦、电影灯光、电影摄像机设置]
+```
+
+<a id="prompt-77"></a>
+### 案例 77：产品超逼真的CGI镜头
+
+<img src="./images/bananaprompt/77.png" width="300" alt="Awesome GPT-4o Image Prompts-产品超逼真的CGI镜头">
+
+**提示词：**
+```
+Ultra-realistic CGI shot of a giant [PRODUCT NAME HERE], seamlessly integrated into a matching real-world environment that reflects the product’s identity, surrounded by context-specific city or nature elements, cinematic composition with natural shadows and photorealistic reflections, high Kelvin sunlight for neutral lighting, captured in HDR 8K DSLR quality, surreal yet believable visual integration, brand logo clearly visible, slogan dynamically adapted to the product’s character, dramatic and immersive atmosphere, aspect ratio 2:3
+```
+**中文提示词：**
+```
+超逼真的CGI镜头，拍摄一个巨大的 [此处填写产品名称]，无缝融入到反映产品特性的现实环境中，周围环绕着特定环境的城市或自然元素，具有自然阴影和逼真反射的电影构图，高开尔文阳光用于中性照明，以 HDR 8K DSLR 质量捕捉，超现实但可信的视觉融合，品牌标识清晰可见，标语根据产品特性动态调整，戏剧性和沉浸式氛围，宽高比为 2:3
+```
+
+<a id="prompt-76"></a>
+### 案例 76：照片级逼真的概念食物艺术肖像
+
+<img src="./images/bananaprompt/76.png" width="300" alt="Awesome GPT-4o Image Prompts-照片级逼真的概念食物艺术肖像">
+
+**提示词：**
+```
+Photorealistic conceptual food art portrait, a minimalist representation of a [SITE OF THE HOUSE] recreated entirely with [TYPE OF FOOD]. The main structure is built from [MAIN INGREDIENTS], with details such as [KEY ELEMENTS] made from [SECONDARY INGREDIENTS]. Optional features include [ADDITIONAL OBJECTS OR FURNITURE] created from [EXTRA INGREDIENTS].
+
+Set against a [COLOR] background to emphasize the surreal food sculpture. Bright soft studio lighting, evenly diffused, casting subtle natural shadows that highlight the textures of [FOOD TEXTURES]. Fine atmospheric detail enhance realism.
+
+Captured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing on the cake-bed sculpture, crisp detail with soft falloff in the background. Composition framed at tabletop eye-level, medium close-up, perfectly centered. Clean high-resolution food photography style, vibrant natural colors, editorial dessert photography aesthetic
+```
+**中文提示词：**
+```
+照片级逼真的概念食物艺术肖像，极简主义地再现了[房屋位置]，完全由[食物种类]重新打造。主体结构由[主要成分]构成，细节部分，例如[关键元素]，则由[次要成分]制成。可选功能包括由[额外成分]打造的[附加物品或家具]。
+
+以[颜色]为背景，突显超现实的食物雕塑。明亮柔和的摄影棚灯光，均匀散射，投射出微妙的自然阴影，凸显[食物纹理]的质感。精致的氛围细节增强了真实感。
+
+使用佳能 EOS 5D 85mm f/1.8 镜头拍摄，浅景深聚焦于蛋糕床雕塑，细节清晰，背景边缘柔和。构图以桌面视线高度为准，中距特写，完美居中。清晰的高分辨率美食摄影风格，鲜艳自然的色彩，堪称甜品摄影的美学典范。
+```
+
+<a id="prompt-75"></a>
+### 案例 75：6张复古宝丽来照片
+
+<img src="./images/bananaprompt/75.png" width="300" alt="Awesome GPT-4o Image Prompts-6张复古宝丽来照片">
+
+**提示词：**
+```
+Create an artistic collage of 6 vintage Polaroid photos, attached with a decorative rope and mini clothespins, like a home photo gallery. Each Polaroid frame has a slight fading and an old paper effect. The background is a soft pastel wall with light shadows, creating a cozy and creatively chaotic atmosphere.
+Emotions and poses:
+ * Light laughter — eyes closed, natural joy.
+ * Dreamy gaze upwards, relaxed pose.
+ * Playful wink.
+ * Calm smile with a head tilted to the side.Dynamic gesture hands raised high, full of energy.
+
+* Romantic half-glance over the shoulder.
+
+The atmosphere is an art-retro style with elements of a '70s fashion magazine, soft diffused lighting, and muted warm and golden tones. Each photograph looks like a unique behind-the-scenes shot, with a touch of nostalgia and a sense of personal history.
+```
+**中文提示词：**
+```
+用6张复古宝丽来照片，用装饰绳和迷你衣夹固定，打造一个艺术拼贴画，就像一个家庭相册。每个宝丽来相框都略微褪色，并呈现出旧纸效果。背景是一面柔和的粉彩色墙，点缀着浅淡的阴影，营造出一种舒适而又充满创意的混乱氛围。
+情绪和姿势：
+* 轻松的笑声——闭上眼睛，自然的快乐。
+* 梦幻般的目光向上凝视，放松的姿势。
+* 顽皮的眨眼。
+* 平静的微笑，头部歪向一侧。动态的手势，双手高举，充满活力。
+
+* 浪漫地回头瞥了一眼。
+
+店内弥漫着复古艺术的氛围，融合了70年代时尚杂志的元素，柔和的漫射灯光，以及柔和的暖金色色调。每一张照片都像是一张独特的幕后花絮，洋溢着一丝怀旧气息，也透露着个人的点滴历史。
+```
+
+<a id="prompt-74"></a>
+### 案例 74：电影级3D动感广告
+
+<img src="./images/bananaprompt/74.png" width="300" alt="Awesome GPT-4o Image Prompts-电影级3D动感广告">
+
+**提示词：**
+```
+Cinematic 3D action-packed advertisement of [PRODUCT], captured in a dramatic mid-motion scene that embodies its core energy. Use bold studio lighting with intense highlights and deep shadows, dynamic particles, and slow-motion effects to amplify impact. The environment should feel surreal yet hyperrealistic, designed to reflect the product’s personality (crunchy, energetic, fast, luxurious, refreshing, etc.). Integrate the brand logo crafted from product elements if possible, and place a sleek creative slogan beneath it that matches the mood. Composition in 1:1 aspect ratio, hyper-detailed, sharp, bold, and designed to go viral.
+```
+**中文提示词：**
+```
+[PRODUCT] 的电影级 3D 动感广告，以戏剧化的中景捕捉，展现其核心能量。运用大胆的影棚灯光、强烈的高光和深邃的阴影、动态粒子和慢动作效果来增强视觉冲击力。环境应营造超现实却又超现实的感觉，旨在体现产品的个性（清爽、活力、快速、奢华、清爽等）。尽可能融入由产品元素精心打造的品牌标识，并在其下方放置一个与氛围相符的时尚创意口号。构图采用 1:1 的宽高比，细节丰富、锐利大胆，旨在打造病毒式传播的效果。
+```
+
+<a id="prompt-73"></a>
+### 案例 73：创建自己的3D漫画
+
+<img src="./images/bananaprompt/73.png" width="300" alt="Awesome GPT-4o Image Prompts-创建自己的3D漫画">
+
+**提示词：**
+```
+A highly stylized 3D caricature of me, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+```
+**中文提示词：**
+```
+这是我高度风格化的3D漫画形象，面部特征生动，夸张的笔触俏皮。渲染风格流畅优美，材质干净，环境光柔和。背景采用大胆的色彩，突出人物的魅力和气质。
+```
+
+<a id="prompt-72"></a>
+### 案例 72：秋天的落叶拼成图案
+
+<img src="./images/bananaprompt/72.png" width="300" alt="Awesome GPT-4o Image Prompts-秋天的落叶拼成图案">
+
+**中文提示词：**
+```
+中景，有阳光的午后，胶片质感，拍摄地面，秋天的落叶、树枝、银杏叶和桂花在平面上拼成了一个小猫的样子，旁边放着一杯一次性咖啡杯
+```
 
 <a id="prompt-71"></a>
 ### 案例 71：字母动物
