@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 82：模拟在 Cosplay 会场现场拍摄场景 ](#prompt-82)
 *   [案例 81：你抱着年幼版自己的复古风自拍 ](#prompt-81)
 *   [案例 80：都市上空巨大的涡旋冲破暴风云层 ](#prompt-80)
 *   [案例 79：照片级真实感室内躺姿人像 ](#prompt-79)
@@ -83,6 +84,206 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-82"></a>
+### 案例 82：模拟在 Cosplay 会场现场拍摄场景
+
+<img src="./images/bananaprompt/82.png" width="300" alt="Awesome GPT-4o Image Prompts-模拟在 Cosplay 会场现场拍摄场景">
+
+**提示词：**
+```
+{
+  "meta": {
+    "version": "1.2-strict",
+    "task": "cosplay_convention_coser_plus_rollup_banner_same_pose",
+    "aspect_ratio": "3:2",
+    "alt_aspect_ratios": ["4:5", "9:16"],
+    "resolution": "4k",
+    "seed": null
+  },
+  "character": {
+    "name": "",
+    "franchise": "",
+    "reference_image": "",
+    "is_humanoid": "auto",
+    "iconic_elements": [],
+    "color_palette": [],
+    "pose_hint": ""
+  },
+  "banner": {
+    "type": "roll_up_retractable_banner",
+    "size": "85x200cm_vertical",
+    "base": "aluminum_cassette_with_stabilizer_feet",
+    "support": "rear_tension_pole",
+    "top_bar": "aluminum_clamp_bar",
+    "print_area": "edge_to_edge_no_border",
+    "substrate": "PET_film_200mic_matte_anti_glare",
+    "finish": "satin_matte",
+    "curl_control": "minimal",
+    "content_policy": "original_character_exact",
+    "no_legible_text_or_logos": true,
+    "sharpness_priority": "max",
+    "placement": "banner_left_coser_right_small_gap_full_body"
+  },
+  "coser": {
+    "gender_presentation": "unspecified",
+    "body_type": "unspecified",
+    "age_group": "adult",
+    "makeup_style": "convention_ready",
+    "wig_style": "match_character_exact_if_humanoid_else_color_reference",
+    "outfit_detail": "screen_accurate_exact_if_humanoid_else_gijinka_translation",
+    "props": [],
+    "pose_sync": "same_banner_pose_not_mirrored",
+    "pose_translation_ruleset": "default_v1"
+  },
+  "controls": {
+    "reference_adherence_weight": 1.0,
+    "pose_control": "openpose_or_equivalent",
+    "pose_control_weight": 1.0,
+    "detail_lock_weight": 1.0
+  },
+  "match_fidelity": {
+    "outfit_match_mode": "exact_1_to_1",
+    "color_lock": "use_only_character_palette",
+    "prop_presence": "require_all_from_reference",
+    "prop_hand_lock": "same_hand_and_orientation_as_banner",
+    "orientation_lock": "same_as_banner_not_mirrored",
+    "ban_substitution": true,
+    "ban_variations": true,
+    "priority_order": [
+      "pose_alignment",
+      "hairstyle_and_parting",
+      "outfit_cut_and_panels",
+      "lace/trim/pattern",
+      "props_and_hand_assignment",
+      "color_blocking",
+      "footwear",
+      "jewelry_accessories"
+    ]
+  },
+  "venue": {
+    "location": "anime_game_convention_hall",
+    "booth_style": "artist_alley_plus_brand_backdrops",
+    "background_density": "medium_bokeh_crowd",
+    "lighting": "expo_softboxes_plus_overhead",
+    "white_balance": "neutral",
+    "no_brand_text": true
+  },
+  "camera": {
+    "focal_length_mm": 45,
+    "aperture": "f/3.2",
+    "angle": "eye_level_slight_low",
+    "framing": "full_body_coser_beside_roll_up_banner_base_and_top_bar_visible",
+    "depth_of_field": "shallow_subjects_sharp_background_bokeh",
+    "motion_blur": "none",
+    "color_grade": "cinematic_neutral"
+  },
+  "logic": {
+    "branching": {
+      "if_is_humanoid": "faithful_cosplay_hair_costume_props_match_reference_exact_1_to_1",
+      "if_nonhumanoid": "gijinka_translate_iconic_elements_colors_props_keep_banner_as_original_nonhuman_with_pose_silhouette_match"
+    },
+    "pose_alignment": {
+      "guides": [
+        "match_primary_silhouette_lines",
+        "match_limb_angles_and_weight_shift",
+        "align_head_tilt_and_gaze_direction",
+        "match_finger_curl_and_hand_shape",
+        "mirror_key_prop_orientation=off"
+      ],
+      "enforce": [
+        "entire_banner_structure_visible_including_base_and_top_bar",
+        "no_border_edge_to_edge_print_matte_anti_glare",
+        "banner_left_coser_right_small_gap_full_body",
+        "coser_pose_sync=same_banner_pose_not_mirrored"
+      ]
+    },
+    "pose_translation_ruleset": {
+      "default_v1": {
+        "limb_map": {
+          "foreleg_or_mech_arm": "human_arm_with_gauntlet_or_armor",
+          "hind_leg_or_tailed_balance": "human_stance_wide_or_tiptoe_for_balance",
+          "wings_extended": "human_arms_extended_with_cape_fin_panels",
+          "quad_stance": "human_forward_lean_split_stance",
+          "hover_or_flight": "human_on_tiptoe"
+        },
+        "prop_map": {
+          "v_fin_or_headcrest": "hairband_or_headpiece_with_v_crest",
+          "tail": "belt_ribbon_or_trailing_sash",
+          "claws": "gauntlets_with_claw_caps",
+          "cannon_or_gun": "foam_prop_or_3d_printed_replica",
+          "emblem": "chest_plate_or_badge"
+        },
+        "silhouette_guides": [
+          "prioritize_spine_curve_and_shoulders",
+          "match_primary_negative_space_between_limbs",
+          "align_weapon_or_wing_angle_with_prop_analogs"
+        ]
+      }
+    },
+    "safety": {
+      "wardrobe": "convention_safe",
+      "rating": "PG_13",
+      "forbid": [
+        "nsfw",
+        "explicit_brand_logos",
+        "legible_copyright_text",
+        "legible_text"
+      ]
+    }
+  },
+  "negative": [
+    "easel",
+    "tripod_easel",
+    "foam_board",
+    "kiss_cut_border",
+    "white_border_poster",
+    "tabletop_poster",
+    "standee_cutout",
+    "curling_edges_exaggerated",
+    "brand_logos",
+    "legible_text",
+    "alternate_outfit",
+    "redesign",
+    "reinterpretation",
+    "style_variation",
+    "blindfold",
+    "eye_mask",
+    "sunglasses",
+    "maid_dress",
+    "apron",
+    "missing_prop",
+    "wrong_color_scheme",
+    "different_hairstyle",
+    "wig_color_mismatch",
+    "different_pose",
+    "mirrored_pose",
+    "extra_limbs",
+    "hand_deformation",
+    "blurry_banner",
+    "overexposed_highlights",
+    "duplicated_subjects"
+  ],
+  "templates": {
+    "prompt_if_humanoid": "A cinematic documentary-style photo at an anime/game convention hall. A life-size roll-up banner on an aluminum retractable stand (visible cassette base with feet, rear tension pole, clamp top bar) displays the original {{character.name}} from {{character.franchise}} exactly as in the uploaded reference. A real human cosplayer stands next to it wearing an EXACT 1:1 screen-accurate cosplay that matches the banner in every observable detail: hairstyle and hair parting, hair length, makeup, neckline shape, sleeve type, lace/trim pattern, skirt tiering, color blocking, jewelry, footwear, and all signature props held in the SAME hand and orientation. NO redesign, NO additions, NO omissions. The cosplayer's pose is the SAME as the banner (NOT mirrored): match limb angles, weight shift, head tilt, gaze direction, and finger shapes. Lock colors to {{character.color_palette}} with no deviations. Medium crowd bokeh, soft expo lighting, matte anti-glare print. Camera: {{camera.focal_length_mm}}mm, {{camera.aperture}}, eye-level slight low angle, shallow DoF; the entire banner including base and top bar is visible. No legible text or logos anywhere.",
+    "prompt_if_nonhumanoid": "A cinematic documentary-style photo at an anime/game convention hall. A life-size roll-up banner on an aluminum retractable stand (visible cassette base with feet, rear tension pole, clamp top bar) shows the original non-humanoid {{character.name}} from {{character.franchise}} exactly as in the uploaded reference. Next to it stands a human cosplayer in a STRICT gijinka (humanized) translation derived from the reference: translate iconic colors and parts ({{character.iconic_elements}}) into wearable armor plates, accessories, and hair ornaments with ONE-TO-ONE motif retention; map nonhuman limbs to human equivalents to match the SAME silhouette and pose (NOT mirrored). Include prop analogs in the SAME hand and orientation. Lock colors to {{character.color_palette}} with no deviations. Medium crowd bokeh, soft expo lighting, matte anti-glare print. Camera: {{camera.focal_length_mm}}mm, {{camera.aperture}}, eye-level slight low angle, shallow DoF; the entire banner including base and top bar is visible. No legible text or logos anywhere."
+  },
+  "compose": {
+    "select_template": {
+      "if": "character.is_humanoid == true",
+      "then": "templates.prompt_if_humanoid",
+      "else": "templates.prompt_if_nonhumanoid"
+    },
+    "append": [
+      "venue",
+      "camera",
+      "logic.pose_alignment.enforce",
+      "negative",
+      "logic.safety.forbid"
+    ]
+  }
+}
+```
 
 <a id="prompt-81"></a>
 ### 案例 81：你抱着年幼版自己的复古风自拍
