@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 85：随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！ ](#prompt-85)
+*   [案例 84：一句咒语任何风格变写实 ](#prompt-84)
+*   [案例 83：产品包装贴合 ](#prompt-83)
 *   [案例 82：模拟在 Cosplay 会场现场拍摄场景 ](#prompt-82)
 *   [案例 81：你抱着年幼版自己的复古风自拍 ](#prompt-81)
 *   [案例 80：都市上空巨大的涡旋冲破暴风云层 ](#prompt-80)
@@ -84,6 +87,36 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-85"></a>
+### 案例 85：随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！
+
+<img src="./images/bananaprompt/85.png" width="300" alt="Awesome GPT-4o Image Prompts-随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！">
+
+**提示词：**
+```
+Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless fair skin, standing confidently against a bold green gradient background. Dramatic, cinematic lighting highlights her facial structure, evoking the look of a luxury fashion magazine cover. Editorial photography style, high-detail, 4K resolution, symmetrical composition, minimalistic background
+```
+
+<a id="prompt-84"></a>
+### 案例 84：一句咒语任何风格变写实
+
+<img src="./images/bananaprompt/84.png" width="300" alt="Awesome GPT-4o Image Prompts-一句咒语任何风格变写实">
+
+**提示词：**
+```
+turn this illustration into realistic version
+```
+
+<a id="prompt-83"></a>
+### 案例 83：产品包装贴合
+
+<img src="./images/bananaprompt/83.png" width="300" alt="Awesome GPT-4o Image Prompts-产品包装贴合">
+
+**中文提示词：**
+```
+把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影
+```
 
 <a id="prompt-82"></a>
 ### 案例 82：模拟在 Cosplay 会场现场拍摄场景
