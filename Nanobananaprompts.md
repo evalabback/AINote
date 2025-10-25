@@ -2,6 +2,8 @@
 
 ##    Prompt
 
+*   [案例 87：卧室镜子自拍 ](#prompt-87)
+*   [案例 86：品牌创意3D广告 ](#prompt-86)
 *   [案例 85：随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！ ](#prompt-85)
 *   [案例 84：一句咒语任何风格变写实 ](#prompt-84)
 *   [案例 83：产品包装贴合 ](#prompt-83)
@@ -87,6 +89,104 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-87"></a>
+### 案例 87：卧室镜子自拍
+
+<img src="./images/bananaprompt/87.png" width="300" alt="Awesome GPT-4o Image Prompts-卧室镜子自拍">
+
+**提示词：**
+```
+{
+  "scene": {
+    "description": "Indoor mirror selfie in a contemporary bedroom or dressing area.",
+    "lighting": "Soft, warm ambient interior lighting, flattering and even.",
+    "environment": "Neutral background, slightly blurred, suggesting closet doors or plain walls."
+  },
+  "subject": {
+    "reference": "use uploaded face image for likeness, an exact likeness",
+    "pose": {
+      "type": "Standing mirror selfie.",
+      "action": "Subject is confidently lifting the hem of her sweater with both hands to expose her toned midriff.",
+      "expression": "Soft, pleasant expression, subtle smile, eyes focused on the phone screen.",
+      "framing": "Medium shot (hips to head)."
+    },
+    "wardrobe": {
+      "top": {
+        "garment": "Cropped cable-knit sweater",
+        "color": "Cream / Ivory white",
+        "details": "Distinctive hybrid design with sheer, voluminous organza ruffles on the sleeves and cuffs."
+      },
+      "bottom": {
+        "garment": "Blue jeans",
+        "fit": "Low-rise, relaxed fit.",
+        "details": "Light-to-medium wash denim, worn unbuttoned and slightly pulled down at the hips."
+      }
+    },
+    "accessories": {
+      "phone": "Dark gray smartphone held in the hand, rear camera visible in the mirror."
+    }
+  },
+  "camera_technical": {
+    "device": "Smartphone rear camera via mirror",
+    "look": "Clean, high-quality mobile photography, vertical orientation (3:4).",
+    "focus": "Sharp focus on the subject's face and torso."
+  }
+}
+```
+**中文提示词：**
+```
+{
+  "scene": {
+    "description": "室内镜前自拍场景，地点为现代风格的卧室或更衣区。",
+    "lighting": "柔和温暖的室内光线，光线均匀、肤色显得自然柔美。",
+    "environment": "背景为中性色调，略微虚化，可见衣柜门或平整墙面。"
+  },
+  "subject": {
+    "reference": "使用上传的照片作为参考，保持与其相似的面容与气质。",
+    "pose": {
+      "type": "站立姿势的镜前自拍。",
+      "action": "人物自信地用双手轻轻提起毛衣下摆，露出紧致的小蛮腰与腹肌线条。",
+      "expression": "柔和自然的微笑，神情自信温柔，目光注视着手机屏幕。",
+      "framing": "中景构图（从臀部到头部）。"
+    },
+    "wardrobe": {
+      "top": {
+        "garment": "短款麻花针织毛衣",
+        "color": "奶白色",
+        "details": "袖子拼接透明的薄纱荷叶边设计，展现时尚与少女感。"
+      },
+      "bottom": {
+        "garment": "低腰牛仔裤",
+        "fit": "休闲宽松版型",
+        "details": "浅蓝色牛仔布，裤头微微解开并轻拉至胯部位置。"
+      }
+    },
+    "accessories": {
+      "phone": "深灰色智能手机，镜中可见其后置摄像头。"
+    }
+  },
+  "camera_technical": {
+    "device": "通过镜子使用智能手机后置摄像头拍摄。",
+    "look": "清晰、高质量的手机摄影，竖构图（3:4比例）。",
+    "focus": "清晰对焦在人脸和上半身。"
+  }
+}
+```
+
+<a id="prompt-86"></a>
+### 案例 86：品牌创意3D广告
+
+<img src="./images/bananaprompt/86.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌创意3D广告">
+
+**提示词：**
+```
+Creative 3D ad for [Brand Name], with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept 
+```
+**中文提示词：**
+```
+为 [品牌名称] 制作的创意 3D 广告，由超现实的物体制成，背景颜色匹配，下面是真实的口号，上面是徽标，微型人物互动，简约而巧妙的概念
+```
 
 <a id="prompt-85"></a>
 ### 案例 85：随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！
