@@ -2,6 +2,10 @@
 
 ##    Prompt
 
+*   [案例 91：3D漫画肖像 ](#prompt-91)
+*   [案例 90：赛博美学未来社交软件界面照片 ](#prompt-90)
+*   [案例 89：人和汽车的三视图 ](#prompt-89)
+*   [案例 88：卡通插图 ](#prompt-88)
 *   [案例 87：卧室镜子自拍 ](#prompt-87)
 *   [案例 86：品牌创意3D广告 ](#prompt-86)
 *   [案例 85：随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！ ](#prompt-85)
@@ -89,6 +93,102 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-91"></a>
+### 案例 91：3D漫画肖像
+
+<img src="./images/bananaprompt/91.png" width="300" alt="Awesome GPT-4o Image Prompts-3D漫画肖像">
+
+**提示词：**
+```
+3D caricature portrait of [SUBJECT], Pixar/DreamWorks style — expressive eyes, slightly oversized head, exaggerated ears & nose, realistic skin shading with soft subsurface scattering, detailed hair, gentle warm smile, smooth polished materials, subtle fabric texture, soft ambient lighting, warm reddish-orange gradient background — balanced realism and stylized charm.
+```
+**中文提示词：**
+```
+[SUBJECT]的3D漫画肖像，皮克斯/梦工厂风格——富有表现力的眼睛，略微过大的头部，夸张的耳朵和鼻子，逼真的皮肤阴影和柔和的次表面散射，细致的头发，温柔温暖的微笑，光滑的抛光材质，微妙的织物纹理，柔和的环境光，温暖的红橙色渐变背景——平衡的现实主义和风格化的魅力。
+```
+
+<a id="prompt-90"></a>
+### 案例 90：赛博美学未来社交软件界面照片
+
+<img src="./images/bananaprompt/90.png" width="300" alt="Awesome GPT-4o Image Prompts-赛博美学未来社交软件界面照片">
+
+**提示词：**
+```
+Step 1: Take a screenshot of your Twitter profile.
+Step 2: Open ChatGPT
+Step 3: Paste your screenshot and this prompt below
+
+Create a hyper-realistic 3D render of a transparent twitter profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in pink, purple, and orange gradient inspired by the twitter color palette. Display the following profile information on the card using modern, minimal sans-serif typography.
+```
+**中文提示词：**
+```
+第1步：截取您的 Twitter 个人资料屏幕截图。
+第2步：打开 ChatGPT
+第3步：粘贴您的屏幕截图和以下提示
+
+制作一张超逼真的透明推特个人资料卡的3D渲染图，设计灵感源自未来主义的玻璃身份识别卡，可轻柔地夹在两指之间。卡片应为圆角矩形，材质为透明光面玻璃或亚克力，边缘带有粉色、紫色和橙色渐变的霓虹灯效果，灵感来自推特的配色方案。使用现代简约的无衬线字体在卡片上展示以下个人资料信息。
+```
+
+<a id="prompt-89"></a>
+### 案例 89：人和汽车的三视图
+
+<img src="./images/bananaprompt/89.png" width="300" alt="Awesome GPT-4o Image Prompts-人和汽车的三视图">
+
+**提示词：**
+```
+A cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives as a :
+
+1. Top Panel: Interior close-up: I am seated inside the car, wearing a fitted black polo shirt, shown in the side mirror reflection. My face is serious and focused, my gaze directed forward with determination. The angle captures only side view part of my profile, framed cleanly within the mirror, emphasizing intensity and precision.
+
+2.Middle Panel: I am standing confidently next to a sleek black Ford Mustang. My posture is relaxed but strong: both arms are crossed over my chest in a confident manner, while my left leg is straight and my right leg bent slightly at the knee, with the foot leaning casually against the car. My gaze is directed slightly off-camera, with a calm and assertive expression. I am wearing a fitted black polo shirt with subtle detailing, slim grey jeans with a clean cut, and brown leather boots. My outfit is minimal yet stylish, emphasizing a modern masculine vibe. Pose like a pro, same face as the uploaded photo.
+
+3. Bottom Panel: Rear car shot: The camera captures the back of the Mustang, showcasing the "YOUR NAME" license plate and muscular lines of the car. The photo emphasizes the glossy texture of the vehicle and its aggressive, cinematic presence. The setting is an urban environment with modern architecture and concrete walls, giving a gritty, cinematic atmosphere. The lighting is natural but slightly diffused, highlighting both me and the polished surface of the car.
+
+The perspectives vary:
+
+- The mirror reflection close-up is shot tight with a portrait focal length (~85mm).
+
+- The exterior full-body shot is taken at eye-level with a slightly wide lens to capture both me and the car in full view.
+
+- The rear car angle uses a low perspective to emphasize power and presence.
+
+Style: Cinematic automotive editorial, urban setting, moody and stylish, professional fashion-meets- car photography, same face.
+```
+
+<a id="prompt-88"></a>
+### 案例 88：卡通插图
+
+<img src="./images/bananaprompt/88.png" width="300" alt="Awesome GPT-4o Image Prompts-卡通插图">
+
+**提示词：**
+```
+A cartoon illustration of [OBJECT],
+photographed in a clean minimal studio setup. All objects remain realistic and three-dimensional, but have been transformed into expressive cartoon characters:
+• [DESCRIPTION & EMOTION]  
+  (describe facial features, expressions, and emotional tone for each object)
+• [ACTION]  
+• doodle lines are black, slightly uneven, and hand-drawn —  like quick expressive sketchbook strokes drawn directly on the objects.
+Style: hybrid mix of real product photography and cartoon doodle overlay.  
+Background: solid pastel [COLOR], clean and minimal.
+Lighting: soft, even, studio-style — subtle highlights and gentle shadows; no harsh light.
+Mood: [MOOD / THEME — e.g. playful, melancholic, poetic, humorous].  
+Keywords: hybrid photo-doodle, product cartoon, expressive characters, minimal pastel background. Aspect ratio: 1:1
+```
+**中文提示词：**
+```
+[OBJECT]的卡通插图，
+在简洁干净的工作室环境中拍摄。所有物体都保持了真实感和三维立体感，但又被转化成了富有表现力的卡通人物：
+• [描述和情感]
+（描述每个物体的面部特征、表情和情绪基调）
+• [行动]
+• 涂鸦线条是黑色的，略微不均匀，并且是手绘的——就像直接在物体上绘制的快速富有表现力的素描本笔触一样。
+风格：真实产品摄影和卡通涂鸦叠加的混合。
+背景：纯色粉彩[颜色]，干净、简约。
+灯光：柔和、均匀、工作室风格——微妙的高光和柔和的阴影；没有刺眼的光线。
+心情：[心情/主题 — 例如好玩、忧郁、诗意、幽默]。
+关键词：混合照片涂鸦、产品卡通、富有表现力的人物、极简柔和背景。长宽比：1:1
+```
 
 <a id="prompt-87"></a>
 ### 案例 87：卧室镜子自拍
