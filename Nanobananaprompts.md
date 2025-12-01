@@ -2,6 +2,8 @@
 
 ##    Prompt
 
+*   [案例 96：一副逼真的全身肖像 ](#prompt-96)
+*   [案例 95：超逼真的野生动物摄影场景 ](#prompt-95)
 *   [案例 94：公交车上的窗户边 ](#prompt-94)
 *   [案例 93：干净柔和的米色工作室中的3x3照片 ](#prompt-93)
 *   [案例 92：铅笔风格的漫画 ](#prompt-92)
@@ -96,6 +98,84 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-96"></a>
+### 案例 96：一副逼真的全身肖像
+
+<img src="./images/bananaprompt/96.png" width="300" alt="Awesome GPT-4o Image Prompts-一副逼真的全身肖像">
+
+**提示词：**
+```
+A realistic full-body portrait of a [ARTIST] in their signature style, positioned next to a giant vertical smartphone displaying a Spotify interface. The phone screen shows a music player interface featuring the song “[SONG]” with signature [COLOR] accent colors at approximately 80% opacity for a premium aesthetic effect.
+The artist wears their characteristic outfit and styling. Their pose is confident and editorial, embodying the mood and energy of the song. Expression matches their iconic persona.
+Technical specifications:
+• Plain background with subtle [COLOR] lighting accents
+• Soft studio lighting with colored gels in signature [COLOR] tones
+• 35mm or 50mm lens, f/2.2, ISO 100-160, shutter speed 1/125
+• Sharp focus on subject and phone interface
+• Editorial style consistent with premium music platform campaigns
+```
+**中文提示词：**
+```
+一幅[艺术家]的逼真全身肖像，采用其标志性风格，旁边是一部巨大的竖屏智能手机，屏幕上显示着Spotify界面。手机屏幕上的音乐播放器界面以歌曲“[歌曲]”为特色，并采用标志性的[颜色]强调色，透明度约为80%，以营造高级美感。
+这位艺人身着标志性的服装，摆出自信而富有时尚感的姿势，完美诠释了歌曲的情绪和能量。他们的表情也与他们标志性的形象相得益彰。
+技术规格：
+• 纯色背景，带有柔和的[颜色]灯光点缀
+• 采用柔和的影棚灯光，搭配标志性的[COLOR]色调彩色滤光片
+• 35mm 或 50mm 镜头，f/2.2 光圈，ISO 100-160，快门速度 1/125 秒
+• 清晰聚焦于主体和手机界面
+• 编辑风格与高端音乐平台推广活动保持一致
+```
+
+<a id="prompt-95"></a>
+### 案例 95：超逼真的野生动物摄影场景
+
+<img src="./images/bananaprompt/95.png" width="300" alt="Awesome GPT-4o Image Prompts-超逼真的野生动物摄影场景">
+
+**提示词：**
+```
+Ultra-realistic wildlife photography.
+Use my face with 100% accuracy.
+
+The man should have the same body pose, angle, and camera-holding position as the reference image:
+– lying flat on the grass,
+– torso slightly raised,
+– elbows on the ground,
+– holding a DSLR camera with a long telephoto lens pointed forward,
+– camera positioned slightly away from his face (not touching the eye),
+– head angle same as reference, but **eyes looking straight ahead into the far distance, with a focused and concentrated expression**.
+
+Clothing: light brown outdoor safari shirt, rugged cargo pants, sturdy field boots.
+
+Place a cheetah cub in the same position and pose as in the reference:
+– sitting on the man’s upper back/shoulder,
+– front paws resting near his neck,
+– cub looking outward into the distance.
+
+Golden-hour sunlight, African savannah background, cinematic depth of field, very sharp details, vibrant colors, 8K photo quality style.
+```
+**中文提示词：**
+```
+超真实的野生动物摄影。\
+使用我的脸，并保持 100% 准确。
+
+男人的身体姿势、角度和持相机的方式应与参考图片相同：\
+– 趴在草地上；\
+– 上半身稍微抬起；\
+– 手肘支撑在地上；\
+– 手持一台装有长焦镜头的 DSLR 相机，镜头指向前方；\
+– 相机与眼睛保持一点距离（不贴在眼睛上）；\
+– 头部角度和参考图一致，但**眼睛直视前方的远处，表情专注而集中**。
+
+服装为：浅棕色户外探险衬衫、耐磨工装裤、结实的野外靴。
+
+将一只小猎豹放置在与参考图相同的位置和姿势：\
+– 坐在男人的上背部/肩膀上；\
+– 前爪放在他的颈部附近；\
+– 小猎豹望向远方。
+
+黄金时刻的阳光，非洲大草原的背景，电影式景深，非常清晰的细节，鲜艳的色彩，8K 级别的照片风格。
+```
 
 <a id="prompt-94"></a>
 ### 案例 94：公交车上的窗户边
