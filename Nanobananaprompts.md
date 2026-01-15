@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 97：穿着充气羽绒服的鸟儿 ](#prompt-97)
 *   [案例 96：一副逼真的全身肖像 ](#prompt-96)
 *   [案例 95：超逼真的野生动物摄影场景 ](#prompt-95)
 *   [案例 94：公交车上的窗户边 ](#prompt-94)
@@ -98,6 +99,20 @@
 *   [案例 3：拉布拉多在公园画画 ](#prompt-3)
 *   [案例 2：漫画拼图 (进化论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
+
+<a id="prompt-97"></a>
+### 案例 97：穿着充气羽绒服的鸟儿
+
+<img src="./images/bananaprompt/97.png" width="300" alt="Awesome GPT-4o Image Prompts-穿着充气羽绒服的鸟儿">
+
+**提示词：**
+```
+A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tree branch. the background is a blurred green grassland, in the style of real photography with natural lighting.
+```
+**中文提示词：**
+```
+一只穿着充气[彩色]羽绒服的鸟栖息在枯树枝顶上。背景是模糊的绿色草地，采用自然光拍摄的真实照片风格。
+```
 
 <a id="prompt-96"></a>
 ### 案例 96：一副逼真的全身肖像
