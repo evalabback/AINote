@@ -2,11 +2,58 @@
 
 ##    Prompt
 
+*   [案例 108：文字生成的精美的杂志文章的照片 ](#prompt-108)
+*   [案例 107：摄影质感极强的街头壁画 ](#prompt-107)
+*   [案例 106：手绘风格的信息卡片 ](#prompt-106)
 *   [案例 105：将素描人物添加到你的真实照片中 ](#prompt-105)
 *   [案例 104：将漫画人物融入你的真人照片 ](#prompt-104)
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-108"></a>
+### 案例 108：文字生成的精美的杂志文章的照片
+
+<img src="./images/bananaprompt/108.png" width="300" alt="Awesome GPT-4o Image Prompts-文字生成的精美的杂志文章的照片">
+
+**提示词：**
+```
+Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [Prime Minister Sanae Takaichi dissolved the Lower House at the start of the ordinary Diet session on Jan. 23, triggering a snap election for Feb. 8 and launching the shortest campaign period in Japan’s post-war history.]
+```
+**中文提示词：**
+```
+请将这段文字原封不动地复制到一张精美杂志文章的照片中，照片需包含图片、漂亮的排版设计、精选语录和大胆的格式。原文如下：[……未格式化的文章]
+```
+
+<a id="prompt-107"></a>
+### 案例 107：摄影质感极强的街头壁画
+
+<img src="./images/bananaprompt/107.png" width="300" alt="Awesome GPT-4o Image Prompts-摄影质感极强的街头壁画">
+
+**中文提示词：**
+```
+一幅超高清晰度、摄影质感极强的街头壁画，画面呈现强烈的中国风韵味。
+
+画中描绘着一位绝美的卡通风女子正面特写头像，她神态柔美而宁静。墙体顶部被一大片盛开的蔷薇花覆盖，茂密的绿叶与繁盛的花朵向外舒展，部分枝条从墙顶垂落而下，与女子的头发巧妙融合，使她的秀发宛如由层层叠叠的蔷薇花组成。这些繁密的花朵簇拥着女子的头部，形成了一顶瑰丽的花冠，视觉效果华美浪漫。
+
+背景中蓝天澄澈，点缀着朵朵白云；地面为一条细节真实的沥青街道，上面散落着缤纷多彩的花瓣，行人悠然漫步其间。整体场景细节精致入微，光影明亮柔和，营造出犹如现实般的梦幻街景氛围。
+```
+
+<a id="prompt-106"></a>
+### 案例 106：手绘风格的信息卡片
+
+<img src="./images/bananaprompt/106.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘风格的信息卡片">
+
+**中文提示词：**
+```
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+
+卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
+
+卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
+
+主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”
+```
 
 <a id="prompt-105"></a>
 ### 案例 105：将素描人物添加到你的真实照片中
