@@ -2,6 +2,11 @@
 
 ##    Prompt
 
+*   [案例 120：复刻图片提示词 ](#prompt-120)
+*   [案例 119：成都旅游地图 ](#prompt-119)
+*   [案例 118：小世界也能成就大故事 ](#prompt-118)
+*   [案例 117：日本乡村公交车站雨夜的场景 ](#prompt-117)
+*   [案例 116：微缩的温馨客厅 ](#prompt-116)
 *   [案例 115：全景式角色深度概念分解图 ](#prompt-115)
 *   [案例 114：菜谱 ](#prompt-114)
 *   [案例 113：伪造抖音截图 ](#prompt-113)
@@ -17,6 +22,167 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-120"></a>
+### 案例 120：复刻图片提示词
+
+<img src="./images/bananaprompt/120.png" width="300" alt="Awesome GPT-4o Image Prompts-复刻图片提示词">
+
+**中文提示词：**
+```
+基于这张上传的照片，详细描述完整的图像复刻 JSON 提示词，包含人物面容、身材、服装、头发、细节、配饰、摄像设备、环境、灯光、风格、身体动态，一切都要详细复刻原图，最终输出一个优化的元提示词， 800 字
+```
+
+<a id="prompt-119"></a>
+### 案例 119：成都旅游地图
+
+<img src="./images/bananaprompt/119.png" width="300" alt="Awesome GPT-4o Image Prompts-成都旅游地图">
+
+**中文提示词：**
+```
+画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。
+
+地图布局与风格:
+地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。
+
+至关重要的字体排版挑战 (高难度部分):
+所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。
+1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。
+2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。
+3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。
+4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：
+    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。
+    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。
+    - 区域名称“锦江区”被写在一个手绘的云朵形状里。
+5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。
+6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。
+
+美学:
+一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。
+
+负面提示词:
+电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。
+```
+
+<a id="prompt-118"></a>
+### 案例 118：小世界也能成就大故事
+
+<img src="./images/bananaprompt/118.png" width="300" alt="Awesome GPT-4o Image Prompts-小世界也能成就大故事">
+
+**中文提示词：**
+```
+创作一幅高度精细的微缩超现实场景，场景中微小的人物与附图所示的[此处插入品牌和产品名称]产品进行逼真的互动。这些人物应表现得仿佛产品就是他们的整个世界，所有视觉元素都应自然而然地适应产品的形态和特性，没有任何预设的前提。确保人物与产品之间的互动能够巧妙而连贯地体现品牌的形象和预期用途，并采用简洁的视觉构图和极简的背景。运用电影级的灯光、清晰的阴影和锐利的摄影技巧，将[品牌名称]的标志无缝融入场景，并添加一句能够自动适应产品语境的简短标语。要求：1:1 – 超精细 – 照片级写实 – 简洁专业的制作。
+```
+
+<a id="prompt-117"></a>
+### 案例 117：日本乡村公交车站雨夜的场景
+
+<img src="./images/bananaprompt/117.png" width="300" alt="Awesome GPT-4o Image Prompts-日本乡村公交车站雨夜的场景">
+
+**提示词：**
+```
+{
+  "image_generation_prompt": {
+    "full_text": "An ultra-realistic 8K UHD photograph of a rainy night scene at a rural Japanese bus stop. A person (based on the attached photos, with a normal build) is standing, holding a small red umbrella, wearing a red jumpsuit, blue boots, and a yellow t-shirt, looking to the side with an expression of apprehension and curiosity. Beside him, a gigantic, realistic Totoro creature, with wet fur and a leaf on its head, waits in the rain. The setting includes an aged bus stop sign, dense wet forest trees in the background, and the lighting comes from a dim lamppost and the moon, with realistic rain reflections on the wet asphalt. Wide shot. The face must be sharp and expressive.",
+    "technical_specs": {
+      "medium": "Photograph",
+      "resolution": "8K UHD",
+      "style": "Ultra-realistic",
+      "composition": "Wide shot",
+      "focus": "Sharp and expressive face"
+    },
+    "lighting": {
+      "sources": ["Dim lamppost", "Moon"],
+      "effects": ["Realistic rain reflections on wet asphalt"]
+    },
+    "environment": {
+      "location": "Rural Japanese bus stop",
+      "weather": "Rainy night",
+      "background": "Dense wet forest trees",
+      "props": ["Aged bus stop sign"]
+    },
+    "subjects": [
+      {
+        "type": "Human",
+        "reference_source": "Attached photos",
+        "build": "Normal",
+        "attire": {
+          "clothing": "Red jumpsuit, yellow t-shirt",
+          "footwear": "Blue boots",
+          "accessories": "Small red umbrella"
+        },
+        "pose": "Standing, looking to the side",
+        "expression": "Apprehension and curiosity"
+      },
+      {
+        "type": "Creature",
+        "identity": "Gigantic realistic Totoro",
+        "details": ["Wet fur", "Leaf on head"],
+        "action": "Waiting in the rain"
+      }
+    ]
+  }
+}
+```
+**中文提示词：**
+```
+{
+"image_generation_prompt": {
+"full_text": "一张超逼真的8K超高清照片，描绘的是日本乡村公交车站雨夜的场景。照片中，一位身材正常的男子（根据附图）手持一把红色小伞，身穿红色连体裤、蓝色靴子和黄色T恤，侧身看向一旁，脸上带着一丝担忧和好奇。在他身旁，一只巨大的、栩栩如生的龙猫，毛发湿漉漉的，头上顶着一片树叶，在雨中等待着。场景中包含一块老旧的公交车站牌，背景是茂密的湿润森林，光线来自昏暗的路灯和月光，雨水在湿漉漉的沥青路面上倒映出逼真的光影。广角镜头。面部表情必须清晰且富有表现力。"
+"technical_specs": {
+“媒介”：“照片”，
+分辨率：8K 超高清，
+风格：超写实
+构图：广角镜头，
+“焦点”：“轮廓分明、富有表现力的脸庞”
+},
+“灯光”： {
+“来源”：[“昏暗的路灯”，“月亮”]，
+“效果”：[“湿沥青路面上逼真的雨水反射”]
+},
+“环境”： {
+"地点": "日本乡村巴士站",
+“天气”：“雨夜”，
+“背景”：“茂密的湿润森林树木”，
+道具：[“老旧的公交车站牌”]
+},
+“主题”：[
+{
+“类型”：“人类”，
+"reference_source": "附图",
+"构建": "正常",
+着装：{
+“服装”：“红色连体裤，黄色T恤”，
+“鞋类”：“蓝色靴子”，
+“配件”： “红色小伞”
+},
+“姿势”：“站立，侧视”，
+“表情”：“忧虑和好奇”
+},
+{
+"type": "生物",
+“身份”：“巨大的逼真龙猫”，
+细节：[“湿漉漉的毛皮”，“头上的叶子”]
+“动作”：“在雨中等待”
+}
+]
+}
+}
+```
+
+<a id="prompt-116"></a>
+### 案例 116：微缩的温馨客厅
+
+<img src="./images/bananaprompt/116.png" width="300" alt="Awesome GPT-4o Image Prompts-微缩的温馨客厅">
+
+**提示词：**
+```
+A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.
+```
+**中文提示词：**
+```
+一张逼真的 ESC 键帽场景图展现了一个微缩的温馨客厅。室内：一台闪着红光的 Netflix 屏幕、一张柔软的红色沙发、一碗爆米花和一条毯子。一个小人儿懒洋洋地翘着二郎腿，正在观看视频。红色的“N”字标志从后面透出光芒，如同氛围灯一般。室外：F1、Shift 和 Q 键上反射着酷炫的科技蓝光。“ESC”字样则以朦胧的玻璃质感隐约出现在键帽顶部。
+```
 
 <a id="prompt-115"></a>
 ### 案例 115：全景式角色深度概念分解图
@@ -259,7 +425,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 底部中央署名
 
-@闭灯师兄
+@閉燈師兄
 ```
 
 <a id="prompt-105"></a>
