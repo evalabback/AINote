@@ -2,6 +2,11 @@
 
 ##    Prompt
 
+*   [案例 125：食物制作成的3D超写实图 ](#prompt-125)
+*   [案例 124：烤面包流程图 ](#prompt-124)
+*   [案例 123：衣橱拆解与风格分析 ](#prompt-123)
+*   [案例 122：配料合成食材 ](#prompt-122)
+*   [案例 121：担担面高级海报 ](#prompt-121)
 *   [案例 120：复刻图片提示词 ](#prompt-120)
 *   [案例 119：成都旅游地图 ](#prompt-119)
 *   [案例 118：小世界也能成就大故事 ](#prompt-118)
@@ -22,6 +27,158 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-125"></a>
+### 案例 125：食物制作成的3D超写实图
+
+<img src="./images/bananaprompt/125.png" width="300" alt="Awesome GPT-4o Image Prompts-食物制作成的3D超写实图">
+
+**提示词：**
+```
+Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly integrated into a photorealistic, bustling cityscape of [REAL CITY]. The object must be instantly recognizable as [MONUMENT], but entirely composed of realistic textures and materials from [FOOD]. Ensure accurate proportions and architectural detail, adapted to the food’s form, appearing as if it truly belongs in the city. The city should be vibrant and detailed, with realistic lighting that complements the monument. 1:1 aspect ratio, no text or extra elements.
+```
+**中文提示词：**
+```
+完全由[食物]制成的[纪念碑]的超写实3D渲染，无缝融入[真实城市]的照片级写实、繁忙的城市景观中。该物体必须能被一眼辨识为[纪念碑]，但完全由[食物]的写实纹理和材质构成。确保准确的比例和建筑细节，并适应食物的形态，使其看起来仿佛真正属于这座城市。城市应充满活力且细节丰富，并具有与该纪念碑相得益彰的写实光影。1:1 纵横比，无文本或额外元素。
+```
+
+<a id="prompt-124"></a>
+### 案例 124：烤面包流程图
+
+<img src="./images/bananaprompt/124.png" width="300" alt="Awesome GPT-4o Image Prompts-烤面包流程图">
+
+**提示词：**
+```
+i need a flowchart for how to toast bread, make it as wacky and over the top and complicated as possible.
+```
+**中文提示词：**
+```
+我需要一个烤面包的流程图，越古怪、越夸张、越复杂越好。
+```
+
+<a id="prompt-123"></a>
+### 案例 123：衣橱拆解与风格分析
+
+<img src="./images/bananaprompt/123.png" width="300" alt="Awesome GPT-4o Image Prompts-衣橱拆解与风格分析">
+
+**提示词：**
+```
+**Task: Create a comprehensive "Wardrobe Deconstruction and Style Profile" collage based on an uploaded image.**
+
+**Objective:**
+Act as a professional fashion archivist and technical designer. Given an uploaded image of a person, generate a visually compelling, high-resolution "Style Profile" collage that meticulously deconstructs their entire ensemble, from the outermost layer to the foundational structure. The final output must be a single, cohesive, photorealistic image.
+
+**Core Elements:**
+
+1.  **Central Subject Image:**
+    *   Place the subject from the uploaded image in a full-body pose as the central focus.
+    *   Maintain the subject's likeness (face, hair, clothing) while enhancing the image to a professional, high-fashion photographic standard.
+
+2.  **Complete Ensemble Deconstruction (Photorealistic Product Shots):**
+    *   Generate a visual breakdown of the subject's attire, presenting each item as a separate, high-quality product photograph. This breakdown must include:
+        *   **Outer and Mid-Layers:** All visible garments and accessories.
+        *   **Foundational Elements:** A technical illustration of the essential structural garments that provide shape and support to the silhouette (e.g., a bra, slip, or specific underlayer). These elements must be rendered as **objective, flat-lay design schematics** with a focus on material and construction, not on the human form.
+    *   Include detailed close-ups of key materials (e.g., fabric weave, leather texture, metal finish) to emphasize quality and design.
+
+3.  **Lifestyle & Contextual Items:**
+    *   Based on the subject's style, infer and generate a collection of 4-6 photorealistic items that suggest their likely environment, interests, or daily routine.
+
+4.  **Expression & Detail Sheet:**
+    *   Generate a series of 3-4 close-up portraits showing a range of natural, context-appropriate expressions.
+
+**Aesthetic and Layout Guidelines:**
+
+*   **Overall Style:** Strictly **Hyper-realistic, photographic style**. Absolutely no illustration, anime, or hand-drawn elements.
+*   **Layout:** Arrange all elements in a **clean, balanced, and modular collage** on a neutral background (white or light gray). The layout must be visually logical and professional, resembling a high-end fashion technical document.
+*   **Annotations:** Use a clean, minimalist font for all text.
+    *   **Title:** Generate a professional, gender-neutral title (e.g., "Technical Deconstruction: The Urban Minimalist").
+    *   **Labels:** Add brief, descriptive labels for all deconstructed items, including the "Foundational Elements," using technical terms (e.g., "Structural Support Garment," "Base Layer").
+
+**Crucial Instruction:** The rendering of all "Foundational Elements" must be purely technical and objective, presented as a **design schematic or flat-lay product shot** to emphasize construction and material, completely detached from the central subject's body.
+```
+**中文提示词：**
+```
+**任务：根据上传的图片，制作一份全面的“衣橱拆解与风格分析”拼贴画。 **
+
+**目标:**
+扮演专业时尚档案管理员和技术设计师的角色。根据上传的人物照片，生成一幅视觉冲击力强、高分辨率的“风格档案”拼贴画，细致入微地解构其整体造型，从最外层到最内层结构。最终成果必须是一张完整、连贯、逼真的图像。
+
+**核心要素:**
+
+1.  **中心主题图像:**
+* 将上传图片中的人物以全身姿势作为中心焦点。
+* 在保持拍摄对象（面部、头发、服装）特征的同时，将图像提升至专业、高级时尚摄影标准。
+
+2.  **完整整体解构（照片级产品照片） :**
+* 生成一份人物服装的视觉分解图，将每件单品单独拍摄成高质量的产品照片。这份分解图必须包含：
+* **外层和中间层:**所有可见的服装和配饰。
+* **基础元素:**为塑造身形和支撑身体轮廓的基本结构性服装（例如，胸罩、衬裙或特定内衬）提供技术图示。这些元素必须以**客观的平铺设计示意图**的形式呈现，重点在于材料和结构，而非人体形态。
+* 添加关键材料（例如织物编织、皮革纹理、金属表面处理）的详细特写镜头，以强调质量和设计。
+
+3.  **生活方式和环境因素:**
+* 根据人物的风格，推断并生成 4-6 件逼真的物品，以暗示其可能的环境、兴趣或日常生活。
+
+4.  **表达式和详细信息表:**
+* 拍摄 3-4 张特写肖像，展现一系列自然、符合情境的表情。
+
+**美学和布局指南:**
+
+* **整体风格:**严格**超写实、摄影风格**.绝对没有插图、动漫或手绘元素。
+* **版式:**将所有元素以简洁、平衡且模块化的拼贴形式排列 ( ** **背景为中性色（白色或浅灰色）。版式必须在视觉上逻辑清晰且专业，类似于高端时尚技术文档。
+* **注释:**所有文本均使用简洁的字体。
+* **标题:**生成一个专业的、性别中立的标题（例如，“技术解构：城市极简主义”）。
+* **标签:**为所有拆解的物品添加简短的描述性标签，包括“基础元素”，使用技术术语（例如，“结构支撑服装”、“基础层”）。
+
+**关键指导:**所有“基础元素”的呈现必须纯粹是技术性的和客观的，以**设计示意图或平铺产品照片**的形式呈现，以强调结构和材料，完全脱离中心主体的身体。
+```
+
+<a id="prompt-122"></a>
+### 案例 122：配料合成食材
+
+<img src="./images/bananaprompt/122.png" width="300" alt="Awesome GPT-4o Image Prompts-配料合成食材">
+
+**提示词：**
+```
+Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom with extra spacing before the final dish:
+
+1) Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder
+
+2) Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered
+
+3) Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands
+
+4) Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first
+
+5) Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack
+
+6) Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room
+
+7) Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.
+
+Each layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".
+
+NO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
+
+<a id="prompt-121"></a>
+### 案例 121：担担面高级海报
+
+<img src="./images/bananaprompt/121.png" width="300" alt="Awesome GPT-4o Image Prompts-担担面高级海报">
+
+**提示词：**
+```
+At the very top center of the composition, floating prominently above the ingredient layers, is a luxurious title label. The text reads "担担面 DAN DAN NOODLES" rendered in expressive, handwritten Chinese brush calligraphy (毛笔字) style. The lettering possesses a heavy, three-dimensional sculpted gold metal texture (金属质感) with a brushed finish, warm golden sheen, and realistic metallic reflections catching the dramatic studio lighting. It looks like forged gold brushstrokes floating in space.
+Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom (below the main gold title) with extra spacing before the final dish:
+ * Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder
+ * Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered
+ * Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands
+ * Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first
+ * Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack
+ * Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room
+ * Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.
+Each layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".
+NO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl and the top gold title share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
 
 <a id="prompt-120"></a>
 ### 案例 120：复刻图片提示词
