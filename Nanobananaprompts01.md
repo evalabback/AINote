@@ -2,6 +2,8 @@
 
 ##    Prompt
 
+*   [案例 127：高细节的3D信息图海报 ](#prompt-127)
+*   [案例 126：物品拆解图 ](#prompt-126)
 *   [案例 125：食物制作成的3D超写实图 ](#prompt-125)
 *   [案例 124：烤面包流程图 ](#prompt-124)
 *   [案例 123：衣橱拆解与风格分析 ](#prompt-123)
@@ -27,6 +29,86 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-127"></a>
+### 案例 127：高细节的3D信息图海报
+
+<img src="./images/bananaprompt/127.png" width="300" alt="Awesome GPT-4o Image Prompts-高细节的3D信息图海报">
+
+**中文提示词：**
+```
+请用中文制作一张高细节的3D信息图海报，介绍印尼传统天贝的制作过程，海报中需包含一个可爱的3D厨师角色Koki Cubby（胖乎乎的，可爱，戴着白色厨师帽和围裙，表情丰富，色彩鲜艳）。
+制作过程的每个步骤都应有Koki Cubby的帮助或讲解。
+海报颜色：白色、叶绿色、大豆黄、天贝棕色。
+视觉风格：3D半写实食物插画+可爱角色，柔和的光线，高细节。
+大标题：
+“天贝制作过程——从大豆到成品”
+主图：
+逼真的3D天贝盒，盒身用香蕉叶或半透明塑料包裹，盒内有纹理清晰的天贝切片和白色酵母（根霉菌）丝。Koki Cubby站在旁边，指着成品天贝。
+大豆挑选与分拣（3D场景）
+• 木桌上摆放着干大豆的3D插图。
+• 厨师库比拿着小铲子检查大豆的质量。
+• 文字：“选择优质、干净、无破损的大豆。”
+大豆浸泡（3D碗）
+• 大豆浸泡在一大碗水中，可见其膨胀。
+• 3D水泡。
+• 厨师库比用锅铲搅拌水。
+• 文字：“浸泡6-12小时，让大豆膨胀。”
+• 煮沸（3D锅蒸）
+• 一大锅大豆正在煮沸。
+• 3D热蒸汽细节。
+• 厨师库比拿着厨房计时器。
+• 文字：“煮至软烂，杀死有害细菌。”
+• 大豆去皮及去缩
+• 挤压并揉搓大豆以去除外皮。
+• 使用小型3D过滤机或手工操作。
+• 厨师Cubby正在帮忙去除大豆皮。
+• 文字：“去除大豆皮有助于酵母发酵。”
+大豆过筛及干燥
+• 将湿大豆放入大筛子中沥干水分。
+• 厨师Cubby用小风扇吹干或用毛巾吸干水分。
+• 文字：“确保大豆干燥——水分过多会抑制发酵。”
+• 添加天贝酵母（根霉菌）
+• 一碗3D酵母呈白色细粉状。
+• 厨师Cubby将酵母均匀地撒在大豆上。
+• 文字：“将天贝酵母搅拌均匀。”
+• 包裹（叶子/塑料袋）
+• 将大豆放入香蕉叶或带孔塑料袋中。
+• 小厨师卡比用小手按压，使之折叠整齐。
+• 文字：“包裹紧实，才能完美发酵。”
+天贝发酵（24-48 小时）
+• 将天贝放在通风的木架上。
+• 由于根霉菌的作用，天贝的质地开始变白。
+• 小厨师卡比坐在一旁等待，看着温度计。
+• 文字：“在 30-32°C 下发酵。”
+天贝发酵完成
+• 天贝质地紧实，呈白色，带有粗壮整齐的酵母纤维。
+• 逼真的 3D 天贝切片展示了其内部纹理。
+• 小厨师卡比竖起大拇指。
+• 文字：“天贝可以烹饪了——美味、健康、富含蛋白质！”
+海报风格
+• 3D 立体信息图，采用简洁的面板、小图标和连接时间线。
+• 柔和的白绿色渐变背景。
+• 大豆和豆豉带有微妙的光晕。
+• 现代无衬线字体。
+• 4K 高分辨率。
+• 简洁、专业、教育性强，适合儿童和成人阅读。
+把这个提示词中的食物改成小笼包
+```
+
+<a id="prompt-126"></a>
+### 案例 126：物品拆解图
+
+<img src="./images/bananaprompt/126.png" width="300" alt="Awesome GPT-4o Image Prompts-物品拆解图">
+
+**提示词：**
+```
+Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into 8–12 key parts and arranged in a clean grid or radial pattern on a minimalist wooden or matte gray table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
+```
+**中文提示词：**
+```
+超逼真的 8K 平面照片，采用严格的摆拍风格。从上方俯视 90° 拍摄附图中的物体，将其完全拆解成 8-12 个主要部件，并以简洁的网格或放射状图案排列在极简主义的木质或哑光灰色桌面上。部件间距均匀，完美对齐，无重叠，无多余物体。柔和的漫射多光源照明，阴影微妙，色彩平衡自然，整个画面清晰锐利。高度还原真实材质（金属、塑料、橡胶握把、电路板、螺丝）。每个部件旁边都应添加一个细长的白色矩形框，以及一个简洁清晰的英文标签（无衬线字体），标签应放置在部件旁边，但不能遮挡部件；注释必须清晰易读，但又不影响整体美观。
+```
 
 <a id="prompt-125"></a>
 ### 案例 125：食物制作成的3D超写实图
