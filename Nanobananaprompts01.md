@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 130：手绘日历插图 ](#prompt-130)
+*   [案例 129：把文章变成卡通信息图 ](#prompt-129)
+*   [案例 128：城市动态天气卡片 ](#prompt-128)
 *   [案例 127：高细节的3D信息图海报 ](#prompt-127)
 *   [案例 126：物品拆解图 ](#prompt-126)
 *   [案例 125：食物制作成的3D超写实图 ](#prompt-125)
@@ -29,6 +32,169 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-130"></a>
+### 案例 130：手绘日历插图
+
+<img src="./images/bananaprompt/130.png" width="300" alt="Awesome GPT-4o Image Prompts-手绘日历插图">
+
+**提示词：**
+```
+Please create a cute, stylish calendar illustration in a vertical (9:16) layout featuring a fresh, bright, hand-drawn style:
+
+Illustration Requirements:
+
+- The main character is a young, fashionable female with a cute and lively watercolor or hand-drawn texture, vibrant yet soft colors.
+- Character features include large eyes, rounded rosy cheeks, and bold, fashionable accessories (e.g., sunglasses, hoop earrings, headscarves, headbands, bows, knit hats, etc.). Clothing should be bright, with dynamic and playful poses. Proportions may be slightly exaggerated (e.g., larger head, slender waist).
+- Outfit and accessories must reflect seasonal elements, holidays, recommended activities ("auspicious items"), or distinctive local characteristics based on the user's location and input. Outfit description: [{Character Outfit Description}]
+- Character positioned centrally or slightly right-aligned to leave ample whitespace for textual content.
+- Pure white, minimalist background without additional decorative elements, emphasizing the character and text.
+
+Calendar Layout:
+
+- Prominent position at the top center: Gregorian date number [{Gregorian Date Number}] (large and eye-catching).
+- Below the date number, display the English month [{English Month}].
+- Below the English month, display the year [{Year Number}].
+- Symmetrical layout left and right of the date: weekday in both local language [{Weekday in Local Language}] and English [{Weekday in English}], along with the lunar date and local holiday [{Lunar or Local Calendar Date}] [{Local Holiday}], ensuring clear, elegant fonts.
+
+"Recommended Activities" and Inspirational Quote:
+
+- Vertically aligned on the left side in bold handwriting: [{Recommended Activities}], using brush calligraphy for Chinese users and complementary handwriting style for other languages, slightly larger and vertically arranged.
+- To the right of "Recommended Activities," arrange vertically an inspirational and comforting quote [{Inspirational Quote}] in slightly smaller matching handwriting.
+
+Localized Elements:
+
+- Incorporate distinct local cultural elements or landmarks based on the user's current location or input into the character's outfit, accessories, or details (e.g., city landmarks, climate characteristics, local cultural motifs).
+
+General Guidelines:
+
+- All elements must be neatly arranged with balanced whitespace.
+- Ensure text readability without overlapping or obscuring the illustration.
+- Replace all placeholder content with information dynamically generated based on user input or system-provided user data.
+```
+**中文提示词：**
+```
+请生成一张适合发布在【小红书】的可爱、时尚竖版（9:16）日历插画，
+整体风格为清新明快、治愈系的手绘插画风，适合作为“每日打卡 / 今日份日历”。
+
+一、插画整体风格：
+
+- 手绘 / 水彩质感，线条自然，有插画感，拒绝写实或照片风格
+- 色彩明亮柔和，偏日系、治愈、少女感
+- 整体氛围温暖、轻松、有生活气息，适合日常分享
+
+二、人物设定：
+
+- 人物为年轻时尚的女生卡通形象，风格可爱灵动
+- 特征：大眼睛、圆润红润的脸颊，表情自然放松
+- 身体比例适当夸张（头部稍大、身材纤细）
+- 佩戴夸张但可爱的时尚配饰（如圆环耳环、发带、蝴蝶结、毛线帽、墨镜等）
+- 人物造型与穿着根据当天【季节 + 宜事项 + 用户所在城市】自动匹配：
+  【{人物造型穿着描述}】
+
+- 人物位于画面中央或偏右，为文字内容预留充足留白
+
+三、背景要求：
+
+- 纯白或近白极简背景
+- 不添加复杂装饰或场景
+- 重点突出人物与日历文字内容，画面干净耐看
+
+四、日历信息布局（核心）：
+
+- 画面上方正中央：超大号公历日期数字【{公历日期数字}】
+  （视觉最突出，适合手机屏幕第一眼）
+- 日期数字下方：英文月份【{英文月份}】
+- 日期左侧：星期【{星期中文} / {星期英文}】
+- 日期右侧：农历日期与节假日【{农历日期中文} / {节假日}】
+- 字体风格统一为手写感，清晰易读，整体左右对称
+
+五、“宜”事项 + 治愈文案（小红书重点）：
+
+- 画面左侧竖排显示当日【宜】事项（2–3 个为佳）：
+  【宜：{宜事项}】
+  字体为简洁、有力量感的手写毛笔体，略粗
+
+- 【宜】事项右侧竖排显示一句短小、治愈、适合分享的励志文案：
+  【{励志句子}】
+  语气温柔、有陪伴感，适合女生受众
+
+六、地点个性化元素：
+
+- 根据用户当前所在地【{用户城市 / 国家}】
+  在人物穿着配色、配饰细节中自然融入当地季节、气候或生活氛围
+- 不出现具体地标，仅作为风格暗示
+
+七、小红书适配说明（非常重要）：
+
+- 构图适合手机竖屏浏览
+- 留白充足，方便用户截图、保存、设为壁纸
+- 风格统一，适合做成“每日系列感”
+- 整体感觉：今天也被温柔对待了
+
+整体要求：
+- 所有元素排版整齐、清晰
+- 文本不与插画重叠或遮挡
+- 插画完成度高，具有持续输出的系列一致性
+
+```
+
+<a id="prompt-129"></a>
+### 案例 129：把文章变成卡通信息图
+
+<img src="./images/bananaprompt/129.png" width="300" alt="Awesome GPT-4o Image Prompts-把文章变成卡通信息图">
+
+**提示词：**
+```
+Please create a cartoon-style infographic based on the provided content, following these guidelines:
+
+- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).
+
+- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.
+
+- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.
+
+- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.
+
+- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.
+
+- Unless otherwise specified, use the same language as the provided content.
+
+Please use nano banana pro to create the illustration based on the input provided.
+```
+**中文提示词：**
+```
+请根据输入内容提取核心主题与要点，生成一张卡通风格的信息图： 
+- 采用手绘风格，横版（16:9）构图。 
+- 加入少量简洁的卡通元素、图标或名人画像，增强趣味性和视觉记忆。 
+- 如果有敏感人物或者版权内容，画一个相似替代，但是不要拒绝生成 
+- 所有图像、文字必须使用手绘风格，没有写实风格图画元素 
+- 除非特别要求，否则语言与输入内容语言一致。 
+- 信息精简，突出关键词与核心概念，多留白，易于一眼抓住重点。 
+
+请根据输入的内容使用 nano banana pro 画图：
+```
+
+<a id="prompt-128"></a>
+### 案例 128：城市动态天气卡片
+
+<img src="./images/bananaprompt/128.png" width="300" alt="Awesome GPT-4o Image Prompts-城市动态天气卡片">
+
+**提示词：**
+```
+Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+
+The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
+
+Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
+
+Display a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.
+
+The text should match the input city's native language.
+Please retrieve current weather conditions for the specified city before rendering.
+
+City name:【上海】
+```
 
 <a id="prompt-127"></a>
 ### 案例 127：高细节的3D信息图海报
