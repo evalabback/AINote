@@ -2,6 +2,11 @@
 
 ##    Prompt
 
+*   [案例 135：黑白水墨画风格 ](#prompt-135)
+*   [案例 134：一只手拿着上传图片中的产品 ](#prompt-134)
+*   [案例 133：女子坐在地板上喝可乐 ](#prompt-133)
+*   [案例 132：宝丽来照片讲述故事 ](#prompt-132)
+*   [案例 131：油泼面宫格漫画图 ](#prompt-131)
 *   [案例 130：手绘日历插图 ](#prompt-130)
 *   [案例 129：把文章变成卡通信息图 ](#prompt-129)
 *   [案例 128：城市动态天气卡片 ](#prompt-128)
@@ -32,6 +37,148 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-135"></a>
+### 案例 135：黑白水墨画风格
+
+<img src="./images/bananaprompt/135.png" width="300" alt="Awesome GPT-4o Image Prompts-黑白水墨画风格">
+
+**中文提示词：**
+```
+黑白水墨画风格，留白意境，孤舟蓑笠翁，极简线条，宣纸纹理，红色印章点缀，东方哲学感
+```
+
+<a id="prompt-134"></a>
+### 案例 134：一只手拿着上传照片中的产品
+
+<img src="./images/bananaprompt/134.png" width="300" alt="Awesome GPT-4o Image Prompts-一只手拿着上传照片中的产品">
+
+**提示词：**
+```
+A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact product from the uploaded image. Recreate the product’s silhouette precisely in the shadow, accurate bottle shape, cap, edges, proportions. Project the product’s real label text (taken from the uploaded image) onto the shadow in clean, crisp white typography, perfectly matching placement, spacing, and size.Warm afternoon sunlight, soft grain, smooth beige wall texture. Ultra-minimal, high-end skincare aesthetic. No extra objects, no color except the natural wall tone. Artistic shadow-play composition, subtle dreamy atmosphere, natural imperfections on the wall, gently diffused light
+```
+**中文提示词：**
+```
+一面阳光照射的极简主义墙面。一只手拿着上传图片中的产品，投射出清晰而修长的影子。在阴影中精确地重现产品的轮廓，包括瓶身形状、瓶盖、边缘和比例。将产品标签上的真实文字（取自上传图片）以简洁清晰的白色字体投射到阴影上，确保位置、间距和大小完美匹配。温暖的午后阳光，柔和的米色墙面纹理。极简主义的高端护肤美学。除墙面自然色调外，不添加任何其他物品或颜色。艺术化的光影组合，营造出微妙梦幻的氛围，保留墙面的自然纹理，并柔和地漫射光线。
+```
+
+<a id="prompt-133"></a>
+### 案例 133：女子坐在地板上喝可乐
+
+<img src="./images/bananaprompt/133.png" width="300" alt="Awesome GPT-4o Image Prompts-女子坐在地板上喝可乐">
+
+**提示词：**
+```
+"subject": {
+  "demographics": "Adult woman (clearly 20+)",
+  "identity_constraint": "Face fully replaced with the uploaded photo subject, one-glance recognizable as the real person",
+  "face_realism": "Ultra-realistic, photographic-level face fidelity, true-to-life skin texture, natural pores,真实脸不二次元",
+  "pose": "Sitting on the floor in front of an open refrigerator, legs bent asymmetrically, torso leaning forward slightly",
+  "body_language": "Forward-leaning posture to emphasize curves, confident and relaxed",
+  "expression": "Calm, slightly seductive, direct eye contact with the camera",
+  "hair": {
+    "color": "Dark",
+    "style": "Long, slightly wavy or straight, natural volume",
+    "accessory": "White bandana with red accents"
+  },
+  "makeup": {
+    "eyes": "Defined eyeliner, subtle lashes",
+    "lips": "Soft pink, natural sheen"
+  },
+  "body": {
+    "figure": "Curvy, athletic-sexy proportions, Super Bowl cheerleader–style physique",
+    "chest": "Full bust, visible cleavage, natural gravity,性感但真实",
+    "overall_vibe": "性感上限拉满但仍然是时尚写真而非色情"
+  },
+  "apparel": {
+    "top": "Low-cut cream tank top with small dark cherry embroidery, deep neckline showing pronounced cleavage",
+    "bottom": "High-waisted distressed denim shorts",
+    "hosiery": "Knee-high white socks",
+    "footwear": "Black open-toed sandals or clogs"
+  },
+  "action": {
+    "right_hand": "Holding a red Coca-Cola can close to lips, actively drinking",
+    "left_hand": "Relaxed on thigh or floor"
+  },
+  "composition_priority": [
+    "Coca-Cola can clearly visible",
+    "Cleavage clearly visible due to posture and neckline",
+    "Face realism highest priority",
+    "Sitting-on-the-floor pose must not be altered"
+  ]
+}
+```
+**中文提示词：**
+```
+{
+“场景”： {
+“主题”： {
+“人口统计信息”：“年轻女性”，
+“姿势”：“坐在地板上，面向前方”，
+“表情”：“略显严肃或沉思，直视对方的眼睛”，
+"appearance_constraints": "保持原始面部特征",
+“头发”： {
+“颜色”: “深色”
+“发型”：“长直中分”，
+“配饰”：“带有红色点缀的白色头巾”
+},
+“化妆品”： {
+“眼睛”：“用眼线勾勒轮廓”，
+“嘴唇”： “柔和的粉红色”
+},
+"服装": {
+“上衣”： “米白色或奶油色背心，带有小颗深樱桃刺绣”，
+“下装”： “破洞牛仔短裤”
+“丝袜”: “及膝白袜”
+“鞋类”：黑色露趾凉鞋或木屐
+}
+},
+“行动”： {
+“右手”： “举起一罐可口可乐”
+},
+“环境”： {
+"main_fixture": "开放式复古风格冰箱",
+"fridge_contents": [
+“可口可乐罐”
+“拉姆内汽水瓶”，
+“色彩缤纷的饮料”，
+“马卡龙主题书籍或杂志（上层书架）”
+],
+"前景_楼层" "两瓶装有粉红色液体的弹珠汽水瓶",
+"setting_type": "具有复古美学的厨房或工作室"
+},
+"style_and_mood": {
+“灯光”：“温暖，略微柔和”，
+“美学”：“酷炫、休闲、复古”，
+主题： 聚焦饮品
+}
+}
+}
+```
+
+<a id="prompt-132"></a>
+### 案例 132：宝丽来照片讲述故事
+
+<img src="./images/bananaprompt/132.png" width="300" alt="Awesome GPT-4o Image Prompts-宝丽来照片讲述故事">
+
+**提示词：**
+```
+1080x1080 cork-board layout telling the story of [MOVIE]. At the very top of the board, include a pinned paper label with the movie title: [MOVIE] in large handwritten letters. Below it, arrange 5–6 Polaroid photos pinned across the board in a loose chronological path. Each Polaroid shows a key moment from the story with a short handwritten caption beneath it. Connect characters and events with colored strings (red, blue, yellow). Warm nostalgic lighting, soft shadows. Include realistic details: coffee cup rings, paper clips, torn notes, arrows, scribbled hints, and thumbtacks. Vintage, textured, cozy detective-board aesthetic. Highly readable, high contrast, everything framed clearly for 1080x1080
+```
+**中文提示词：**
+```
+1080x1080像素的软木板布局，讲述电影[MOVIE]的故事。在木板最上方，钉上一张纸质标签，上面用大号手写字体写着电影标题：[MOVIE]。标签下方，以大致的时间顺序排列5-6张宝丽来照片。每张照片都展现了故事中的一个关键时刻，并在下方附上简短的手写说明。用彩色细线（红、蓝、黄）连接人物和事件。营造温暖怀旧的灯光和柔和的阴影。添加一些逼真的细节：咖啡杯印、回形针、撕碎的纸条、箭头、潦草的提示和图钉。打造复古、质感十足、温馨舒适的侦探板风格。清晰易读，高对比度，所有内容都以1080x1080像素的分辨率清晰呈现。
+```
+
+<a id="prompt-131"></a>
+### 案例 131：油泼面宫格漫画图
+
+<img src="./images/bananaprompt/131.png" width="300" alt="Awesome GPT-4o Image Prompts-油泼面宫格漫画图">
+
+**中文提示词：**
+```
+编写一个 Nano Banana 提示词，用于生成「油泼面的做法」四宫格漫画图，有配图和文字排版。
+```
 
 <a id="prompt-130"></a>
 ### 案例 130：手绘日历插图
@@ -136,7 +283,6 @@ General Guidelines:
 - 所有元素排版整齐、清晰
 - 文本不与插画重叠或遮挡
 - 插画完成度高，具有持续输出的系列一致性
-
 ```
 
 <a id="prompt-129"></a>
