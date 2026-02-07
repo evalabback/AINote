@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 138：日式居酒屋狗狗烤串 ](#prompt-138)
+*   [案例 137：根据古诗画一幅画 ](#prompt-137)
+*   [案例 136：第一人称视角牵手照片 ](#prompt-136)
 *   [案例 135：黑白水墨画风格 ](#prompt-135)
 *   [案例 134：一只手拿着上传图片中的产品 ](#prompt-134)
 *   [案例 133：女子坐在地板上喝可乐 ](#prompt-133)
@@ -37,6 +40,122 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-138"></a>
+### 案例 138：日式居酒屋狗狗烤串
+
+<img src="./images/bananaprompt/138.png" width="300" alt="Awesome GPT-4o Image Prompts-日式居酒屋狗狗烤串">
+
+**中文提示词：**
+```
+温暖的日式居酒屋暖黄灯光。店长是一只系着头巾的黑色拉布拉多犬，正在认真地烤串。吧台前的灯笼上写着汉字：“拒绝内卷，只想撸串”。墙上的菜单木牌上写着特色菜：“碳烤秋刀鱼（不含刺）”和“快乐肥宅水（无限续杯）”。
+```
+
+<a id="prompt-137"></a>
+### 案例 137：根据古诗画一幅画
+
+<img src="./images/bananaprompt/137.png" width="300" alt="Awesome GPT-4o Image Prompts-根据古诗画一幅画">
+
+**中文提示词：**
+```
+蒹葭苍苍，白露为霜。所谓伊人，在水一方。
+根据古诗画一幅画，并附上原文。
+```
+
+<a id="prompt-136"></a>
+### 案例 136：第一人称视角牵手照片
+
+<img src="./images/bananaprompt/136.png" width="300" alt="Awesome GPT-4o Image Prompts-第一人称视角牵手照片">
+
+**提示词：**
+```
+{
+  "face_reference": {
+    "source": "uploaded_image",
+    "rule": "use_as_only_face_reference",
+    "priority": "highest",
+    "requirements": [
+      "same_facial_structure",
+      "same_proportions",
+      "same_bone_structure",
+      "same_expression_and_vibe",
+      "instantly_recognizable_as_same_person"
+    ]
+  },
+
+  "camera": {
+    "viewpoint": "first_person_boyfriend_view",
+    "interaction": "holding_hands",
+    "lens": "35mm",
+    "style": "realistic_photography"
+  },
+
+  "subject": {
+    "gender": "female",
+    "hair": "long_hair",
+    "body": "sexy_but_natural",
+    "face": "exact_match_to_reference"
+  },
+
+  "clothing": {
+    "top": "red_tight_spaghetti_strap_dress",
+    "stockings": "red_sheer_stockings",
+    "accessories": ["simple_gold_necklace"],
+    "style_constraint": "elegant_sexy_not_vulgar"
+  },
+
+  "scene": {
+    "location": "outdoor",
+    "examples": [
+      "night_city_street",
+      "sunset_beach",
+      "park_under_street_lights",
+      "hotel_balcony"
+    ],
+    "atmosphere": [
+      "romantic",
+      "intimate",
+      "emotional",
+      "warm"
+    ],
+    "background": "slightly_blurred"
+  },
+
+  "emotion": {
+    "eye_contact": "looking_at_camera",
+    "mood": [
+      "trust",
+      "intimacy",
+      "romantic_tension"
+    ]
+  },
+
+  "visual_style": {
+    "lighting": "natural_light_with_soft_flash",
+    "texture": "real_skin_texture",
+    "quality": "ultra_realistic",
+    "detail": "high_detail",
+    "dynamic_range": "high"
+  },
+
+  "negative_prompt": [
+    "different_face",
+    "similar_but_not_same_person",
+    "ai_face",
+    "cartoon_style",
+    "anime_style",
+    "plastic_skin",
+    "over_smoothing",
+    "distorted_face",
+    "extra_limbs",
+    "deformed_hands",
+    "explicit_sexual_actions",
+    "cheap_porn_style",
+    "low_resolution",
+    "blurry"
+  ]
+}
+```
 
 <a id="prompt-135"></a>
 ### 案例 135：黑白水墨画风格
