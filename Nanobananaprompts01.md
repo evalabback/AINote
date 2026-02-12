@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 141：人物的电影级逼真图像 ](#prompt-141)
+*   [案例 140：电影感十足的照片 ](#prompt-140)
+*   [案例 139：黑板艺术作品 ](#prompt-139)
 *   [案例 138：日式居酒屋狗狗烤串 ](#prompt-138)
 *   [案例 137：根据古诗画一幅画 ](#prompt-137)
 *   [案例 136：第一人称视角牵手照片 ](#prompt-136)
@@ -40,6 +43,353 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-141"></a>
+### 案例 141：人物的电影级逼真图像
+
+<img src="./images/bananaprompt/141.png" width="300" alt="Awesome GPT-4o Image Prompts-人物的电影级逼真图像">
+
+**提示词：**
+```
+{
+  "objective": "Generate a cinematic, photo-realistic image of the person in the uploaded image",
+  "scene_description": {
+    "setting": {
+      "location": "Rain-soaked flyover bench at dusk",
+      "environment_details": [
+        "wet pavement with puddle reflections",
+        "mist in the air",
+        "vibrant neon cityscape in the background",
+        "bokeh trails from passing cars"
+      ]
+    },
+    "subject": {
+      "type": "person in the uploaded image",
+      "pose": "sitting on the bench, low-angle perspective",
+      "appearance": {
+        "outfit": {
+          "jacket": "colorblock denim jacket",
+          "inner_wear": "yellow hoodie",
+          "pants": "khaki cargo pants",
+          "footwear": "high-top sneakers"
+        }
+      }
+    }
+  },
+  "camera_and_style": {
+    "camera_angle": "cinematic low-angle shot",
+    "focus": {
+      "subject_focus": "sharp 8K clarity on subject",
+      "foreground": "intentionally blurred"
+    },
+    "color_grading": "moody mix of warm streetlights and cool neon tones",
+    "lighting": [
+      "ambient neon glow",
+      "warm streetlights",
+      "reflections in puddles"
+    ],
+    "aesthetics": [
+      "cinematic depth",
+      "high contrast",
+      "atmospheric realism"
+    ]
+  },
+  "output_preferences": {
+    "resolution": "8K highly detailed",
+    "style": "cinematic realism"
+  }
+}
+```
+**中文提示词：**
+```
+{
+“目标”：“生成上传图像中人物的电影级、照片级逼真图像”，
+"scene_description": {
+“环境”： {
+“地点”：“黄昏时分被雨水浸透的高架桥长椅”
+"environment_details": [
+“湿漉漉的路面上倒映着水坑里的水珠”，
+“空气中弥漫着薄雾”，
+“背景是充满活力的霓虹灯城市景观”，
+“过往车辆的散景拖影”
+]
+},
+“主题”： {
+“类型”：“上传图片中的人物”，
+“姿势”：“坐在长椅上，低角度视角”，
+“外貌”： {
+“全套服装”： {
+"jacket": "拼色牛仔夹克",
+"内衣": "黄色连帽衫",
+裤子：卡其色工装裤，
+“鞋类”: “高帮运动鞋”
+}
+}
+}
+},
+"camera_and_style": {
+"camera_angle": "电影般的低角度拍摄",
+“重点”： {
+"subject_focus": "主体清晰锐利，8K分辨率",
+“前景”：“故意模糊”
+},
+"color_grading": "温暖的路灯和冷色调的霓虹灯交织的氛围"
+“灯光”： [
+“环境霓虹灯光”，
+“温暖的路灯”，
+“水洼中的倒影”
+],
+“美学”：[
+“电影般的景深”，
+“高对比度”，
+“氛围真实感”
+]
+},
+"output_preferences": {
+“分辨率”：“8K 超高清”，
+风格：电影写实主义
+}
+}
+```
+
+<a id="prompt-140"></a>
+### 案例 140：电影感十足的照片
+
+<img src="./images/bananaprompt/140.png" width="300" alt="Awesome GPT-4o Image Prompts-电影感十足的照片">
+
+**提示词：**
+```
+{
+  "subject": {
+    "description": "An athletic bikini woman playfully splashing through shallow turquoise water on a Tahitian beach",
+    "mirror_rules": "Dynamic water reflections beneath her feet, broken by splashes",
+    "age": "late 20s to early 30s",
+    "expression": "joyful, spontaneous laughter, carefree energy",
+    "pose": "mid-stride motion, one leg lifted slightly as water bursts outward",
+    "hair": {
+      "color": "sun-kissed brunette",
+      "style": "long wavy hair caught mid-motion, slightly airborne from movement"
+    },
+    "clothing": {
+      "top": {
+        "type": "minimalist bikini top",
+        "color": "bright coral or turquoise",
+        "details": "wet fabric clinging naturally, realistic water sheen"
+      },
+      "bottom": {
+        "type": "matching bikini bottom",
+        "color": "same as top",
+        "details": "water droplets visible along edges"
+      }
+    },
+    "skin": {
+      "tone": "golden tan",
+      "details": "sunlit highlights on shoulders and thighs, water droplets frozen mid-air"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "none",
+      "details": "hair moving freely in wind"
+    },
+    "jewelry": {
+      "earrings": "small subtle studs",
+      "necklace": "none",
+      "wrist": "thin anklet bracelet",
+      "rings": "none"
+    },
+    "device": {
+      "type": "none",
+      "details": "N/A"
+    },
+    "prop": {
+      "type": "none",
+      "details": "hands interacting directly with water splash"
+    }
+  },
+  "photography": {
+    "camera_style": "High-speed cinematic realism, 35mm wide lens",
+    "angle": "low-to-mid angle near water level to enhance splash scale",
+    "shot_type": "full body action shot, frozen motion",
+    "aspect_ratio": "16:9",
+    "shutter_speed": "1/2000s to freeze water droplets",
+    "aperture": "f/4",
+    "texture": "hyper-detailed water droplets, sparkling highlights, natural skin texture"
+  },
+  "background": {
+    "setting": "Tahitian tropical island shoreline",
+    "elements": [
+      "crystal clear shallow turquoise water",
+      "white sand beneath water surface",
+      "soft rolling waves in distance",
+      "palm trees swaying",
+      "bright blue sky with scattered clouds"
+    ],
+    "atmosphere": "vibrant, playful, sun-drenched tropical freedom",
+    "lighting": "strong golden sunlight from side-back angle, creating rim light on water droplets and glowing skin highlights"
+  }
+}
+```
+**中文提示词：**
+```
+{
+“主题”： {
+“描述”：“一位身形粗犷的男性幸存者走过杂草丛生的城市街道”，
+"mirror_rules": "破损商店橱窗中的倒影",
+“年龄”: “40多岁”
+“表情”：“警惕地扫视着地平线，疲惫不堪”
+“头发”： {
+“颜色”：“盐和胡椒”，
+“风格”：“杂乱不堪的胡须”
+},
+“衣服”： {
+“顶部”： {
+“类型”：“法兰绒衬衫和牛仔夹克”，
+“颜色”：“褪色的蓝红色格子图案”，
+“细节”：“肘部有破洞，被太阳晒褪色，有污渍”
+},
+“底部”： {
+类型：牛仔裤，
+“颜色”：“深灰色”，
+细节：沾满泥巴的膝盖，磨损的下摆
+}
+},
+“脸”： {
+"preserve_original": true,
+“妆容”：“污渍、晒斑、逼真的风化效果”
+}
+},
+“配件”： {
+"头饰": {
+"type": "无",
+“详情”： “不适用”
+},
+“珠宝”： {
+“耳环”： “无”，
+“项链”： “无”，
+“手腕”: “坏掉的模拟手表”
+“戒指”： “戴在脖子上的链子上的结婚戒指”
+},
+“设备”： {
+“类型”：“手电筒”，
+“细节”：“夹在背包带上”
+},
+"prop": {
+"type": "登山背包",
+“细节”：“大号，橄榄绿色，附带睡袋，布料磨损”
+}
+},
+“摄影”： {
+“camera_style”: “电影写实主义，35mm广角镜头”
+角度： “广角镜头，展现环境”，
+"shot_type": "全身略微远离镜头走开",
+"aspect_ratio": "16:9",
+“质感”：“细致的树叶、明媚的阳光、自然的色彩”
+},
+“背景”： {
+“场景”：“被自然重新占领的废弃城市街道”，
+"wall_color": "覆盖着常春藤的混凝土",
+“元素”：[
+“生锈的汽车”，
+“高高的草丛撑破了路面”，
+远处倒塌的建筑物
+背景中可见鹿
+],
+“氛围”：“安静、荒凉、美丽的衰败”，
+“光线”：“阴天柔和的日光，漫射的阴影，忧郁的氛围”
+}
+}
+```
+
+<a id="prompt-139"></a>
+### 案例 139：黑板艺术作品
+
+<img src="./images/bananaprompt/139.png" width="300" alt="Awesome GPT-4o Image Prompts-黑板艺术作品">
+
+**提示词：**
+```
+{
+  "intent": "Photorealistic documentation of a dynamic chalkboard art piece featuring a single anime character in action, capturing the ephemeral and imaginative quality of the medium within a classroom context.",
+  "frame": {
+    "aspect_ratio": "4:3",
+    "composition": "A centered medium-wide shot focusing on the chalkboard mural. The teacher's desk remains in the immediate foreground for scale, while the chalk drawing dominates the frame. The composition emphasizes motion emerging from the center of the board.",
+    "style_mode": "documentary_realism, texture-focused, ambient naturalism"
+  },
+  "subject": {
+    "primary_subject": "A large-scale, intricate chalk drawing of Doraemon pulling a gadget from his four-dimensional pocket on a standard green classroom blackboard.",
+    "visual_details": "The illustration depicts Doraemon mid-action, reaching into his iconic four-dimensional pocket with one hand while energetically pulling out a futuristic gadget — the 'Take-copter' (タケコプター). His round blue body is rendered with layered blue chalk and subtle white highlights for volume. His facial expression is lively and excited, with wide sparkling eyes and a joyful open smile. The Take-copter is drawn emerging outward from the pocket, slightly angled toward the viewer, using yellow and red chalk accents to create visual contrast. Soft white chalk lines radiate outward from the pocket area to suggest motion and magical energy.",
+    "medium_texture": "The chalk texture remains dusty and matte, with visible blending and hand-smudged gradients on Doraemon’s body. Energetic chalk strokes and light dust scattering around the pocket emphasize movement. Fine chalk particles are visible along the board’s lower edge.",
+    "surrounding_elements": "Subtle chalk motion lines and spark-like accents surround the gadget. To the right side of the character, vertical Japanese text reading 'ドラえもん' is written in clean white chalk."
+  },
+  "environment": {
+    "location": "A standard Japanese school classroom.",
+    "foreground_elements": "A wooden teacher's desk occupies the lower foreground. On its surface are a yellow box of colored chalks, loose sticks of blue, white, red, and yellow pastel chalk, and a dust-covered black felt eraser.",
+    "background_elements": "The green chalkboard spans the width of the frame, bordered by a metallic chalk tray containing accumulated chalk dust. The wall above is plain off-white plaster with a small mounted speaker box.",
+    "atmosphere": "Quiet and academic, contrasting with the lively energy depicted in the artwork."
+  },
+  "lighting": {
+    "type": "Diffuse ambient classroom lighting.",
+    "quality": "Soft, even illumination from overhead fluorescent lights mixed with daylight from windows on the left. The lighting highlights chalk texture and prevents glare while subtly accentuating the white motion lines.",
+    "color_temperature": "Neutral white, approximately 5000K.",
+    "direction": "Overhead and slightly frontal."
+  },
+  "camera": {
+    "sensor_format": "35mm full-frame digital sensor.",
+    "lens": "35mm prime lens.",
+    "aperture": "f/5.6",
+    "depth_of_field": "Moderate depth of field, keeping the chalkboard drawing in sharp focus while slightly softening the foreground desk.",
+    "shutter_speed": "1/60s",
+    "iso": "400",
+    "camera_position": "Eye-level standing position, far enough back to capture the full drawing and foreground desk."
+  },
+  "negative": {
+    "content": "Multiple characters, Nobita, Shizuka, Gian, Suneo, digital glow effects, neon lighting, CGI rendering, vector graphics, paper texture, oil painting, messy composition, extreme low angle, fisheye lens.",
+    "style": "No hyper-saturation, no artificial lens flares, no heavy vignetting, no soft focus filters."
+  }
+}
+```
+**中文提示词：**
+```
+{
+“意图”：“以照片写实的手法记录一幅特定的黑板艺术作品，作品中描绘了一个动漫角色，捕捉了课堂环境中这种媒介的转瞬即逝的特性。”
+“框架”： {
+"aspect_ratio": "4:3",
+“构图”：“以黑板壁画为中心拍摄的中景镜头。画面前景中包含教师的办公桌以显示比例，而单个人物的画作则占据了背景空间。”
+"style_mode": "纪实写实主义，注重纹理，环境自然主义"
+},
+“主题”： {
+“primary_subject”: “一幅绘制在标准绿色教室黑板上的大型、精细的《海贼王》角色波雅·汉库克的粉笔画。”
+“视觉细节”： “这幅插画描绘了波雅·汉库克，她以威严的姿态位于画面中央。她标志性的黑色长直发，采用姬发式剪裁，以浓重的黑色粉笔绘制，并以白色点缀以增加光泽。她的表情傲慢而威严，深蓝色的眼睛刻画入微。她双手比划成心形，象征着她的‘Mero Mero Mellow’（柔情蜜意）技巧。她身着一件饰有紫色几何图案的性感红色上衣，佩戴着以鲜艳彩色粉笔绘制的金色蛇形耳环。”
+“medium_texture”：图像保留了粉笔的粉尘质感和哑光效果。清晰可见的排线和交叉线笔触在她的衣服和头发上营造出阴影。绿色石板上的晕染区域表明了手工调色的位置。
+"surrounding_elements": "字符右侧用清晰的白色粉笔写着竖排的日文“海贼女帝”。"
+},
+“环境”： {
+地点：一间标准的日本学校教室。
+"前景元素": "一张木制教师桌占据了画面下方的前景。桌面上散落着一盒黄色的彩色粉笔、几支红色、白色和蓝色的粉彩粉笔，以及一块沾满灰尘的黑色毡橡皮。"
+“背景元素”： “绿色黑板横跨整个画面宽度，边缘是一个金属粉笔托盘，里面积满了粉笔灰。黑板上方是一面普通的米白色石膏墙，墙上安装了一个小型壁挂式音箱。”
+“氛围”：“安静而学术，一种静谧感表明房间里目前无人居住。”
+},
+“灯光”： {
+“类型”：“漫射环境教室照明。”
+“质量”：“柔和、无方向性的照明由上方荧光灯具提供，并混合了左侧窗户的自然光。光线均匀，既防止黑板表面产生眩光，又突显了粉笔的纹理。”
+“色温”： “中性白光，约 5000K，确保红色和紫色粉笔在深绿色白板上的准确显色。”
+“方向”：“头顶上方，略微朝前。”
+},
+“相机”： {
+"sensor_format": "35mm 全画幅数码传感器。"
+“镜头”：“35mm 定焦镜头。”
+光圈：f/5.6，
+“景深”： “适中的景深，保持黑板上的图画清晰锐利，同时让前景的桌面元素略微柔化。”
+"shutter_speed": "1/60"
+“iso”: “400，
+“camera_position”: “与眼睛齐平的站立位置，向后移动足够远，以便将整个图纸和桌子都框入其中。”
+},
+“消极的”： {
+内容：多个角色、绿谷出久、死柄木弔、男性角色、数字艺术叠加、矢量图形、纸张纹理、油画、凌乱构图、极低角度、鱼眼镜头。
+“风格”：“不使用过饱和度，不使用柔焦滤镜，不使​​用严重的暗角。”
+}
+}
+```
 
 <a id="prompt-138"></a>
 ### 案例 138：日式居酒屋狗狗烤串
