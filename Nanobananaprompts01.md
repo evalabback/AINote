@@ -2,6 +2,12 @@
 
 ##    Prompt
 
+*   [案例 147：上海3D城市时光之旅 ](#prompt-147)
+*   [案例 146：日系少女赶地铁 ](#prompt-146)
+*   [案例 145：反推图片Jason提示词 ](#prompt-145)
+*   [案例 144：中国每个城市标志性美食 ](#prompt-144)
+*   [案例 143：同一张脸的柔和模糊的侧面特写 ](#prompt-143)
+*   [案例 142：星座运势卡 ](#prompt-142)
 *   [案例 141：人物的电影级逼真图像 ](#prompt-141)
 *   [案例 140：电影感十足的照片 ](#prompt-140)
 *   [案例 139：黑板艺术作品 ](#prompt-139)
@@ -43,6 +49,203 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-147"></a>
+### 案例 147：上海3D城市时光之旅
+
+<img src="./images/bananaprompt/147.png" width="300" alt="Awesome GPT-4o Image Prompts-上海3D城市时光之旅">
+
+**提示词：**
+```
+A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue.   First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with grey tiled roofs, wooden window frames, grey brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures.   Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house clock tower (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures.   Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, miniature contemporary figures.   Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures.   The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars.   Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section.   At top center: elegant bilingual typography "上海 SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Through Time" and "建筑时光之旅".   Ultra-realistic 3D rendering style, professional architectural miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
+```
+**中文提示词：**
+```
+令人惊叹的超写实3D渲染图展现了上海建筑的演变历程，并以精细的微缩模型立体场景的形式呈现在一个大型圆形悬浮平台上，平台如同一个被分割成四个独立象限的圆盘。所有建筑均以具有真实立体感和深度的3D微缩模型呈现，而非平面背景。圆形平台边缘厚实，层叠交错，宛如地质地层，呈现出棕色、米色和蓝绿色调。第一象限（左上）：展示了传统的石库门石门建筑的3D微缩模型，这些建筑拥有灰色瓦顶、木质窗框、灰色砖墙、红色纸灯笼，以及小巧的复古自行车和人力车模型，还有微缩的人物模型。第二象限（右上）：外滩建筑的3D微缩模型——装饰艺术风格的和平饭店（绿色铜屋顶，3D模型）、新古典主义风格的汇丰银行大厦穹顶（3D模型）、哥特式海关大楼钟楼（3D模型）、奶油色和金色外墙、20世纪30年代的微型汽车（3D模型）以及微型行人。第三象限（右下）：浦东现代天际线的3D微缩模型——东方明珠塔（粉色球体，精细3D模型）、金茂大厦（3D模型）、上海中心大厦（扭曲玻璃结构，3D模型）、上海环球金融中心（3D模型），所有摩天大楼均以具有深度的实体3D微缩模型呈现，此外还有微型现代车辆和微型当代人物。第四象限（左下角）：未来可持续建筑的3D微缩模型——覆盖着微型绿色植物的垂直森林塔（3D模型）、透明太阳能板建筑（3D模型）、有机曲线参数化结构（3D模型）、高架超级高铁站（3D模型）、微型无人机和飞行器（3D模型）以及未来主义微缩模型。圆形平台漂浮在逼真的3D渲染黄浦江水面上，水面倒映着江水的纹理。传统的木制舢板（3D模型）逐渐演变为线条流畅的现代游轮（精细的3D模型）。平台边缘展现出美丽的波浪状地质层纹理。背景是朦胧的上海天际线轮廓，从温暖的晨曦橙色过渡到粉紫色的暮光，最终变为繁星点点的深邃夜空蓝色。灯光在不同象限间过渡：石库门采用温暖的棕褐色调，外滩沐浴在金色的阳光下，现代浦东则闪耀着充满活力的电光蓝霓虹灯，未来区域则呈现出全息的青色和洋红色光芒。画面顶部中央：优雅的双语字体“上海 SHANGHAI”，融合了传统书法与现代无衬线字体，副标题为“建筑时光之旅”。采用超逼真的3D渲染风格、专业的建筑微缩摄影技术，运用移轴镜头效果营造微缩景观，所有元素均具有真实的3D深度和立体感，超精细的纹理展现了模型的精湛工艺，4K分辨率，博物馆级立体模型呈现，戏剧性的影棚灯光营造出丰富的层次感和氛围，每一栋建筑都是触感十足的3D微缩模型，而非平面图像。
+```
+
+<a id="prompt-146"></a>
+### 案例 146：日系少女赶地铁
+
+<img src="./images/bananaprompt/146.png" width="300" alt="Awesome GPT-4o Image Prompts-日系少女赶地铁">
+
+**中文提示词：**
+```
+Role（角色设定）
+你是一位专精 日系青春电影 与 可爱少女日常写真 的顶级摄影导演。你擅长用电影分镜和细腻光影，捕捉女主从容又笨拙的小失误，营造出暖心、治愈、略带喜剧感的早晨通勤场景。
+Task（任务目标）
+根据以下描述，生成一张 4 格拼接构图（Four-panel composition，2x2 网格：上左、上右、下左、下右）。
+必须保持同一位日系少女形象在四格中 面孔与特征 100% 一致：黑色或深棕色齐肩直发、空气刘海、淡妆、身材偏纤细。
+她的穿着为 日系少女通勤风：浅色针织开衫、白衬衫、格纹半身裙、帆布鞋，背一只简洁的单肩包或双肩包。
+
+Visual Guidelines（视觉规范）
+画面质感：cinematic, Japanese movie still, 8K, soft light, shallow depth of field, subtle film grain, natural skin texture。
+色调：清晨暖色调，偏柔和的奶油色与浅蓝色，高光不过曝，整体偏 温柔、干净、可爱。
+背景：日本城市住宅区与地铁站环境，干净街道、路牌、自动贩卖机、站牌等细节。
+
+构图：2x2 网格布局（Upper-left, Upper-right, Lower-left, Lower-right），每一格都是一帧电影截图。
+
+Panel Breakdown（四格分镜拆解）
+
+上左（Upper-left）——【迟到的预感 / The Late Morning】
+
+视角（Camera Angle）：室内门口处的中近景，略微高机位，好像观众站在玄关看她匆忙出门。
+
+动作（Action）：她一边踩着鞋，一边抓起门边的包和手机，嘴里咬着一小块吐司或饭团，身体微微前倾准备冲出去。
+
+表情（Expression）：困倦中带点慌张，眼睛微睁，眉毛略上挑，带着“糟了要迟到”的可爱慌乱。
+重点（Focus）：清晨从门外洒进来的暖阳勾勒出她的轮廓，玄关处杂乱但温馨的小物（鞋架、雨伞、地垫）虚焦，突出少女的慌忙瞬间。
+
+上右（Upper-right）——【街角小跑 / Corner Dash】
+
+视角（Camera Angle）：略低机位的侧面全身景，仿佛跟拍镜头，背景是安静街区与十字路口。
+
+动作（Action）：她背着包小跑，裙摆和头发随风轻轻扬起，一只手按着包带防止晃动，另一只手看腕表或手机时间。
+
+表情（Expression）：有点紧张又带点好笑的无奈，嘴角微微撅起，眼神专注前方。
+
+重点（Focus）：路边的自动贩卖机、路牌、低饱和的街景在运动模糊中掠过，地面晨光与她的影子形成斜斜的引导线，强化“赶时间”的节奏感。
+
+左下（Lower-left）——【楼梯冲刺 / Stair Sprint】
+
+视角（Camera Angle）：从地铁站楼梯下方向上拍摄的低机位，仰视她奔上楼梯或往站台方向跑。
+
+动作（Action）：她扶着扶手快速上楼梯，步伐轻快，裙摆随着动作轻轻摆动，包斜跨在身侧。
+
+表情（Expression）：稍微喘气但坚持、认真的神情，眉头轻皱却不失可爱。
+
+重点（Focus）：楼梯上的光影分明，顶端可见写有站名的牌子与一点点天空。背景路人略虚化，突出少女努力赶车的剪影，整体仍保持干净、清爽的画面感。
+
+右下（Lower-right）——【刚好赶上 / Just in Time】
+
+视角（Camera Angle）：地铁车厢内的中近景，略高机位，好像站在她对面看着她。窗外有轻微运动模糊的隧道景色。
+
+动作（Action）：她站在车门附近，双手抓着包带或扶手，微微弯腰喘气，肩膀仍有一点起伏。
+
+表情（Expression）：松了口气的可爱微笑，脸颊略微泛红，眼睛里有轻松和自我调侃的感觉，像是在心里说“总算没迟到”。
+
+重点（Focus）：柔和的车厢灯光照在她的脸上，皮肤质感细腻自然。背景是朴素的车厢座位与几位乘客的模糊轮廓，营造温柔又日常的通勤氛围。
+
+Technical Constraints（技术限制）
+
+Consistency：四格中少女的脸部特征、发型、身材比例、服饰风格必须完全一致，确保是同一角色。
+
+Style：hyper-realistic yet soft, cinematic, Japanese slice-of-life movie still, natural color grading, soft focus, bokeh。
+
+Atmosphere：可爱、治愈、轻松、带一点小紧张但完全日常向，像青春爱情电影开头的通勤片头。
+```
+
+<a id="prompt-145"></a>
+### 案例 145：反推图片Jason提示词
+
+<img src="./images/bananaprompt/145.png" width="300" alt="Awesome GPT-4o Image Prompts-反推图片Jason提示词">
+
+**提示词：**
+```
+Convert images to JSON requests, including dimensions and detailed information.
+```
+**中文提示词：**
+```
+将图片转换为 JSON 请求，包括尺寸和详细信息。
+```
+
+<a id="prompt-144"></a>
+### 案例 144：中国每个城市标志性美食
+
+<img src="./images/bananaprompt/144.png" width="300" alt="Awesome GPT-4o Image Prompts-中国每个城市标志性美食">
+
+**中文提示词：**
+```
+制作一张包含台湾的中国地图，每个省市都用该省市最著名的食物来构成（各省市看起来应该像是由食物组成的，而不是食物的图片）。仔细检查，确保每个省市都正确无误。
+```
+
+<a id="prompt-143"></a>
+### 案例 143：同一张脸的柔和模糊的侧面特写
+
+<img src="./images/bananaprompt/143.png" width="300" alt="Awesome GPT-4o Image Prompts-同一张脸的柔和模糊的侧面特写">
+
+**提示词：**
+```
+{
+  "prompt": "A full-body artistic portrait of the woman from the reference image, keeping the exact same face. She is elegantly seated on the floor wearing a modern black top, soft loose gray jeans, and chunky gray-and-white sneakers. Her long, waist-length wavy milky-brown hair flows naturally, with half of it beautifully braided. She is laughing while looking upwards, capturing a confident candid smile. The background is an artistic monochrome (black and white) composition featuring a soft, blurred close-up side profile of the same face, creating a stylish dual-layer aesthetic. High-quality soft lighting, realistic textures, cinematic realism, and an artistic portrait vibe.",
+  
+  "style": {
+    "lighting": "soft, high-quality, realistic",
+    "color_palette": "monochrome background, natural skin tones",
+    "mood": "confident, candid, artistic",
+    "quality": "ultra detailed, high-resolution"
+  },
+  
+  "camera": {
+    "shot": "full-body portrait",
+    "angle": "slightly low angle, upward gaze feel",
+    "focus": "sharp on subject, blurred artistic background"
+  },
+  
+  "character": {
+    "face": "same as reference image",
+    "expression": "laughing, confident smile",
+    "hair": "long wavy milky-brown, half braided",
+    "outfit": {
+      "top": "modern black top",
+      "bottom": "soft loose gray jeans",
+      "shoes": "chunky gray-and-white sneakers"
+    }
+  },
+  
+  "background": {
+    "type": "artistic monochrome",
+    "layers": "soft blurred close-up side profile of same face",
+    "effect": "stylish dual-layer aesthetic"
+  }
+}
+```
+**中文提示词：**
+```
+{
+“提示”：“根据参考图片，绘制一位女士的全身艺术肖像，保留其面部特征。她优雅地坐在地板上，身着现代感十足的黑色上衣、宽松的灰色牛仔裤和厚底灰白运动鞋。她及腰的乳棕色长发自然垂落，一半编成精美的辫子。她仰望天空，笑容灿烂，展现出自信而真挚的神态。背景采用艺术化的黑白构图，柔和模糊的侧脸特写营造出时尚的双层美感。画面运用了高质量的柔光、逼真的纹理、电影般的写实感以及艺术肖像的氛围。”
+
+“风格”： {
+“照明”：“柔和、高质量、逼真”，
+"color_palette": "单色背景，自然肤色",
+“情绪”：“自信、坦率、有艺术气息”
+“质量”：“超精细，高分辨率”
+},
+
+“相机”： {
+“拍摄”: “全身肖像”
+“角度”：“略低的角度，向上凝视的感觉”，
+“焦点”： “主体清晰，背景虚化，富有艺术感”
+},
+
+“特点”： {
+“脸部”：“与参考图像相同”，
+“表情”：“笑着，自信的笑容”，
+“头发”：“长长的波浪状乳棕色头发，一半编成辫子”，
+“全套服装”： {
+“上衣”： “现代黑色上衣”，
+下装：柔软宽松的灰色牛仔裤，
+“鞋子”： “厚底灰白运动鞋”
+}
+},
+
+“背景”： {
+"type": "艺术单色",
+“图层”: “同一张脸的柔和模糊的侧面特写”，
+“效果”：“时尚的双层美感”
+}
+}
+```
+
+<a id="prompt-142"></a>
+### 案例 142：星座运势卡
+
+<img src="./images/bananaprompt/142.png" width="300" alt="Awesome GPT-4o Image Prompts-星座运势卡">
+
+**中文提示词：**
+```
+请先帮我搜索「星座名」今天的最新运势，重点包含：整体运势、爱情运、事业运、财运，以及今天的幸运色与幸运数字。接着，请根据今天的运势内容，绘制一张文青手绘平面插画风格的星座运程故事卡片，需要 精美排版与丰富元素设计、简体中文、2K、2:3 比例。
+```
 
 <a id="prompt-141"></a>
 ### 案例 141：人物的电影级逼真图像
