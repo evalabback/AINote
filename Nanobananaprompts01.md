@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 148：品牌披萨摄影棚照片 ](#prompt-148)
 *   [案例 147：上海3D城市时光之旅 ](#prompt-147)
 *   [案例 146：日系少女赶地铁 ](#prompt-146)
 *   [案例 145：反推图片Jason提示词 ](#prompt-145)
@@ -49,6 +50,20 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-148"></a>
+### 案例 148：品牌披萨摄影棚照片
+
+<img src="./images/bananaprompt/148.png" width="300" alt="Awesome GPT-4o Image Prompts-品牌披萨摄影棚照片">
+
+**提示词：**
+```
+A surreal studio photograph of a slice of pizza with its cheese topping transformed into a thick, melted, flowing substance resembling molten porcelain or ceramic. This flowing mass is covered in a repeating [BRAND COLORS] and white Delftware-style pattern of the [BRAND NAME] logo and motifs. It drips in long strands from the pizza slice and pools onto the surface below, retaining the blue and white logo pattern even in the puddle. The crust is visible but overwhelmed by the patterned flow. The background is a solid, plain [COLOR COLOR]. Studio lighting, soft shadows.
+```
+**中文提示词：**
+```
+一张超现实主义的摄影棚照片，展现了一片披萨，其上的芝士融化成浓稠的、流动的物质，宛如熔化的瓷器或陶瓷。这团流动的物质上覆盖着重复的[品牌颜色]和白色代尔夫特陶器风格的[品牌名称]标志和图案。它从披萨片上滴落，汇聚到下方的表面上，即使在积聚的液体中，蓝白相间的品牌标志图案依然清晰可见。披萨饼皮清晰可见，但已被流动的图案所掩盖。背景是纯色的[颜色]。摄影棚灯光，柔和的阴影。
+```
 
 <a id="prompt-147"></a>
 ### 案例 147：上海3D城市时光之旅
