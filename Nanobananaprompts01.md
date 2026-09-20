@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 149：手举轻托着一个城市3D收藏级立体模型 ](#prompt-149)
 *   [案例 148：品牌披萨摄影棚照片 ](#prompt-148)
 *   [案例 147：上海3D城市时光之旅 ](#prompt-147)
 *   [案例 146：日系少女赶地铁 ](#prompt-146)
@@ -50,6 +51,20 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-149"></a>
+### 案例 149：手举轻托着一个城市3D收藏级立体模型
+
+<img src="./images/bananaprompt/149.png" width="300" alt="Awesome GPT-4o Image Prompts-手举轻托着一个城市3D收藏级立体模型">
+
+**提示词：**
+```
+Create a hyper-realistic 1080x1080 square render of a human hand gently holding a rounded, beveled miniature display platform showcasing a 3D collectible diorama of [CITY]. Feature its most iconic landmarks, small-scale modern and historical architecture, and lush miniature greenery and trees. A bold 3D “[CITY]” sign is cleanly built into the front edge of the platform. Use a refined, desaturated color scheme with matte textures to enhance the realistic scale-model look. Light the scene with soft studio illumination, warm highlights, and subtle depth shadows. Place the composition against a neutral gray gradient backdrop, keeping the same viewing angle and perspective for consistency. Add atmospheric depth, photorealistic textures, and ultra-precise detailing for an 8K quality high-end collectible aesthetic
+```
+**中文提示词：**
+```
+创作一幅超逼真的 1080x1080 像素正方形渲染图，描绘一只人手轻轻托着一个圆润的斜面微缩展示台，台上展示着[城市名称]的 3D 收藏级立体模型。模型应包含该城市最具标志性的地标、微缩的现代和历史建筑，以及郁郁葱葱的微缩绿植和树木。醒目的 3D “[城市名称]” 标志清晰地嵌入展示台的前缘。使用精致的低饱和度配色方案和哑光纹理，增强模型的逼真效果。场景采用柔和的摄影棚照明，辅以温暖的高光和微妙的阴影。将画面置于中性灰色渐变背景前，保持相同的视角和透视，以保持一致性。添加大气深度、照片级纹理和超精细的细节处理，打造 8K 高清品质的高端收藏级美感。
+```
 
 <a id="prompt-148"></a>
 ### 案例 148：品牌披萨摄影棚照片
