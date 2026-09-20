@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 150：一副12张独立照片的秋季时尚拼贴图 ](#prompt-150)
 *   [案例 149：手举轻托着一个城市3D收藏级立体模型 ](#prompt-149)
 *   [案例 148：品牌披萨摄影棚照片 ](#prompt-148)
 *   [案例 147：上海3D城市时光之旅 ](#prompt-147)
@@ -51,6 +52,22 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-150"></a>
+### 案例 150：一副12张独立照片的秋季时尚拼贴图
+
+<img src="./images/bananaprompt/150.png" width="300" alt="Awesome GPT-4o Image Prompts-一副12张独立照片的秋季时尚拼贴图">
+
+**提示词：**
+```
+Create a high‑resolution autumn fashion collage composed of 12 separate photos arranged in a neat grid, each featuring a stylish young woman with different random faces and hairstyles, not resembling any real or famous person. Show her in a variety of cozy outdoor poses: sitting by an old glass greenhouse with a takeaway coffee cup, walking along a tree‑lined path covered in orange leaves,sitting alone on a wooden bench deep in the forest, leaning against a park fence, resting on stone steps with a leather tote bag, lounging on a green park bench in a short dress and knee‑high boots, sitting sideways on a bench, standing near a calm lake lined with orange trees, and standing on a foggy path framed by tall trees. Outfits should mix long wool coats, oversized sweaters, scarves, wide‑brim hat, neutral trousers, knit dresses, and boots in earthy toneslike beige, brown, cream, gray, and black; lighting is warm golden hour with soft, cinematic color grading, shallow depth of field and creamy bokeh, giving the entire collage a cohesive, high‑end editorial influencer aesthetic
+Signature: Shreya Yadav
+```
+**中文提示词：**
+```
+创作一幅高分辨率的秋季时尚拼贴画，由12张独立照片组成，排列成整齐的网格状。每张照片都展现一位时尚的年轻女性，她们的脸型和发型各不相同，随机选择，且不能与任何真实人物或名人相似。照片中，她可以摆出各种舒适的户外姿势：坐在古老的玻璃温室旁，手捧一杯外带咖啡；沿着铺满橙叶的林荫小道漫步；独自坐在森林深处的木椅上；倚靠在公园的围栏上；手提皮质手提包，倚靠在石阶上；身着短裙和过膝长靴，慵懒地躺在绿色的公园长椅上；侧身坐在长椅上；站在宁静的湖边，湖畔环绕着橙树；以及站在雾气弥漫、高大树木环绕的小路上。服装搭配应包括长款羊毛大衣、宽松毛衣、围巾、宽檐帽、中性色长裤、针织连衣裙和靴子，颜色以米色、棕色、奶油色、灰色和黑色等大地色系为主。温暖的黄金时段光线，柔和的电影级色彩调校，浅景深和奶油般的散景，赋予整幅拼贴画一种和谐统一、高端时尚的网红美学风格。
+签名：Shreya Yadav
+```
 
 <a id="prompt-149"></a>
 ### 案例 149：手举轻托着一个城市3D收藏级立体模型
