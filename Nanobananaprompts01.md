@@ -2,6 +2,7 @@
 
 ##    Prompt
 
+*   [案例 151：厨师服极其精细的微缩场景 ](#prompt-151)
 *   [案例 150：一副12张独立照片的秋季时尚拼贴图 ](#prompt-150)
 *   [案例 149：手举轻托着一个城市3D收藏级立体模型 ](#prompt-149)
 *   [案例 148：品牌披萨摄影棚照片 ](#prompt-148)
@@ -52,6 +53,20 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-151"></a>
+### 案例 151：厨师服极其精细的微缩场景
+
+<img src="./images/bananaprompt/151.png" width="300" alt="Awesome GPT-4o Image Prompts-厨师服极其精细的微缩场景">
+
+**提示词：**
+```
+Extreme detailed miniature diorama: A tiny chef's jacket held between two human fingers, suspended by a wooden hanger. Inside the jacket interior, a complex wooden scaffolding structure. Tiny chef figures (microscopic scale) - one cooking and preparing dishes within tiny pocket kitchens, one plating and presenting food, one organizing tiny kitchen equipment and ingredients. The chef's jacket shows intricate fabric texture with visible chef's buttons and pocket details. Realistic miniature photography, soft diffused lighting. Scale: human fingers → tiny chef jacket → microscopic chef figures. Background: warm wood tones, soft shadows. Whimsical mood - a miniature cooking station contained within physical chef's jacket.
+```
+**中文提示词：**
+```
+极其精细的微缩场景：一件迷你厨师服被两根手指夹住，悬挂在木制衣架上。厨师服内部是一个复杂的木制脚手架结构。几个微型厨师人偶（微观比例）——一个在微型厨房里烹饪和准备菜肴，一个摆盘展示美食，一个整理微型厨房用具和食材。厨师服展现出精细的织物纹理，连厨师纽扣和口袋的细节都清晰可见。逼真的微缩摄影，柔和的漫射光。比例：手指→迷你厨师服→微型厨师人偶。背景：温暖的木色调，柔和的阴影。营造出一种奇幻的氛围——一个微型烹饪台被巧妙地隐藏在一件真实的厨师服之中。
+```
 
 <a id="prompt-150"></a>
 ### 案例 150：一副12张独立照片的秋季时尚拼贴图
