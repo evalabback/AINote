@@ -2,6 +2,9 @@
 
 ##    Prompt
 
+*   [案例 154：巨大的时尚弧形3D广告牌上的女士 ](#prompt-154)
+*   [案例 153：超高清4K皮克斯风格的3D肖像 ](#prompt-153)
+*   [案例 152：大尺寸的iPhone 17 Pro Max场景 ](#prompt-152)
 *   [案例 151：厨师服极其精细的微缩场景 ](#prompt-151)
 *   [案例 150：一副12张独立照片的秋季时尚拼贴图 ](#prompt-150)
 *   [案例 149：手举轻托着一个城市3D收藏级立体模型 ](#prompt-149)
@@ -53,6 +56,256 @@
 *   [案例 103：魔法窗口 ](#prompt-103)
 *   [案例 102：疯狂的程序喵 ](#prompt-102)
 *   [案例 101：电视屏幕内容复制到油画中 ](#prompt-101)
+
+<a id="prompt-154"></a>
+### 案例 154：巨大的时尚弧形3D广告牌上的女士
+
+<img src="./images/bananaprompt/154.png" width="300" alt="Awesome GPT-4o Image Prompts-巨大的时尚弧形3D广告牌上的女士">
+
+**提示词：**
+```
+A giant fashion curve edge 3D anamorphic billboard on the side of a modern building in a busy crossroad. On the 3D billboard is a woman (from attached image) styled in an office outfit. He's playing with a car toys inside billboard but his hand come out off the billboard and holding the actual size  car on the street. Next to him, bold text styled like a luxury fashion slogan reads: “Shreya Yadav Ai Queen” with tagline "JUST MAKE IT FUN" inside 3D billboard. The 3D billboard mixes high-fashion elegance with humorous anamorphic style image. Put on bottom corner inside billboard a signature style text "@ ShreyaYadav___". Photorealistic, stylish, culturally modern, and meme-inspired. 3:4 framing.
+Signature: Shreya Yadav
+```
+**中文提示词：**
+```
+在繁忙的十字路口，一座现代建筑的侧面矗立着一块巨大的时尚弧形3D变形广告牌。广告牌上是一位身着职业装的女士（见附图）。她正在广告牌内玩玩具车，但她的手却从广告牌中伸出，握着一辆与实物大小相同的玩具车。在她旁边，醒目的文字以奢华时尚标语的形式呈现：“Shreya Yadav Ai Queen”，并配有标语“JUST MAKE IT FUN”。这块3D广告牌融合了高级时尚的优雅和幽默的变形风格。广告牌底部角落印有标志性的文字"@ “ShreyaYadav ___ ”。画面逼真、时尚、充满现代文化气息，并融入了网络迷因元素。采用3:4的画面比例。
+签名：Shreya Yadav
+```
+
+<a id="prompt-153"></a>
+### 案例 153：超高清4K皮克斯风格的3D肖像
+
+<img src="./images/bananaprompt/153.png" width="300" alt="Awesome GPT-4o Image Prompts-超高清4K皮克斯风格的3D肖像">
+
+**提示词：**
+```
+Ultra HD 4K Pixar-style 3D portrait of a young couple attempting a selfie on a city rooftop at golden hour. The boy accidentally sneezes mid-shot, eyes half-closed and cheeks puffed out, while the girl bursts out laughing, leaning away from him with her phone tilted and out of frame. They wear casual evening clothes—he in a graphic tee and joggers,she in a hoodie and denim shorts. The warm sunset paints the sky in orange and pink hues, with pigeons flying past and laundry fluttering in the background. Camera angle slightly low and tilted to enhance the chaotic moment, emphasizing their exaggerated cartoon-like expressions.
+```
+**中文提示词：**
+```
+一段超高清4K皮克斯风格的3D肖像，描绘了一对年轻情侣在日落时分于城市屋顶自拍的场景。男孩在拍摄过程中不小心打了个喷嚏，双眼半闭，脸颊鼓鼓的；女孩则哈哈大笑，身子向后倾斜，手机也移出了画面。两人身着休闲晚装——男孩穿着印花T恤和运动裤，女孩穿着连帽衫和牛仔短裤。温暖的夕阳将天空染成橙粉相间的色彩，鸽子在空中飞翔，背景中飘动着衣物。镜头角度略低并倾斜，突出了这一略显混乱的瞬间，强调了他们夸张的卡通式表情。
+```
+
+<a id="prompt-152"></a>
+### 案例 152：大尺寸iPhone 17 Pro Max场景
+
+<img src="./images/bananaprompt/152.png" width="300" alt="Awesome GPT-4o Image Prompts-大尺寸iPhone 17 Pro Max场景">
+
+**提示词：**
+```
+{
+  "meta": {
+    "type": "Creative Brief",
+    "genre": "Hyper-realistic Surrealism",
+    "composition_style": "Composite Portrait",
+    "aspect_ratio": "Portrait (implied by 'portrait' description)"
+  },
+  "scene_architecture": {
+    "viewpoint": {
+      "type": "Photographic",
+      "angle": "High-angle / Looking down",
+      "framing": "Tight on central subject"
+    },
+    "dimensional_hierarchy": {
+      "rule": "Scale disparity for surreal effect",
+      "dominant_element": "iPhone 17 Pro Max (Super-scaled)",
+      "subordinate_elements": ["Blue Book (Miniature)", "Pen (Miniature)"]
+    }
+  },
+  "realm_physical": {
+    "description": "The real-world environment surrounding the device.",
+    "environment": {
+      "surface": "Wooden table",
+      "texture_attributes": ["rich grain", "tactile", "worn"]
+    },
+    "lighting_global": {
+      "source": "Natural light",
+      "temperature": "Warm",
+      "shadow_quality": "Soft, diffused, volumetric"
+    },
+    "active_agent": {
+      "identity": "Human Hand (Real)",
+      "action": "Pouring",
+      "position": "Entering frame laterally"
+    },
+    "held_object": {
+      "item": "Bottle",
+      "state": "Chilled (visible condensation)",
+      "branding": {
+        "logo_text": "Decamin",
+        "placement": "Visible on label"
+      },
+      "contents": {
+        "substance": "Water",
+        "color": "Light Green",
+        "state": "Liquid flow"
+      }
+    },
+    "static_props": [
+      {
+        "item": "Book",
+        "color": "Blue",
+        "scale_notes": "Significantly smaller than phone"
+      },
+      {
+        "item": "Pen",
+        "type": "Ballpoint/Ink",
+        "scale_notes": "Significantly smaller than phone"
+      }
+    ]
+  },
+  "realm_digital": {
+    "description": "The content displayed on the screen.",
+    "container_device": {
+      "model": "iPhone 17 Pro Max",
+      "state": "Screen ON",
+      "orientation": "Flat on physical surface"
+    },
+    "screen_content": {
+      "subject_identity": "mqn (Reference ID)",
+      "subject_scale": "Close-up (filling screen)",
+      "expression": "Happy / Smiling",
+      "attire": "Winter clothing (matching reference)",
+      "setting": "Winter landscape / snowy backdrop",
+      "held_object_digital": {
+        "item": "Drinking Glass",
+        "branding": {
+          "logo_text": "Decamin",
+          "visibility": "Clear"
+        },
+        "initial_state": "Empty (waiting for pour)"
+      }
+    }
+  },
+  "surreal_bridge_event": {
+    "description": "The interaction connecting the physical and digital realms.",
+    "action_type": "Trans-dimensional Fluid Dynamics",
+    "source": "realm_physical.held_object.contents (Light Green Water)",
+    "interaction_point": "realm_digital.container_device.screen_surface",
+    "destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+    "physics_violation_rules": {
+      "rule_1": "Liquid does not splash off the glass screen surface.",
+      "rule_2": "Screen surface acts as a permeable membrane solely for this liquid.",
+      "rule_3": "Physical liquid transitions seamlessly into digital representation upon contact."
+    },
+    "visual_details": ["Sharp liquid simulation", "No surface tension on screen glass", "Fluid physically filling digital cup"]
+  },
+  "rendering_specifications": {
+    "visual_fidelity": "Hyper-realistic",
+    "texture_focus": ["Sharp fluid details", "Glass pixels", "Wood grain", "Skin texture (hand and subject)"],
+    "mood": "Cinematic, warm, magical",
+    "resolution_target": "8K / Highly detailed"
+  }
+}
+```
+**中文提示词：**
+```
+{
+"meta": {
+"type": "创意简报",
+“类型”： “超现实主义超现实主义”
+"composition_style": "合成肖像",
+"aspect_ratio": "竖屏（由“竖屏”描述暗示）"
+},
+"场景架构": {
+"观点": {
+"type": "Photographic",
+"角度": "高角度/向下看",
+构图：聚焦中心主体
+},
+"dimensional_hierarchy": {
+“规则”：“利用尺度差异产生超现实效果”，
+"dominant_element": "iPhone 17 Pro Max（超大尺寸）",
+"subordinate_elements": ["蓝皮书（袖珍版）", "钢笔（袖珍版）"]
+}
+},
+"realm_physical": {
+“描述”：“设备周围的真实环境。”
+“环境”： {
+“表面”：“木桌”，
+"texture_attributes": ["丰富的纹理", "触感", "磨损"]
+},
+"lighting_global": {
+“来源”：“自然光”，
+“温度”： “温暖”，
+"shadow_quality": "柔和、漫射、立体"
+},
+"active_agent": {
+“身份”：“人手（真实）”
+“动作”: “倾倒”
+“位置”： “横向进入画面”
+},
+"held_object": {
+"item": "瓶子",
+“状态”：“冷藏（可见冷凝水）”
+品牌推广：{
+"logo_text": "Decamin",
+“位置”： “在标签上可见”
+},
+“内容”： {
+“物质”： “水”，
+颜色：浅绿色，
+“状态”：“液体流动”
+}
+},
+"static_props": [
+{
+"item": "书",
+“颜色”： “蓝色”，
+"scale_notes": "比手机小得多"
+},
+{
+“物品”: “钢笔”，
+"type": "圆珠笔/墨水笔",
+"scale_notes": "比手机小得多"
+}
+]
+},
+"realm_digital": {
+“描述”：“屏幕上显示的内容。”
+"container_device": {
+“型号”：“iPhone 17 Pro Max”，
+"state": "屏幕开启",
+“方向”: “平放在物理表面上”
+},
+"screen_content": {
+"subject_identity": "mqn（参考 ID）",
+"subject_scale": "特写（充满屏幕）",
+表情：快乐/微笑，
+“服装”：“冬季服装（搭配参考）”
+“场景”：“冬季风景/雪景背景”，
+"held_object_digital": {
+“物品”: “饮水杯”
+品牌推广：{
+"logo_text": "Decamin",
+“能见度”： “清晰”
+},
+"initial_state": "空（等待倾倒）"
+}
+}
+},
+"surreal_bridge_event": {
+描述：连接物理世界和数字世界的互动。
+"action_type": "跨维度流体动力学",
+"source": "realm_physical.held_object.contents (浅绿色水)",
+"交互点": "realm_digital.container_device.screen_surface",
+"destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+"physics_violation_rules": {
+规则1：液体不会从玻璃屏幕表面溅出。
+规则2：屏幕表面仅对该液体起渗透膜的作用。
+“规则 3”：“物理液体在接触后无缝过渡到数字表示。”
+},
+"visual_details": ["清晰的液体模拟", "屏幕玻璃上无表面张力", "液体物理填充数字杯子"]
+},
+"渲染规范": {
+"visual_fidelity": "超逼真",
+"texture_focus": ["清晰的流体细节", "玻璃像素", "木纹", "皮肤纹理（手和主体）"],
+“氛围”：“电影感十足，温暖，充满魔力”，
+"resolution_target": "8K / 高分辨率"
+}
+}
+```
 
 <a id="prompt-151"></a>
 ### 案例 151：厨师服极其精细的微缩场景
